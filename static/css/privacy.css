@@ -1,0 +1,50 @@
+/* static/css/privacy.css */
+p {
+    padding: 5px 2px 2px 2px;
+}
+
+h3 {
+    padding: 15px 0 5px 0;
+}
+
+ul {
+    padding: 0 0 2px 20px;
+}
+
+#blurOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(4px);
+    z-index: 999;
+    display: none;
+}
+
+.slide-popup {
+    position: fixed;
+    right: -600px; /* Changed from -620px to match width */
+    bottom: 60px;
+    width: 600px;
+    max-width: calc(100vw - 60px); /* Ensure it doesn't exceed viewport */
+    max-height: 50vh;
+    overflow-y: auto;
+    background: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    padding: 5px;
+    z-index: 1000;
+    transition: right 0.3s ease-in-out;
+    box-sizing: border-box; /* Include padding in width calculation */
+}
+
+.slide-popup.visible {
+    right: 30px;
+}
+
+/* Prevent body from shifting when popup appears */
+body.popup-open {
+    overflow-x: hidden;
+}

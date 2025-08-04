@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Basic Meta -->
+    <title>{{ page_title }}</title>
+    <meta name="description" content="{{ meta_description }}">
+    <meta name="keywords" content="{{ meta_keywords }}">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ page_title }}">
+    <meta property="og:description" content="{{ meta_description }}">
+    <meta property="og:image" content="{{ og_image }}">
+    <meta property="og:type" content="{{ og_type }}">
+    <meta property="og:url" content="{{ request.url }}">
+
+    <!-- Schema.org structured data -->
+    <script type="application/ld+json">
+    {{ schema_json | safe }}
+    </script>
+
+    <!-- Breadcrumb Schema -->
+    {% if breadcrumbs %}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {% for crumb in breadcrumbs %}
+            {
+                "@type": "ListItem",
+                "position": {{ loop.index }},
+                "name": "{{ crumb.name }}",
+                "item": "{{ request.url_root.rstrip('/') }}{{ crumb.path }}"
+            }{% if not loop.last %},{% endif %}
+            {% endfor %}
+        ]
+    }
+    </script>
+    {% endif %}
+
+    <link rel="icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mobile.css') }}">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7091578096175216" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        {% include 'parts/header.html' %}
+
+        <!-- Breadcrumb Navigation -->
+        {% include 'parts/breadcrumbs.html' %}
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Left Content (Main Gallery) -->
+            <div class="content-area">
+                <!-- Gallery Content -->
+                <div class="content-container">
+                    <div class="accordion-layout" id="accordionLayout">
+
+                        <!-- Guide Column (Resizable) -->
+                        {% if description %}
+                        <div class="accordion-column guide-column" id="guideColumn">
+                            <div class="column-header">
+                                <span>Area Guide</span>
+                                <span class="resize-icon">?</span>
+                            </div>
+                            <div class="guide-column-content">
+                                {{ description | safe }}
+                            </div>
+                        </div>
+                        {% endif %}
+
+                        <!-- Vertical Resize Handle - Drag LEFT/RIGHT to resize columns -->
+                        <div class="resize-handle" data-resize="guideColumn,galleryColumn"></div>
+
+                        <!-- Gallery Column -->
+                        <div class="accordion-column gallery-column" id="galleryColumn">
+                            <div class="gallery-column-content">
+                                <!-- Folders Section -->
+                                {% if contents.folders %}
+                                <div class="column-header">
+                                    <span>Narrow the Area</span>
+                                </div>
+                                <div class="folder-grid">
+                                    {% for folder in contents.folders %}
+                                    <div class="folder-item" data-path="{{ folder.path }}">
+                                        <div class="folder-thumbnail">
+                                            {% if folder.thumbnail.startswith('/static/') %}
+                                            <img src="{{ folder.thumbnail }}" alt="{{ folder.name }}">
+                                            {% else %}
+                                            <img src="{{ url_for('serveContent', filename=folder.thumbnail) }}" alt="{{ folder.name }}">
+                                            {% endif %}
+                                            <div class="folder-overlay">
+                                                <img src="/static/img/folder-icon.png" alt="Folder">
+                                            </div>
+                                        </div>
+                                        <div class="folder-name">{{ folder.name }}</div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                                {% endif %}
+
+                                <!-- Images Section -->
+                                {% if contents.images %}
+                                <div class="column-header">
+                                    <span>Browse Some Pictures</span>
+                                </div>
+                                <div class="image-grid">
+                                    {% for image in contents.images %}
+                                    <div class="image-item" image-fullTitle="{{ image.metadata.fullTitle }}" data-path="{{ image.relativePathWithName }}">
+                                        <div class="image-thumbnail">
+                                            <img src="{{ url_for('serveContent', filename=image.relativePathWithName) }}" alt="{{ image.metadata.title }}">
+                                        </div>
+                                        <div class="image-title">{{ image.metadata.title }}</div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                                {% endif %}
+
+                                <!-- No Content Message -->
+                                {% if not contents.folders and not contents.images %}
+                                <div class="no-content">
+                                    <p>This folder is empty.</p>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% include 'parts/footer.html' %}
+    </div>
+
+    <!-- Image Modal This loads an image full size and has a button to display the commentDrawer -->
+    <div id="imageModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+
+            <div class="touch-indicator">Swipe left/right to navigate</div>
+            <div class="keyboard-hint">Use arrow keys or ESC to navigate</div>
+
+            <!-- Navigation arrows -->
+            <button id="prevImage" class="nav-arrow left" title="Previous Image">‹</button>
+            <button id="nextImage" class="nav-arrow right" title="Next Image">›</button>
+
+            <!-- Image container -->
+            <div class="modal-image-container">
+                <img id="modalImage" data-image-name="" alt="Modal Image">
+            </div>
+
+            <!-- Title and comments positioned outside image container -->
+            <div class="modal-controls">
+                <div id="imageTitle" class="modal-image-title"></div>
+                <button id="showComments" class="comments-icon" title="Show Comments">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
+                        <path d="M21 6h-2v9H6v2c0 .55.45 1 1 1h11l4 4V7c0-.55-.45-1-1-1zm-4 6V3c0-.55-.45-1-1-1H3c-.55 0-1 .45-1 1v14l4-4h11c.55 0 1-.45 1-1z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

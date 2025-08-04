@@ -1,0 +1,18 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:exif="http://ns.adobe.com/exif/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+         <exif:GPSLongitude>12.490312796480405</exif:GPSLongitude>
+         <exif:GPSLongitudeRef>E</exif:GPSLongitudeRef>
+         <exif:GPSHPositioningError>1</exif:GPSHPositioningError>
+         <exif:GPSLatitude>41.906752756291041</exif:GPSLatitude>
+         <exif:GPSLatitudeRef>N</exif:GPSLatitudeRef>
+         <exif:GPSTimeStamp>2025-06-28T11:46:04Z</exif:GPSTimeStamp>
+         <dc:title>Via Vittorio Veneto</dc:title>
+         <dc:description>View from 7th floor Boscolo Palace hotel room.  U.S. Embassy in foreground.</dc:description>
+         <photoshop:DateCreated>2013-04-05T09:28:36-06:00</photoshop:DateCreated>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>

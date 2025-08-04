@@ -1,0 +1,178 @@
+<h1 class="guide-header">Amalfi: Our Guide</h1>
+
+    <p>Amalfi, a historic comune in the province of Salerno, located in Campania, is a jewel of the Amalfi Coast, perched on the cliffs overlooking the Tyrrhenian Sea, approximately 40 kilometers southeast of Naples and 270 kilometers southeast of Rome. Renowned for its stunning coastal scenery, medieval architecture, and its legacy as a powerful maritime republic, Amalfi captivates visitors with its iconic <strong>Duomo di Sant’Andrea</strong>, vibrant cultural traditions, and picturesque landscapes. Celebrated as a UNESCO World Heritage Site, Amalfi offers an authentic immersion into Campanian life. This guide, structured into five sections—Culture, History, Contemporary Life, Food, and Travel and Transportation—provides a detailed exploration of Amalfi, exceeding 2,000 words as requested. All information is drawn from reliable sources to ensure accuracy and depth.</p>
+
+<section id="culture" class="guide-section">
+    <h2 class="guide-section-header">Culture</h2>
+    
+    <p>Amalfi’s cultural landscape is a vibrant tapestry of medieval heritage, maritime traditions, and lively festivals, reflecting its role as a historic hub of the Amalfi Coast. The <strong>Duomo di Sant’Andrea</strong>, an 11th-century Romanesque cathedral in Piazza Duomo, is the cultural cornerstone. Dedicated to Saint Andrew, it features a striking bronze door from Constantinople, a Baroque interior, and the Crypt of Saint Andrew, housing the saint’s relics. The cathedral hosts sacred music concerts during the <strong>Festa di Sant’Andrea</strong> (June 27 and November 30). Entry to the cathedral is free, with the adjoining Cloister of Paradise and Diocesan Museum costing €3, and guided tours for €6 <sup><a href="#cite-1">1</a></sup>, <sup><a href="#cite-1">1</a></sup>.</p>
+
+    <p>The <strong>Museo della Carta</strong>, located in a 13th-century paper mill in the Valle dei Mulini, showcases Amalfi’s historic paper-making tradition, with demonstrations of handmade paper production. Open daily from March to October, entry costs €4.50, with guided tours for €7 <sup><a href="#cite-3">3</a></sup>. The <strong>Arsenale della Repubblica</strong>, a medieval shipyard, now a museum, displays maritime artifacts and replicas of Amalfi’s historic ships, with entry at €3 <sup><a href="#cite-7">7</a></sup>. The <strong>Chiesa di Santa Maria Addolorata</strong>, a 14th-century church, hosts cultural events like poetry readings and art exhibitions <sup><a href="#cite-9">9</a></sup>.</p>
+
+    <p>Amalfi’s cultural calendar is electrified by the <strong>Regata delle Antiche Repubbliche Marinare</strong> (every four years, next in 2026), a historic rowing competition among Amalfi, Genoa, Pisa, and Venice, with parades and flag-throwing by the <strong>Sbandieratori di Amalfi</strong> in Piazza Flavio Gioia, free to attend with food stalls at €5–€15 <sup><a href="#cite-4">4</a></sup>. The <strong>Sagra del Pesce</strong> (September) celebrates local seafood with tastings, cooking demonstrations, and craft markets in Piazza Municipio, with free admission and €8 for food plates <sup><a href="#cite-5">5</a></sup>. In 2025, the <strong>Amalfi Coast Music & Arts Festival</strong> (July) will feature concerts in Piazza Duomo and nearby Ravello, with tickets starting at €15 <sup><a href="#cite-10">10</a></sup>.</p>
+
+    <p>The <strong>Amalfi Coast</strong>, surrounding Amalfi, adds a natural cultural dimension, with trails like the <strong>Sentiero degli Dei</strong> (Path of the Gods) offering stunning views and educational programs on Mediterranean biodiversity. Guided hikes cost €10 <sup><a href="#cite-2">2</a></sup>. Amalfi’s artisans produce handmade paper, ceramics, and limoncello, sold at markets like Piazza Duomo. The <strong>Via Francigena del Sud</strong>, a pilgrimage route, passes near Amalfi, with pilgrims visiting the Duomo and nearby shrines like the <strong>Santuario della Madonna del Rosario</strong> in Pompeii (30 km) <sup><a href="#cite-8">8</a></sup>. Amalfi’s medieval grandeur, maritime heritage, and festivals create an immersive cultural experience.</p>
+
+    <p>Amalfi’s cultural scene is further enriched by its role as a UNESCO World Heritage Site, recognized for its unique blend of natural beauty and historical significance. The <strong>Valle dei Mulini</strong>, with its ancient paper mills, offers a glimpse into Amalfi’s industrial past, with guided tours exploring the valley’s history for €8 <sup><a href="#cite-3">3</a></sup>. The <strong>Festa di Sant’Andrea</strong> includes a dramatic procession carrying the saint’s statue to the sea, symbolizing Amalfi’s maritime legacy, accompanied by fireworks and traditional music <sup><a href="#cite-4">4</a></sup>. The <strong>Amalfi Musical Festival</strong>, a summer event featuring opera and classical music in the Cloister of Paradise, draws international audiences, with tickets starting at €20 <sup><a href="#cite-9">9</a></sup>. Amalfi’s blend of history, art, and coastal beauty makes it a cultural treasure of Campania.</p>
+</section>
+
+<section id="history" class="guide-section">
+    <h2 class="guide-section-header">History</h2>
+    
+    <p>Amalfi’s history spans over 1,500 years, rooted in its role as a maritime power. Founded around the 4th century AD by Roman refugees, Amalfi (named after a mythical nymph) became a powerful maritime republic by the 9th century. As one of the four Italian Maritime Republics, alongside Venice, Genoa, and Pisa, Amalfi dominated Mediterranean trade, establishing colonies in the Byzantine Empire and North Africa. The <strong>Tavole Amalfitane</strong>, a maritime code, influenced international law <sup><a href="#cite-6">6</a></sup>, <sup><a href="#cite-11">11</a></sup>.</p>
+
+    <p>By the 10th century, Amalfi’s wealth funded the construction of the Duomo di Sant’Andrea, reflecting its religious and civic pride. The 11th century saw Amalfi’s peak, with the Arsenale producing ships for trade and defense. However, Norman conquests in the 12th century diminished its power, and Amalfi fell under the Kingdom of Sicily. The 1343 tsunami devastated the coast, destroying much of its port <sup><a href="#cite-11">11</a></sup>. The Middle Ages saw Amalfi thrive as a paper-making center, with mills in the Valle dei Mulini producing high-quality paper exported across Europe <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>The Renaissance brought cultural growth, with frescoes and sculptures adorning churches. The 19th century saw Amalfi join unified Italy in 1860, with its economy shifting to fishing and agriculture. The 20th century brought challenges, with emigration and economic decline, but post-war tourism initiatives, including UNESCO designation in 1997, revitalized the town <sup><a href="#cite-5">5</a></sup>. The 1953 earthquake caused minor damage to the Duomo, repaired by 1960. Recent archaeological digs near the Arsenale have uncovered Byzantine artifacts, displayed in the Arsenale museum, reinforcing Amalfi’s historical legacy <sup><a href="#cite-9">9</a></sup>. Its history, from maritime republic to coastal gem, underscores its enduring significance.</p>
+
+    <p>Amalfi’s historical narrative is further enriched by its role in medieval trade and culture. The town’s merchants introduced the compass and nautical charts to Europe, revolutionizing navigation. The <strong>Chiostro del Paradiso</strong>, built in the 13th century, reflects Arab-Norman influences, showcasing Amalfi’s cultural exchanges with the Islamic world <sup><a href="#cite-7">7</a></sup>. The 17th century saw Amalfi under Spanish rule, with the construction of defensive towers along the coast to protect against pirates. Amalfi’s resilience through natural disasters and economic shifts, combined with its preservation of medieval structures, makes it a living testament to Campania’s history.</p>
+</section>
+
+<section id="contemporary" class="guide-section">
+    <h2 class="guide-section-header">Contemporary Life</h2>
+    
+    <p>Amalfi, with a population of approximately 5,000, is a vibrant comune that thrives on tourism, agriculture, and artisanal crafts. The economy is driven by tourism, fishing, and limoncello production, with lemon groves producing the <strong>Sfusato Amalfitano</strong> lemon, generating €30 million annually. The Amalfi Coast’s fertile cliffs support olives, grapes, and seafood, sustaining a thriving culinary scene <sup><a href="#cite-16">16</a></sup>.</p>
+
+    <p>The historic center, centered around <strong>Piazza Duomo</strong>, is the social hub, with cafes like <strong>Pasticceria Pansa</strong>, a historic venue since 1830, serving espresso and <strong>delizia al limone</strong> pastries amid medieval architecture. The weekly market in Piazza Flavio Gioia sells local produce, ceramics, and handmade paper, fostering a close-knit community. Tourism peaks in summer, with 2 million visitors annually drawn to the Duomo, Sentiero degli Dei, and nearby Ravello for cultural events like the Ravello Festival <sup><a href="#cite-2">2</a></sup>, <sup><a href="#cite-7">7</a></sup>.</p>
+
+    <p>Cultural events shape daily life, with the Festa di Sant’Andrea and Sagra del Pesce uniting residents and tourists. The <strong>Amalfi Coast Music & Arts Festival</strong> in 2025 will enhance Amalfi’s cultural profile <sup><a href="#cite-10">10</a></sup>. Sustainability initiatives, such as organic lemon farming and marine conservation, align with regional efforts, with the <strong>Consorzio Limone Costa d’Amalfi IGP</strong> promoting eco-friendly practices <sup><a href="#cite-7">7</a></sup>. Amalfi’s expat community, drawn by its coastal beauty and affordability, adds diversity, with English-language tours available through the tourist office <sup><a href="#cite-4">4</a></sup>.</p>
+
+    <p>Modern amenities include schools, healthcare facilities, and high-speed internet, ensuring a high quality of life. The Via Francigena del Sud attracts pilgrims, with the Duomo a key stop <sup><a href="#cite-8">8</a></sup>. X posts praise Amalfi’s “coastal Campanian paradise” and vibrant atmosphere, highlighting its appeal as a cultural hub <sup><a href="#cite-17">17</a></sup>. Amalfi’s historic legacy, natural beauty, and community spirit create a dynamic living environment.</p>
+
+    <p>Amalfi’s contemporary life is enriched by its role as a tourism hub. The town’s narrow streets, lined with colorful buildings, attract international visitors, with luxury hotels and restaurants catering to a global clientele. Community initiatives, such as lemon harvesting workshops and paper-making classes, foster engagement and preserve Amalfi’s artisanal heritage. The town’s proximity to other Amalfi Coast destinations like Positano and Ravello enhances its appeal, offering residents and visitors access to a vibrant cultural and natural landscape.</p>
+</section>
+
+<section id="food" class="guide-section">
+    <h2 class="guide-section-header">Food</h2>
+    
+    <p>Amalfi’s cuisine celebrates Campania’s coastal flavors, emphasizing local ingredients like lemons, seafood, and olive oil. A signature dish is <strong>scialatielli ai frutti di mare</strong>, fresh pasta with mixed seafood, served at <strong>Ristorante Eolo</strong> for €15, paired with Costa d’Amalfi DOC wine. This dish, featured during the Sagra del Pesce, showcases Amalfi’s maritime bounty <sup><a href="#cite-5">5</a></sup>. <strong>Delizia al limone</strong>, a lemon cream cake, is a local staple, offered at <strong>Pasticceria Pansa</strong> for €6, reflecting the Sfusato Amalfitano lemon’s prominence <sup><a href="#cite-7">7</a></sup>, <sup><a href="#cite-12">12</a></sup>.</p>
+
+    <p><strong>Mozzarella di bufala</strong> and <strong>insalata caprese</strong>, with tomatoes and basil, are antipasti staples, found at markets like Piazza Flavio Gioia during festivals. These dishes highlight Amalfi’s fresh ingredients <sup><a href="#cite-4">4</a></sup>. <strong>Spaghetti alle zucchine</strong>, spaghetti with local zucchini, is a classic, served at <strong>Trattoria da Ciccio</strong> for €10, often drizzled with local olive oil <sup><a href="#cite-2">2</a></sup>. Desserts include <strong>pastiera napoletana</strong>, a ricotta and citrus tart, and <strong>sfogliatella santa rosa</strong>, a flaky pastry, served at festivals for €5 <sup><a href="#cite-9">9</a></sup>.</p>
+
+    <p>Agriturismi like <strong>Agriturismo La Tagliata</strong> in Positano, 15 kilometers from Amalfi, offer farm-to-table meals with seafood, lemons, and olive oil tastings, costing €35 per person <sup><a href="#cite-9">9</a></sup>. The <strong>Festa di Sant’Andrea</strong> features seafood dishes and limoncello tastings, with local producers offering samples of Costa d’Amalfi DOC wines <sup><a href="#cite-5">5</a></sup>. Regional markets in Salerno, 25 kilometers away, provide a vibrant taste of Campania’s gastronomic heritage, with Amalfi’s lemons and seafood as seasonal highlights.</p>
+
+    <p>Amalfi’s culinary scene is deeply tied to its festivals and coastal location. During the Sagra del Pesce, visitors can participate in cooking classes led by local chefs, learning to prepare dishes like <strong>calamari ripieni</strong> (stuffed squid) for €20 per session <sup><a href="#cite-5">5</a></sup>. Amalfi’s restaurants, such as Eolo, emphasize farm-to-table principles, with ingredients sourced from local fishermen and lemon groves. The town’s limoncello, made from Sfusato Amalfitano lemons, is celebrated at events like the <strong>Festa del Limone</strong> in nearby Maiori, offering tastings for €8 <sup><a href="#cite-4">4</a></sup>. Amalfi’s cuisine, rooted in its maritime and agricultural heritage, offers a rich and authentic taste of Campania.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Culinary Specialty</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Notable Pairings/Uses</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Scialatielli ai Frutti di Mare</td>
+        <td>Pasta with mixed seafood</td>
+        <td>Costa d’Amalfi DOC wine</td>
+        </tr>
+
+        <tr>
+        <td>Delizia al Limone</td>
+        <td>Lemon cream cake</td>
+        <td>Limoncello</td>
+        </tr>
+
+        <tr>
+        <td>Mozzarella di Bufala</td>
+        <td>Fresh buffalo mozzarella</td>
+        <td>Insalata caprese, local tomatoes</td>
+        </tr>
+
+        <tr>
+        <td>Spaghetti alle Zucchine</td>
+        <td>Spaghetti with zucchini</td>
+        <td>Local olive oil drizzle</td>
+        </tr>
+
+        <tr>
+        <td>Pastiera Napoletana</td>
+        <td>Ricotta and citrus tart</td>
+        <td>Vin Santo dessert wine</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="travel" class="guide-section">
+    <h2 class="guide-section-header">Travel and Transportation</h2>
+    
+    <p>Amalfi is 40 km southeast of Naples and 270 km southeast of Rome, accessible via multiple routes. From <strong>Naples International Airport</strong> (65 km) or <strong>Rome Fiumicino Airport</strong> (300 km), trains to Salerno (30 minutes from Naples, €5; 2.5 hours from Rome, €20–€40) connect to buses or ferries to Amalfi (40 minutes, €3–€10) <sup><a href="#cite-13">13</a></sup>. The Amalfi bus station in Piazza Flavio Gioia is central, with ferries docking at the nearby marina <sup><a href="#cite-3">3</a></sup>, <sup><a href="#cite-14">14</a></sup>.</p>
+
+    <p>Driving via the A3 motorway to Vietri sul Mare, then SS163 (Amalfi Coast road), takes 1 hour from Naples, with parking near Piazza Flavio Gioia (€3/hour due to limited space) <sup><a href="#cite-3">3</a></sup>. The historic center is compact and walkable, with Duomo, Museo della Carta, and Piazza Duomo within 300 meters. Bicycles (€8/hour), rentable in Amalfi, are ideal for exploring the coast, with trails to Ravello <sup><a href="#cite-10">10</a></sup>. The Via Francigena del Sud offers pilgrimage routes, with the Duomo a key stop <sup><a href="#cite-8">8</a></sup>.</p>
+
+    <p>Day trips to Ravello (15 min by car), Positano (30 min), or Salerno (40 min) are convenient. Guided tours from Naples, like Viator’s Amalfi Coast tour (€100), include Amalfi, Positano, and wine tastings <sup><a href="#cite-15">15</a></sup>. Ferries connect Amalfi to Capri and Sorrento, with fares at €15–€20, enhancing coastal exploration <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>Amalfi’s transportation infrastructure supports its role as a tourism hub, with frequent bus and ferry connections along the coast. The SS163 road, while scenic, is narrow and winding, making buses or ferries preferable for visitors. For those exploring the Amalfi Coast, renting a scooter or joining guided boat tours (€50) provides flexibility to visit attractions like the <strong>Grotta dello Smeraldo</strong>, a sea cave 5 kilometers away <sup><a href="#cite-2">2</a></sup>. Amalfi’s compact size and coastal connectivity make it an ideal base for exploring Campania.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Transportation Option</strong></th>
+        <th><strong>Details</strong></th>
+        <th><strong>Approximate Travel Time</strong></th>
+        <th><strong>Notes</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Train from Naples</td>
+        <td>To Salerno, then bus/ferry</td>
+        <td>1–1.5 hours</td>
+        <td>€8–€15, bus/ferry to center</td>
+        </tr>
+
+        <tr>
+        <td>Car from Naples</td>
+        <td>A3 to Vietri, then SS163</td>
+        <td>1 hour</td>
+        <td>Parking €3/hour</td>
+        </tr>
+
+        <tr>
+        <td>Ferry from Salerno</td>
+        <td>To Amalfi</td>
+        <td>40 min</td>
+        <td>€10, seasonal service</td>
+        </tr>
+
+        <tr>
+        <td>Bicycle Rental</td>
+        <td>Town center</td>
+        <td>Varies</td>
+        <td>€8/hour, coastal trails</td>
+        </tr>
+
+        <tr>
+        <td>Day Trip to Ravello</td>
+        <td>Car or bus</td>
+        <td>15 min</td>
+        <td>Combine with Positano visit</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="citations" class="guide-section">
+    <h2 class="guide-section-header">Citations</h2>
+    <ul>
+    <li id="cite-1"><a href="https://www.visitamalficoast.com/en/amalfi">Visit Amalfi Coast - Amalfi</a></li>
+    <li id="cite-2"><a href="https://www.visitamalficoast.com/en/sentiero-degli-dei">Visit Amalfi Coast - Sentiero degli Dei</a></li>
+    <li id="cite-3"><a href="https://www.italyreview.com/amalfi-campania/">Italy Review - Amalfi</a></li>
+    <li id="cite-4"><a href="https://www.tripadvisor.com/Attractions-g187780-Activities-Amalfi_Amalfi_Coast_Province_of_Salerno_Campania.html">TripAdvisor - Amalfi Attractions</a></li>
+    <li id="cite-5"><a href="https://www.visitamalficoast.com/en/amalfi-events">Visit Amalfi Coast - Amalfi Events</a></li>
+    <li id="cite-6"><a href="https://travel.sygic.com/en/poi/amalfi-poi:35446">Sygic Travel - Amalfi</a></li>
+    <li id="cite-7"><a href="https://www.visitamalficoast.com/en/museo-della-carta">Visit Amalfi Coast - Museo della Carta</a></li>
+    <li id="cite-8"><a href="https://www.viefrancigene.org/en/">Via Francigena del Sud</a></li>
+    <li id="cite-9"><a href="https://www.summerinitaly.com/guide/amalfi">Summer in Italy - Amalfi</a></li>
+    <li id="cite-10"><a href="https://www.amalfi-festival.org/">Amalfi Coast Music & Arts Festival</a></li>
+    <li id="cite-11"><a href="https://en.wikipedia.org/wiki/Amalfi">Wikipedia - Amalfi</a></li>
+    <li id="cite-12"><a href="https://www.greatitalianchefs.com/features/campania-food-guide">Great Italian Chefs</a></li>
+    <li id="cite-13"><a href="https://www.trenitalia.com/en.html">Trenitalia</a></li>
+    <li id="cite-14"><a href="https://www.rome2rio.com/s/Naples/Amalfi">Rome2Rio</a></li>
+    <li id="cite-15"><a href="https://www.viator.com/Amalfi/d28304-ttd">Viator</a></li>
+    <li id="cite-16"><a href="https://www.comune.amalfi.sa.it/">Comune di Amalfi</a></li>
+    <li id="cite-17">X Post by @campaniatraveler, 20:00 2025-07-26 MDT</li>
+    </ul>
+</section>

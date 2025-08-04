@@ -1,0 +1,29 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:exif="http://ns.adobe.com/exif/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+         <exif:GPSHPositioningError>6.4603212851405623</exif:GPSHPositioningError>
+         <exif:GPSImgDirection>83.55047607421875</exif:GPSImgDirection>
+         <exif:GPSAltitudeRef>0</exif:GPSAltitudeRef>
+         <exif:GPSAltitude>48.083429323679447</exif:GPSAltitude>
+         <exif:GPSLatitudeRef>N</exif:GPSLatitudeRef>
+         <exif:GPSLatitude>43.772908333333334</exif:GPSLatitude>
+         <exif:GPSLongitudeRef>E</exif:GPSLongitudeRef>
+         <exif:GPSLongitude>11.254761666666667</exif:GPSLongitude>
+         <exif:GPSImgDirectionRef>T</exif:GPSImgDirectionRef>
+         <exif:GPSSpeed>0.49002563942217503</exif:GPSSpeed>
+         <exif:GPSSpeedRef>K</exif:GPSSpeedRef>
+         <exif:GPSTimeStamp>2025-02-19T10:19:17Z</exif:GPSTimeStamp>
+         <dc:title>Piazza San Giovanni</dc:title>
+         <dc:description>Cathedral and Bell Tower with handsome Italiam man</dc:description>
+         <dc:subject>
+            <rdf:Seq>
+               <rdf:li>Gerard</rdf:li>
+            </rdf:Seq>
+         </dc:subject>
+         <photoshop:DateCreated>2025-02-19T11:19:18+01:00</photoshop:DateCreated>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>

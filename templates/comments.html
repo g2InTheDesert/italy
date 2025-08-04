@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comments - {{ imageTitle }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mobile.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/comments.css') }}">
+    <!-- Comments-specific JavaScript -->
+    <script src="{{ url_for('static', filename='js/comments.js') }}"></script>
+</head>
+<body>
+    <div class="comments-modal">
+        <div class="drawer-header">
+            <div id="drawer-header">
+                <h3>Comments - {{ imageTitle }}</h3>
+            </div>
+            <button onclick="window.close()" class="drawer-close">×</button>
+        </div>
+
+        <div class="drawer-content">
+            <!-- Left side: Existing Comments -->
+            <div class="comments-section">
+                <div class="comments-section-header">
+                    <h4>All Comments</h4>
+                </div>
+                <div id="comments-container">
+                    {% if request.args.get('error') %}
+                        <div class="error-message">
+                            Error loading comments: {{ request.args.get('error') }}
+                        </div>
+                    {% endif %}
+
+                    {% if comments %}
+                        {% for comment in comments %}
+                            <div class="comment">
+                                <div class="comment-header">
+                                    <span class="comment-author">{{ comment.author }}</span>
+                                    <span class="comment-date">{{ comment.created | format_date }}</span>
+                                </div>
+                                <div class="comment-text">{{ comment.comment }}</div>
+                            </div>
+                        {% endfor %}
+                    {% else %}
+                        <p class="no-comments">No comments yet. Be the first!</p>
+                    {% endif %}
+                </div>
+            </div>
+
+            <!-- Right side: Add Comment Form -->
+            <div class="add-comment-section">
+                <div class="add-comment-header">
+                    <h4>Add Comment</h4>
+                </div>
+                <div class="add-comment">
+                    {% if request.args.get('success') %}
+                        <div class="success-message">
+                            {{ request.args.get('success') }}
+                        </div>
+                    {% endif %}
+
+                    <form id="commentForm" action="{{ url_for('addCommentServer') }}" method="POST">
+                        <input type="hidden" name="imageName" value="{{ imageName }}">
+                        <input type="hidden" name="imageTitle" value="{{ imageTitle }}">
+                        <div class="form-group">
+                            <label for="author">Name:</label>
+                            <input type="text" id="author" name="author" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="comment">Comment:</label>
+                            <textarea id="comment" name="comment" rows="3" required></textarea>
+                        </div>
+                        <button type="submit" class="btn-submit">Submit Comment</button>
+                    </form>
+
+                    <!-- AJAX fallback form (hidden by default) -->
+                    <form id="ajaxCommentForm" style="display: none;">
+                        <input type="hidden" name="imageName" value="{{ imageName }}">
+                        <div class="form-group">
+                            <label for="ajaxAuthor">Name:</label>
+                            <input type="text" id="ajaxAuthor" name="author" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="ajaxComment">Comment:</label>
+                            <textarea id="ajaxComment" name="comment" rows="3" required></textarea>
+                        </div>
+                        <button type="submit" class="btn-submit">Submit Comment (AJAX)</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

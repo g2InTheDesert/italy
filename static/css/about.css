@@ -1,0 +1,204 @@
+/* static/css/about.css */
+.about-container {
+  @extend .container;
+  width: 60%;
+}
+
+.about-section {
+    margin: 5px 5px 0px 5px;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.about-section:nth-child(even) {
+    animation-delay: 0.2s;
+}
+
+.about-section h2 {
+    font-size: 2.2em;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: center;
+    position: relative;
+}
+
+.about-section h2::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 2px;
+}
+
+.about-section p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #666;
+    margin: 0 auto 20px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+/* Updated section with image styles */
+.about-section.with-image {
+    position: relative;
+    text-align: center;
+    order-color: #ff6b6b;
+}
+
+.about-section.with-image h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-section.with-image h2::after {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.about-section.with-image p {
+    text-align: center;
+    margin: 0 auto 20px;
+}
+
+/* Image positioning - float for text wrapping */
+.about-section-image {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    margin: 0 20px 20px 0;
+    float: right;
+}
+
+.about-section.with-image.image-left .about-section-image {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.about-section.with-image.image-right .about-section-image {
+    float: right;
+    margin: 0 0 20px 20px;
+}
+
+.about-section-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    background: #ddd;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.about-section-image img:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Clear floats after sections with images */
+.about-section.with-image::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+/* Remove the flex layout and content wrapper */
+.about-section-content {
+    /* Remove all flex-related styles */
+}
+
+.about-text-content {
+    line-height: var(--line-height-relaxed);
+    font-size: var(--font-size-base);
+    color: var(--text-secondary);
+}
+
+.about-text-content h3 {
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+}
+
+.about-text-content p {
+    margin-bottom: 1rem;
+}
+
+/* ###############################################################################
+   About Page Mobile
+   #############################################################################*/
+@media (max-width: 768px) {
+    /* Make about content full width */
+    .about-container,
+    .about-content {
+        width: 100%;
+    }
+
+    .about-section {
+        margin-bottom: var(--spacing-md);
+        padding: var(--spacing-md);
+    }
+
+    /* Mobile text styles */
+    .about-section p {
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: var(--spacing-sm);
+    }
+
+    /* Mobile image handling - smaller and better wrapping */
+    .about-section.with-image {
+        position: relative;
+    }
+
+    .about-section-image {
+        width: 120px; /* Smaller on mobile */
+        padding: 5px;
+        margin: 0 15px 15px 0; /* Reduced margins */
+    }
+
+    .about-section.with-image.image-left .about-section-image {
+        float: left;
+        margin: 0 15px 15px 0;
+    }
+
+    .about-section.with-image.image-right .about-section-image {
+        float: right;
+        margin: 0 0 15px 15px;
+    }
+
+    /* Ensure proper text wrapping on mobile */
+    .about-section.with-image p {
+        text-align: center;
+        margin: 0 auto 15px;
+    }
+
+    /* Clear floats on mobile too */
+    .about-section.with-image::after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+
+    /* About Text */
+    .about-text-content {
+        padding: var(--spacing-lg) var(--spacing-md);
+        max-width: 100%;
+        width: 100%;
+    }
+}
+
+/* Very small screens - stack images */
+@media (max-width: 480px) {
+    .about-section-image {
+        width: 100px; /* Even smaller on very small screens */
+        margin: 0 10px 10px 0;
+    }
+
+    .about-section.with-image.image-left .about-section-image,
+    .about-section.with-image.image-right .about-section-image {
+        margin: 0 10px 10px 0;
+    }
+}

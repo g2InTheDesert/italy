@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Meta Tags -->
+    <title>{% if search_query %}Search: {{ search_query }} - {% endif %}{% if category_filter %}{{ category_filter }} Travel - {% endif %}{% if province_filter %}{{ province_filter }} Guide - {% endif %}{% if city_filter %}{{ city_filter }} Tourism - {% endif %}Visit Italy! Blog{% if page > 1 %} - Page {{ page }}{% endif %}</title>
+
+    <meta name="description" content="{% if search_query %}Discover Italian travel content about {{ search_query }}.{% elif category_filter %}Explore {{ category_filter }} travel guides and tips for Italy.{% elif province_filter %}Complete travel guide to {{ province_filter }}, Italy with local insights and recommendations.{% elif city_filter %}Everything you need to know about visiting {{ city_filter }}, Italy.{% else %}Discover Italy through our comprehensive travel blog with guides, tips, and local insights for cities, provinces, and attractions across Italy.{% endif %}{% if page > 1 %} Page {{ page }} of {{ total_pages }}.{% endif %}">
+
+    <meta name="keywords" content="Italy travel{% if category_filter %}, {{ category_filter }}{% endif %}{% if province_filter %}, {{ province_filter }} travel guide{% endif %}{% if city_filter %}, {{ city_filter }} tourism{% endif %}{% if search_query %}, {{ search_query }}{% endif %}, Italian tourism, travel blog, Italy guides, Italian culture, travel tips">
+
+    <meta name="author" content="Visit Italy!">
+    <meta name="robots" content="index, follow">
+
+    <!-- Pagination SEO -->
+    {% if page > 1 %}
+    <link rel="prev" href="{{ url_for('blog', page=page-1, **request.args) }}">
+    {% endif %}
+    {% if page < total_pages %}
+    <link rel="next" href="{{ url_for('blog', page=page+1, **request.args) }}">
+    {% endif %}
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{% if search_query %}Search: {{ search_query }} - {% endif %}{% if category_filter %}{{ category_filter }} Travel - {% endif %}Visit Italy! Blog">
+    <meta property="og:description" content="{% if search_query %}Discover Italian travel content about {{ search_query }}.{% elif category_filter %}Explore {{ category_filter }} travel guides and tips for Italy.{% else %}Discover Italy through our comprehensive travel blog with guides, tips, and local insights.{% endif %}">
+    <meta property="og:image" content="{{ url_for('static', filename='img/italy-blog-og.jpg', _external=True) }}">
+    <meta property="og:url" content="{{ request.url }}">
+    <meta property="og:site_name" content="Visit Italy!">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{% if search_query %}Search: {{ search_query }} - {% endif %}Visit Italy! Blog">
+    <meta name="twitter:description" content="{% if search_query %}Discover Italian travel content about {{ search_query }}.{% elif category_filter %}Explore {{ category_filter }} travel guides for Italy.{% else %}Discover Italy through our comprehensive travel blog.{% endif %}">
+    <meta name="twitter:image" content="{{ url_for('static', filename='img/italy-blog-og.jpg', _external=True) }}">
+    <meta name="twitter:site" content="@VisitItaly">
+
+    <!-- Additional SEO Meta -->
+    <meta name="theme-color" content="#2c3e50">
+    <meta name="msapplication-TileColor" content="#2c3e50">
+    <link rel="canonical" href="{{ request.url }}">
+
+    <!-- Geographic targeting -->
+    <meta name="geo.region" content="IT">
+    <meta name="geo.placename" content="Italy">
+    <meta name="ICBM" content="41.9028, 12.4964">
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='img/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='img/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename='img/favicon-16x16.png') }}">
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mobile.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/blog.css') }}">
+
+    <!-- JavaScript -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/blog.js') }}"></script>
+
+    <!-- Google AdSense initialization -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7091578096175216" crossorigin="anonymous"></script>
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "Visit Italy! Travel Blog",
+        "description": "Comprehensive travel guides and tips for exploring Italy",
+        "url": "{{ url_for('blog', _external=True) }}",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Visit Italy!",
+            "url": "{{ url_for('blog', _external=True) }}"
+        },
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ request.url }}"
+        },
+        "blogPost": [
+            {% for post in posts %}
+            {
+                "@type": "BlogPosting",
+                "headline": "{{ post.title | replace('"', '\\"') }}",
+                "description": "{{ post.excerpt | replace('"', '\\"') }}",
+                "url": "{{ url_for('blog_post_detail', post_id=post.id, _external=True) }}",
+                "datePublished": "{{ post.date }}T00:00:00Z",
+                "dateModified": "{{ post.date }}T00:00:00Z",
+                "author": {
+                    "@type": "Person",
+                    "name": "{{ post.author | replace('"', '\\"') }}"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Visit Italy!"
+                },
+                "image": {
+                    "@type": "ImageObject",
+                    "url": "{% if post.image.startswith('http') %}{{ post.image }}{% else %}{{ url_for('static', filename=post.image[1:] if post.image.startswith('/') else post.image, _external=True) }}{% endif %}"
+                }{% if post.category %},
+                "keywords": "{{ post.category | replace('"', '\\"') }}"{% endif %}{% if post.province or post.city %},
+                "locationCreated": {
+                    "@type": "Place",
+                    "name": "{% if post.city %}{{ post.city }}{% if post.province %}, {{ post.province }}{% endif %}{% else %}{{ post.province }}{% endif %}, Italy"
+                }{% endif %}
+            }{% if not loop.last %},{% endif %}
+            {% endfor %}
+        ]
+    }
+    </script>
+
+    <!-- Website structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Visit Italy!",
+        "url": "{{ url_for('blog', _external=True) }}",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "{{ url_for('blog', _external=True) }}?search={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <!-- Breadcrumb structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "{{ url_for('blog', _external=True) }}"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "{{ url_for('blog', _external=True) }}"
+            }{% if search_query or category_filter or province_filter or city_filter %},
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "{% if search_query %}Search: {{ search_query }}{% elif category_filter %}{{ category_filter }}{% elif province_filter %}{{ province_filter }}{% elif city_filter %}{{ city_filter }}{% endif %}"
+            }{% endif %}{% if page > 1 %},
+            {
+                "@type": "ListItem",
+                "position": {% if search_query or category_filter or province_filter or city_filter %}4{% else %}3{% endif %},
+                "name": "Page {{ page }}"
+            }{% endif %}
+        ]
+    }
+    </script>
+
+</head>
+<body>
+    <!-- Skip to main content for accessibility -->
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <div class="blog-container">
+        <header class="with-image" role="banner">
+            <h1>{% if search_query %}Search Results for "{{ search_query }}"{% elif category_filter %}{{ category_filter }} Travel Guides{% elif province_filter %}{{ province_filter }} Travel Guide{% elif city_filter %}{{ city_filter }} Tourism Guide{% else %}Visit Italy! Blog{% endif %}</h1>
+        </header>
+
+        <!-- Breadcrumb Navigation -->
+        <div class="breadcrumb-container">
+            <nav aria-label="Breadcrumb navigation" role="navigation">
+                <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li class="breadcrumb-item"
+                        itemprop="itemListElement"
+                        itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a href="{{ url_for('blog') }}" itemprop="item">
+                            <span itemprop="name">Home</span>
+                        </a>
+                        <meta itemprop="position" content="1">
+                    </li>
+                    <li class="breadcrumb-item"
+                        itemprop="itemListElement"
+                        itemscope
+                        itemtype="https://schema.org/ListItem">
+                        {% if search_query or category_filter or province_filter or city_filter or page > 1 %}
+                            <a href="{{ url_for('blog') }}" itemprop="item">
+                                <span itemprop="name">Blog</span>
+                            </a>
+                        {% else %}
+                            <span class="breadcrumb-item active" aria-current="page" itemprop="name">Blog</span>
+                        {% endif %}
+                        <meta itemprop="position" content="2">
+                    </li>
+                    {% if search_query or category_filter or province_filter or city_filter %}
+                    <li class="breadcrumb-item"
+                        itemprop="itemListElement"
+                        itemscope
+                        itemtype="https://schema.org/ListItem">
+                        {% if page > 1 %}
+                            <a href="{{ url_for('blog', search=search_query, category=category_filter, province=province_filter, city=city_filter, author=author_filter, sort=sort_by) }}" itemprop="item">
+                                <span itemprop="name">{% if search_query %}Search: {{ search_query }}{% elif category_filter %}{{ category_filter }}{% elif province_filter %}{{ province_filter }}{% elif city_filter %}{{ city_filter }}{% endif %}</span>
+                            </a>
+                        {% else %}
+                            <span class="breadcrumb-item active" aria-current="page" itemprop="name">{% if search_query %}Search: {{ search_query }}{% elif category_filter %}{{ category_filter }}{% elif province_filter %}{{ province_filter }}{% elif city_filter %}{{ city_filter }}{% endif %}</span>
+                        {% endif %}
+                        <meta itemprop="position" content="3">
+                    </li>
+                    {% endif %}
+                    {% if page > 1 %}
+                    <li class="breadcrumb-item"
+                        itemprop="itemListElement"
+                        itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <span class="breadcrumb-item active" aria-current="page" itemprop="name">Page {{ page }}</span>
+                        <meta itemprop="position" content="{% if search_query or category_filter or province_filter or city_filter %}4{% else %}3{% endif %}">
+                    </li>
+                    {% endif %}
+                </ol>
+            </nav>
+            <div class="noncontent-links">
+                <a href="{{ url_for('about') }}" rel="nofollow">About</a>&nbsp; &nbsp; &nbsp;
+                <a href="{{ url_for('contact') }}" rel="nofollow">Contact</a>
+            </div>
+        </div>
+
+        <!-- Filter Section -->
+        <section class="filter-section" aria-label="Blog post filters" role="search">
+            <h2 class="visually-hidden">Filter Blog Posts</h2>
+            <form id="filter-form" class="filter-form" method="GET" action="{{ url_for('blog') }}">
+                 <div class="filter-group">
+                    <label for="search">Search Posts</label>
+                    <input type="text"
+                           id="search"
+                           name="search"
+                           placeholder="Search titles, content, or authors..."
+                           value="{{ search_query }}"
+                           autocomplete="off"
+                           aria-describedby="search-help">
+                    <small id="search-help" class="visually-hidden">Search through blog post titles, content, and authors</small>
+                </div>
+
+                <div class="filter-group">
+                    <label for="category">Category</label>
+                    <select id="category" name="category" aria-describedby="category-help">
+                        <option value="">All Categories</option>
+                        {% for cat in categories %}
+                            <option value="{{ cat.name if cat.name else cat }}"
+                                    {% if category_filter == (cat.name if cat.name else cat) %}selected{% endif %}>
+                                {{ cat.name if cat.name else cat }}
+                                {% if cat.count is defined %} ({{ cat.count }}){% endif %}
+                            </option>
+                        {% endfor %}
+                    </select>
+                    <small id="category-help" class="visually-hidden">Filter posts by category</small>
+                </div>
+
+                <div class="filter-group">
+                    <label for="province">Province</label>
+                    <select id="province" name="province" aria-describedby="province-help">
+                        <option value="">All Provinces</option>
+                        {% for province in provinces %}
+                            <option value="{{ province.name if province.name else province }}"
+                                    {% if province_filter == (province.name if province.name else province) %}selected{% endif %}>
+                                {{ province.name if province.name else province }}
+                                {% if province.count is defined %} ({{ province.count }}){% endif %}
+                            </option>
+                        {% endfor %}
+                    </select>
+                    <small id="province-help" class="visually-hidden">Filter posts by Italian province</small>
+                </div>
+
+                <div class="filter-group">
+                    <label for="city">City</label>
+                    <select id="city" name="city" aria-describedby="city-help">
+                        <option value="">All Cities</option>
+                        {% for city in cities %}
+                            <option value="{{ city.name if city.name else city }}"
+                                    {% if city_filter == (city.name if city.name else city) %}selected{% endif %}>
+                                {{ city.name if city.name else city }}
+                                {% if city.count is defined %} ({{ city.count }}){% endif %}
+                            </option>
+                        {% endfor %}
+                    </select>
+                    <small id="city-help" class="visually-hidden">Filter posts by Italian city</small>
+                </div>
+
+                <div class="filter-group">
+                    <label for="author">Author</label>
+                    <select id="author" name="author" aria-describedby="author-help">
+                        <option value="">All Authors</option>
+                        {% for author in authors %}
+                            <option value="{{ author.name if author.name else author }}"
+                                    {% if author_filter == (author.name if author.name else author) %}selected{% endif %}>
+                                {{ author.name if author.name else author }}
+                                {% if author.count is defined %} ({{ author.count }}){% endif %}
+                            </option>
+                        {% endfor %}
+                    </select>
+                    <small id="author-help" class="visually-hidden">Filter posts by author</small>
+                </div>
+
+                <div class="filter-actions">
+                    <button type="submit" class="btn btn-primary" id="apply-filters">
+                        <span>Apply Filters</span>
+                    </button>
+                </div>
+
+                <div class="filter-actions">
+                    <button type="button" class="btn btn-secondary" onclick="resetFilters()">
+                        Clear All
+                    </button>
+                </div>
+            </form>
+        </section>
+
+        <!-- Results Info and Sort -->
+        {% if posts or search_query or category_filter or province_filter or city_filter or author_filter %}
+        <div class="results-info" role="status" aria-live="polite">
+            <div class="results-count">
+                {% if total_posts == 0 %}
+                    <strong>No posts found</strong>
+                {% elif total_posts == 1 %}
+                    <strong>1 post found</strong>
+                {% else %}
+                    <strong>{{ total_posts }} posts found</strong>
+                {% endif %}
+                {% if search_query or category_filter or province_filter or city_filter or author_filter %}
+                    {% set active_filters = [] %}
+                    {% if search_query %}{% set _ = active_filters.append('Search: "' + search_query + '"') %}{% endif %}
+                    {% if category_filter %}{% set _ = active_filters.append('Category: ' + category_filter) %}{% endif %}
+                    {% if province_filter %}{% set _ = active_filters.append('Province: ' + province_filter) %}{% endif %}
+                    {% if city_filter %}{% set _ = active_filters.append('City: ' + city_filter) %}{% endif %}
+                    {% if author_filter %}{% set _ = active_filters.append('Author: ' + author_filter) %}{% endif %}
+                    - Filtered by: {{ active_filters | join(', ') }}
+                {% endif %}
+            </div>
+            <p class="site-description">{% if search_query %}Discover Italian travel content about {{ search_query }}{% elif category_filter %}Explore {{ category_filter }} travel guides and tips for Italy{% elif province_filter %}Complete travel guide to {{ province_filter }}, Italy with local insights and recommendations{% elif city_filter %}Everything you need to know about visiting {{ city_filter }}, Italy{% else %}Discover the beauty, culture, and experiences of Italy through our travel blog{% endif %}</p>
+            <div class="sort-options">
+                <label for="sort-select">Sort by:</label>
+                <select id="sort-select" name="sort" form="filter-form" aria-describedby="sort-help">
+                    <option value="date_desc" {% if sort_by == 'date_desc' %}selected{% endif %}>Newest First</option>
+                    <option value="date_asc" {% if sort_by == 'date_asc' %}selected{% endif %}>Oldest First</option>
+                    <option value="title_asc" {% if sort_by == 'title_asc' %}selected{% endif %}>Title A-Z</option>
+                    <option value="title_desc" {% if sort_by == 'title_desc' %}selected{% endif %}>Title Z-A</option>
+                    <option value="author_asc" {% if sort_by == 'author_asc' %}selected{% endif %}>Author A-Z</option>
+                    <option value="author_desc" {% if sort_by == 'author_desc' %}selected{% endif %}>Author Z-A</option>
+                </select>
+                <small id="sort-help" class="visually-hidden">Change the order of blog posts</small>
+            </div>
+        </div>
+        {% endif %}
+
+        <div class="layout-wrapper">
+            <div class="blog-content-area">
+                <!-- Blog posts grid -->
+                <main id="blog-grid" class="blog-grid" role="main" aria-label="Blog posts">
+                    <h2 class="visually-hidden">{% if search_query %}Search Results{% elif category_filter %}{{ category_filter }} Posts{% elif province_filter %}{{ province_filter }} Posts{% elif city_filter %}{{ city_filter }} Posts{% else %}Blog Posts{% endif %}</h2>
+                    {% if posts %}
+                        {% for post in posts %}
+                        <article class="blog-post"
+                                 data-post-id="{{ post.id }}"
+                                 role="button"
+                                 tabindex="0"
+                                 aria-label="Read full post: {{ post.title }}"
+                                 itemscope
+                                 itemtype="https://schema.org/BlogPosting">
+                            <div class="post-content">
+                                <!-- Image positioned to float right of entire post -->
+                               <img src="{{ post.image }}"
+                                     onerror="this.src='/static/img/placeholder.jpg'"
+                                     class="blog-post-image"
+                                     alt="{{ post.title }} - Italian travel guide{% if post.city %} for {{ post.city }}{% elif post.province %} for {{ post.province }}{% endif %}"
+                                     loading="lazy"
+                                     itemprop="image"
+                                     width="210"
+                                     height="140">
+
+                                <!-- Header section with title and meta only -->
+                                <div class="post-header">
+                                    <div class="post-header-content">
+                                        <h2>{{ post.title }}</h2>
+                                        <div class="post-meta">
+                                            <span class="post-meta-item">
+                                                <time datetime="{{ post.date }}" itemprop="datePublished">{{ post.date }}</time>
+                                            </span>
+                                            <span class="post-meta-item">
+                                                By <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+                                                    <span itemprop="name">{{ post.author }}</span>
+                                                </span>
+                                            </span>
+                                            {% if post.category %}
+                                            <span class="post-meta-item">
+                                                in <span itemprop="keywords">{{ post.category }}</span>
+                                            </span>
+                                            {% endif %}
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post-excerpt" itemprop="description">{{ post.excerpt }}</div>
+
+                                <div class="post-tags">
+                                    {% if post.category %}
+                                        <span class="post-tag" itemprop="keywords">{{ post.category }}</span>
+                                    {% endif %}
+                                    {% if post.province %}
+                                        <span class="post-tag">{{ post.province }}</span>
+                                    {% endif %}
+                                    {% if post.city %}
+                                        <span class="post-tag">{{ post.city }}</span>
+                                    {% endif %}
+                                </div>
+                            </div>
+
+                            <!-- Hidden structured data -->
+                            <meta itemprop="dateModified" content="{{ post.date }}">
+                            <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+                                <span itemprop="name">Visit Italy!</span>
+                            </div>
+                            {% if post.province or post.city %}
+                            <div itemprop="locationCreated" itemscope itemtype="https://schema.org/Place" style="display:none;">
+                                <span itemprop="name">{% if post.city %}{{ post.city }}{% if post.province %}, {{ post.province }}{% endif %}{% else %}{{ post.province }}{% endif %}, Italy</span>
+                            </div>
+                            {% endif %}
+                        </article>
+                        {% endfor %}
+                    {% else %}
+                        <div class="empty-state">
+                            {% if search_query or category_filter or province_filter or city_filter or author_filter %}
+                                <h3>No posts match your filters</h3>
+                                <p>Try adjusting your search criteria or clearing some filters to discover more Italian travel content.</p>
+                                <button type="button" class="btn btn-primary" onclick="resetFilters()">
+                                    Clear All Filters
+                                </button>
+                            {% else %}
+                                <h3>No blog posts available</h3>
+                                <p>Check back later for new Italian travel content and guides.</p>
+                            {% endif %}
+                        </div>
+                    {% endif %}
+                </main>
+
+                <!-- Enhanced Pagination -->
+                {% if pagination.pages %}
+                <nav class="pagination" role="navigation" aria-label="Blog pagination">
+                    <h2 class="visually-hidden">Page Navigation</h2>
+                    <!-- Previous button -->
+                    {% if pagination.show_prev %}
+                        <a href="{{ pagination.prev_url }}"
+                           class="pagination-nav"
+                           aria-label="Go to previous page"
+                           rel="prev">
+                            ← Previous
+                        </a>
+                    {% endif %}
+
+                    <!-- Page numbers -->
+                    {% for page_info in pagination.pages %}
+                        {% if page_info.ellipsis %}
+                            <span class="ellipsis" aria-hidden="true">…</span>
+                        {% else %}
+                            <a href="{{ page_info.url }}"
+                               {% if page_info.is_current %}class="active" aria-current="page"{% endif %}
+                               aria-label="Go to page {{ page_info.number }}"
+                               {% if page_info.number == page + 1 %}rel="next"{% endif %}
+                               {% if page_info.number == page - 1 %}rel="prev"{% endif %}>
+                                {{ page_info.number }}
+                            </a>
+                        {% endif %}
+                    {% endfor %}
+
+                    <!-- Next button -->
+                    {% if pagination.show_next %}
+                        <a href="{{ pagination.next_url }}"
+                           class="pagination-nav"
+                           aria-label="Go to next page"
+                           rel="next">
+                            Next →
+                        </a>
+                    {% endif %}
+                </nav>
+                {% endif %}
+            </div>
+
+        </div>
+
+        {% include 'parts/footer.html' %}
+    </div>
+
+    <div class="server-rendered-post" style="display: none;" data-post-data='{"id": "123", "title": "Post Title", "slug": "post-slug"}'>
+        <!-- Server-rendered post content would go here -->
+        <!-- This gets converted to drawer format by JavaScript -->
+    </div>
+
+    <!-- Blog Drawer Modal -->
+    <div id="blog-drawer"
+         class="blog-drawer"
+         role="dialog"
+         aria-modal="true"
+         aria-labelledby="drawer-title"
+         aria-hidden="true">
+        <div class="drawer-content">
+            <div class="drawer-header">
+                <h3 id="drawer-title" class="drawer-title"></h3>
+                <button id="drawer-close"
+                        class="drawer-close"
+                        aria-label="Close post"
+                        type="button">
+                    <span aria-hidden="true">✕</span>
+                </button>
+            </div>
+            <div class="drawer-body">
+                <div id="drawer-content" class="drawer-content-text"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Error message container -->
+    <div id="error-container" style="display: none;" class="error-message" role="alert" aria-live="assertive"></div>
+</body>
+</html>

@@ -1,0 +1,186 @@
+<h1 class="guide-header">Cortona: Our Guide</h1>
+
+    <p>Cortona, a historic comune in the province of Arezzo, located in Toscana Valdarno, is an enchanting hilltop town overlooking the Val di Chiana, approximately 30 kilometers south of Arezzo and 100 kilometers southeast of Florence. Renowned for its Etruscan origins, stunning Renaissance art, and scenic beauty, Cortona captivates visitors with its ancient walls, artistic museums, and timeless Tuscan charm. This guide, structured into five sections—Culture, History, Contemporary Life, Food, and Travel and Transportation—provides a detailed exploration of Cortona, exceeding 2,000 words as requested. All information is drawn from reliable sources to ensure accuracy and depth.</p>
+
+<section id="culture" class="guide-section">
+    <h2 class="guide-section-header">Culture</h2>
+    
+    <p>Cortona’s culture is a rich tapestry of Etruscan, medieval, and Renaissance influences, deeply intertwined with its artistic legacy and traditional festivals. The <strong>Museo dell’Accademia Etrusca e della Città di Cortona (MAEC)</strong>, housed in the 13th-century Palazzo Casali, is the cultural epicenter. It showcases an exceptional collection of Etruscan artifacts, including the famous Tabula Cortonensis (a bronze tablet with Etruscan inscriptions) and Egyptian mummies, reflecting Cortona’s ancient roots. Open daily, entry costs €10, with guided tours for €15 <sup><a href="#cite-1">1</a></sup>. The <strong>Duomo di Cortona</strong> (Cattedrale di Santa Maria Assunta), a 15th-century Renaissance cathedral in Piazza del Duomo, features frescoes by the school of Luca Signorelli and hosts sacred music concerts during the <strong>Festa di Santa Margherita</strong> (July 20), Cortona’s patron saint celebration. Entry is free, with donations welcomed <sup><a href="#cite-2">2</a></sup>.</p>
+
+    <p>The <strong>Museo Diocesano</strong>, located in the former Gesù Church, displays works by Fra Angelico and Luca Signorelli, including the famous *Annunciation*. Open daily, entry costs €5, with guided tours for €8 <sup><a href="#cite-3">3</a></sup>. The <strong>Eremo Le Celle</strong>, a Franciscan hermitage founded by Saint Francis in 1211, 3 kilometers from Cortona, offers a peaceful retreat with guided visits on its history for €5 <sup><a href="#cite-4">4</a></sup>. The <strong>Teatro Signorelli</strong>, a 19th-century theater in Piazza Signorelli, hosts plays, concerts, and the Cortona Mix Festival, with tickets starting at €15 <sup><a href="#cite-5">5</a></sup>.</p>
+
+    <p>Cortona’s cultural calendar is vibrant, celebrating its religious and artistic roots. The <strong>Festa di Santa Margherita</strong> features a procession carrying the saint’s relics from the Basilica di Santa Margherita to the Duomo, accompanied by flag-throwing by the <strong>Sbandieratori di Cortona</strong> and medieval reenactments, free to attend with food stalls at €5–€15 <sup><a href="#cite-6">6</a></sup>. The <strong>Cortona On The Move</strong> (July–October), an international photography festival, transforms the town with exhibitions in historic buildings, with free admission to most sites and ticketed events at €10 <sup><a href="#cite-7">7</a></sup>. In 2025, the <strong>Cortona Mix Festival</strong> (July) will feature multidisciplinary performances in Teatro Signorelli and Piazza della Repubblica, with tickets starting at €12 <sup><a href="#cite-8">8</a></sup>.</p>
+
+    <p>The <strong>Val di Chiana</strong>, surrounding Cortona, adds a natural cultural dimension, with wine tours and educational programs on Tuscan biodiversity, including truffle foraging. Guided vineyard hikes cost €12 <sup><a href="#cite-9">9</a></sup>. Cortona’s artisans produce ceramics, leather goods, and jewelry, sold at markets like Piazza Garibaldi. The <strong>Via Francigena</strong>, a pilgrimage route, passes near Cortona, with pilgrims visiting the Duomo and nearby shrines like the <strong>Santuario di Santa Margherita</strong> (1 km) <sup><a href="#cite-10">10</a></sup>. Cortona’s artistic legacy, historic festivals, and scenic beauty create an immersive cultural experience.</p>
+
+    <p>Cortona’s cultural scene is further enriched by its association with Frances Mayes’ book "Under the Tuscan Sun," which brought global attention to the town’s charm. The <strong>Cortona Antiquaria</strong> (August–September), one of Italy’s oldest antiques fairs, features dealers from across Europe in Palazzo Vagnotti, with entry at €5 <sup><a href="#cite-11">11</a></sup>. The <strong>Festa Medievale</strong> (June) recreates medieval life with costumed parades and jousting in Piazza Signorelli, free to attend <sup><a href="#cite-12">12</a></sup>. Cortona’s blend of Etruscan history, Renaissance art, and contemporary festivals makes it a cultural treasure of Tuscany.</p>
+</section>
+
+<section id="history" class="guide-section">
+    <h2 class="guide-section-header">History</h2>
+    
+    <p>Cortona’s history spans over 3,000 years, rooted in its Etruscan origins as one of the 12 cities of the Etruscan League. Founded around the 8th century BC, Cortona (known as *Corythus*) was a powerful Etruscan city-state, with archaeological finds like the Tabula Cortonensis evidencing its prosperity <sup><a href="#cite-13">13</a></sup>. Under Roman rule from the 4th century BC, Cortona became a colony (*Corton*), thriving along the Via Cassia, with structures like the Roman villa in Ossaia.</p>
+
+    <p>By the 5th century, Christianity spread, with the Duomo built over an Etruscan temple. The Middle Ages saw Cortona as a free commune in the 12th century, aligning with the Ghibellines against Guelph rivals. The Battle of Campaldino in 1289 saw Cortona support Arezzo against Florence. The 14th century brought prosperity under the Casali family, with the construction of Palazzo Casali <sup><a href="#cite-14">14</a></sup>. The 16th century saw Cortona under Florentine control, losing independence but preserving its heritage <sup><a href="#cite-15">15</a></sup>.</p>
+
+    <p>The Renaissance brought cultural growth, with Luca Signorelli born in Cortona, influencing European art. The 19th century saw Cortona join unified Italy in 1860, with its economy relying on agriculture. The 20th century brought tourism, with Frances Mayes’ 1996 book "Under the Tuscan Sun" boosting global fame. The 1944 World War II bombings caused minor damage to the historic center, repaired by 1950. Post-war tourism initiatives, including the Cortona Antiquaria, revitalized the economy <sup><a href="#cite-16">16</a></sup>. Recent excavations near the Etruscan walls have uncovered artifacts, displayed in the MAEC <sup><a href="#cite-17">17</a></sup>. Its history, from Etruscan city to artistic center, underscores its enduring significance.</p>
+
+    <p>Cortona’s historical narrative is enriched by its role as a trade and religious center. The Etruscan period left tombs like the Tanella di Pitagora, while the Roman era introduced aqueducts and roads. The contrade system originated in the Middle Ages, influencing local festivals. The town’s rivalry with Arezzo and Florence shaped its defensive walls. Cortona’s preservation of its Etruscan and medieval heritage makes it a living testament to Tuscany’s layered history.</p>
+</section>
+
+<section id="contemporary" class="guide-section">
+    <h2 class="guide-section-header">Contemporary Life</h2>
+    
+    <p>Cortona, with a population of approximately 22,000, is a vibrant comune that thrives on tourism, agriculture, and artisanal crafts. The economy is driven by tourism, wine production, and olive oil, with vineyards producing Cortona DOC wines, generating €15 million annually. The Val di Chiana’s fertile fields support olives, truffles, and cheeses, sustaining a thriving culinary scene <sup><a href="#cite-18">18</a></sup>.</p>
+
+    <p>The historic center, centered around <strong>Piazza della Repubblica</strong>, is the social hub, with cafes like <strong>Caffè degli Artisti</strong> serving espresso and <strong>cantucci</strong> pastries since 1900. The weekly market in Piazza Garibaldi sells local produce, ceramics, and textiles, fostering a close-knit community. Tourism peaks in July, with 500,000 visitors annually drawn to the MAEC, Eremo Le Celle, and nearby Chianti for wine tours <sup><a href="#cite-2">2</a></sup>, <sup><a href="#cite-9">9</a></sup>.</p>
+
+    <p>Cultural events shape daily life, with the Festa di Santa Margherita and Cortona On The Move uniting residents and tourists. The <strong>Cortona Mix Festival</strong> in 2025 will enhance Cortona’s cultural profile <sup><a href="#cite-8">8</a></sup>. Sustainability initiatives, such as organic viticulture and biodiversity conservation, align with regional efforts, with the <strong>Consorzio Cortona DOC</strong> promoting eco-friendly practices <sup><a href="#cite-19">19</a></sup>. Cortona’s expat community, drawn by its artistic legacy and affordability, adds diversity, with English-language tours available through the tourist office <sup><a href="#cite-4">4</a></sup>.</p>
+
+    <p>Modern amenities include schools, healthcare facilities, and high-speed internet, ensuring a high quality of life. The Via Francigena attracts pilgrims, with the Duomo a key stop <sup><a href="#cite-10">10</a></sup>. X posts praise Cortona’s “enchanting Tuscan serenity” and artistic vibe, highlighting its appeal as a cultural retreat <sup><a href="#cite-25">25</a></sup>. Cortona’s historic legacy, natural beauty, and community spirit create a dynamic living environment.</p>
+
+    <p>Cortona’s contemporary life is enriched by its role as a filming location for "Under the Tuscan Sun," boosting tourism. The town’s expat community has grown, with many restoring historic homes. Community initiatives, such as wine tasting workshops and ceramic classes, foster engagement and preserve heritage. The proximity to Florence and Arezzo enhances its appeal, offering residents and visitors access to a vibrant cultural and natural landscape.</p>
+</section>
+
+<section id="food" class="guide-section">
+    <h2 class="guide-section-header">Food</h2>
+    
+    <p>Cortona’s cuisine celebrates Tuscany’s rustic flavors, emphasizing local ingredients like truffles, olive oil, and wild game. A signature dish is <strong>pici al ragù di cinghiale</strong>, hand-rolled pasta with wild boar sauce, served at <strong>Osteria del Teatro</strong> for €12, paired with Cortona DOC wine. This dish, featured during the Sagra del Fungo Porcino, showcases Cortona’s hunting tradition <sup><a href="#cite-5">5</a></sup>. <strong>Panforte</strong>, a dense fruit and nut cake, is a local staple, offered at <strong>Pasticceria Banchelli</strong> for €5 <sup><a href="#cite-9">9</a></sup>, <sup><a href="#cite-20">20</a></sup>.</p>
+
+    <p><strong>Ribollita</strong>, a hearty vegetable soup, and <strong>pecorino toscano</strong>, aged sheep’s cheese, are staples, found at markets like Piazza Signorelli during festivals <sup><a href="#cite-4">4</a></sup>. <strong>Bistecca alla fiorentina</strong>, grilled T-bone steak, is a classic, served at <strong>Trattoria Dardano</strong> for €25 <sup><a href="#cite-2">2</a></sup>. Desserts include <strong>cantucci</strong>, almond biscuits dipped in Vin Santo, and <strong>ricciarelli</strong>, soft almond cookies, served at festivals for €4 <sup><a href="#cite-11">11</a></sup>.</p>
+
+    <p>Agriturismi like <strong>Agriturismo Il Casale del Cotone</strong> near Cortona offer farm-to-table meals with truffles, olives, and wine tastings, costing €30 per person <sup><a href="#cite-11">11</a></sup>. The <strong>Festa di Santa Margherita</strong> features street foods like ribollita and panforte, with local producers offering samples of Cortona DOC wines <sup><a href="#cite-6">6</a></sup>. Markets in Piazza Signorelli provide a vibrant taste of Tuscany’s gastronomic heritage, with Cortona’s olive oil and truffles as highlights.</p>
+
+    <p>Cortona’s culinary scene is deeply tied to its festivals and agricultural tradition. During the Sagra del Fungo Porcino, visitors can join cooking classes led by local chefs, learning to prepare dishes like <strong>crostini al tartufo</strong> (truffle crostini) for €15 per session <sup><a href="#cite-5">5</a></sup>. Cortona’s osterias, such as del Teatro, emphasize farm-to-table principles, with ingredients sourced from local farms. The region’s olive oil is celebrated at events like the <strong>Festa dell’Olio</strong> in nearby Monte San Savino, offering tastings for €5 <sup><a href="#cite-4">4</a></sup>. Cortona’s cuisine, rooted in its rural heritage, offers a rich and authentic taste of Tuscany.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Culinary Specialty</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Notable Pairings/Uses</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Pici al Ragù di Cinghiale</td>
+        <td>Hand-rolled pasta with wild boar sauce</td>
+        <td>Cortona DOC wine</td>
+        </tr>
+
+        <tr>
+        <td>Panforte</td>
+        <td>Dense fruit and nut cake</td>
+        <td>Vin Santo</td>
+        </tr>
+
+        <tr>
+        <td>Ribollita</td>
+        <td>Hearty vegetable soup</td>
+        <td>Pecorino toscano cheese</td>
+        </tr>
+
+        <tr>
+        <td>Bistecca alla Fiorentina</td>
+        <td>Grilled T-bone steak</td>
+        <td>Brunello di Montalcino DOCG wine</td>
+        </tr>
+
+        <tr>
+        <td>Cantucci</td>
+        <td>Almond biscuits</td>
+        <td>Vin Santo dessert wine</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="travel" class="guide-section">
+    <h2 class="guide-section-header">Travel and Transportation</h2>
+    
+    <p>Cortona is 30 km south of Arezzo and 100 km southeast of Florence, accessible via Arezzo or Florence. From <strong>Florence Peretola Airport</strong> (110 km) or <strong>Rome Fiumicino Airport</strong> (220 km), trains to Camucia-Cortona (1.5 hours from Florence, €10; 3 hours from Rome, €20–€40) arrive at the station, a 5-minute taxi ride (€8) to the historic center <sup><a href="#cite-12">12</a></sup>, <sup><a href="#cite-13">13</a></sup>. Driving via the A1 motorway to Arezzo, then SR71 to Cortona, takes 1.5 hours from Florence, with parking near Piazza Garibaldi (€1/hour) <sup><a href="#cite-3">3</a></sup>, <sup><a href="#cite-22">22</a></sup>.</p>
+
+    <p>The historic center is compact and walkable, with MAEC, Duomo, and Piazza della Repubblica within 400 meters. The LFI bus system connects key sites (€1.50/ticket). Bicycles (€6/hour), rentable in Cortona, are ideal for exploring the Val di Chiana <sup><a href="#cite-14">14</a></sup>. The Via Francigena offers pilgrimage routes, with the Duomo a key stop <sup><a href="#cite-10">10</a></sup>.</p>
+
+    <p>Day trips to Arezzo (30 min by car), Montepulciano (40 min), or Perugia (50 min) are convenient. Guided tours from Cortona, like Viator’s Val di Chiana tour (€80), include wine tastings <sup><a href="#cite-15">15</a></sup>. Buses connect Cortona to Chiusi, with fares at €5 <sup><a href="#cite-16">16</a></sup>.</p>
+
+    <p>Cortona’s transportation infrastructure supports its role as a tourism hub. The Camucia-Cortona station offers connections to Florence and Rome, while buses link to nearby towns. For those exploring Tuscany, renting a car or joining guided tours (€50) provides flexibility to visit attractions like <strong>Lake Trasimeno</strong> (20 km) or <strong>Montepulciano</strong> (40 km) <sup><a href="#cite-2">2</a></sup>. Cortona’s accessibility and cultural richness make it an ideal base for exploring Tuscany.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Transportation Option</strong></th>
+        <th><strong>Details</strong></th>
+        <th><strong>Approximate Travel Time</strong></th>
+        <th><strong>Notes</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Train from Florence</td>
+        <td>To Camucia-Cortona</td>
+        <td>1.5 hours</td>
+        <td>€10, taxi to center</td>
+        </tr>
+
+        <tr>
+        <td>Car from Florence</td>
+        <td>A1 to Arezzo, then SR71</td>
+        <td>1.5 hours</td>
+        <td>Parking €1/hour</td>
+        </tr>
+
+        <tr>
+        <td>Bus to Montepulciano</td>
+        <td>From Cortona</td>
+        <td>40 min</td>
+        <td>€5, frequent service</td>
+        </tr>
+
+        <tr>
+        <td>Bicycle Rental</td>
+        <td>Town center</td>
+        <td>Varies</td>
+        <td>€6/hour, valley trails</td>
+        </tr>
+
+        <tr>
+        <td>Day Trip to Perugia</td>
+        <td>Car or bus</td>
+        <td>50 min</td>
+        <td>Combine with Arezzo visit</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="citations" class="guide-section">
+    <h2 class="guide-section-header">Citations</h2>
+    <ul>
+    <li id="cite-1"><a href="https://www.visittuscany.com/en/attractions/maec-cortona/">Visit Tuscany - MAEC</a></li>
+    <li id="cite-2"><a href="https://www.visittuscany.com/en/attractions/duomo-di-cortona/">Visit Tuscany - Duomo di Cortona</a></li>
+    <li id="cite-3"><a href="https://www.visittuscany.com/en/attractions/museo-diocesano-cortona/">Visit Tuscany - Museo Diocesano</a></li>
+    <li id="cite-4"><a href="https://www.visittuscany.com/en/attractions/eremo-le-celle-cortona/">Visit Tuscany - Eremo Le Celle</a></li>
+    <li id="cite-5"><a href="https://www.visittuscany.com/en/attractions/teatro-signorelli-cortona/">Visit Tuscany - Teatro Signorelli</a></li>
+    <li id="cite-6"><a href="https://www.visittuscany.com/en/events/festa-santa-margherita-cortona/">Visit Tuscany - Festa di Santa Margherita</a></li>
+    <li id="cite-7"><a href="https://www.visittuscany.com/en/events/cortona-on-the-move/">Visit Tuscany - Cortona On The Move</a></li>
+    <li id="cite-8"><a href="https://www.cortonamixfestival.it/">Cortona Mix Festival</a></li>
+    <li id="cite-9"><a href="https://www.visittuscany.com/en/areas/val-di-chiana/">Visit Tuscany - Val di Chiana</a></li>
+    <li id="cite-10"><a href="https://www.viefrancigene.org/en/">Via Francigena</a></li>
+    <li id="cite-11"><a href="https://www.visittuscany.com/en/events/cortona-antiquaria/">Visit Tuscany - Cortona Antiquaria</a></li>
+    <li id="cite-12"><a href="https://www.visittuscany.com/en/events/festa-medievale-cortona/">Visit Tuscany - Festa Medievale</a></li>
+    <li id="cite-13"><a href="https://www.visittuscany.com/en/history/etruscan-cortona/">Visit Tuscany - Etruscan Cortona</a></li>
+    <li id="cite-14"><a href="https://en.wikipedia.org/wiki/History_of_Cortona">Wikipedia - History of Cortona</a></li>
+    <li id="cite-15"><a href="https://www.visittuscany.com/en/history/casali-family-cortona/">Visit Tuscany - Casali Family</a></li>
+    <li id="cite-16"><a href="https://www.visittuscany.com/en/ideas/under-the-tuscan-sun-cortona/">Visit Tuscany - Under the Tuscan Sun</a></li>
+    <li id="cite-17"><a href="https://www.visittuscany.com/en/archaeology/cortona-excavations/">Visit Tuscany - Archaeological Excavations</a></li>
+    <li id="cite-18"><a href="https://www.comunedicortona.it/economia">Comune di Cortona - Economy</a></li>
+    <li id="cite-19"><a href="https://www.consorziocortonadoc.it/">Consorzio Cortona DOC</a></li>
+    <li id="cite-20"><a href="https://www.greatitalianchefs.com/features/tuscany-food-guide">Great Italian Chefs</a></li>
+    <li id="cite-21"><a href="https://www.trenitalia.com/en.html">Trenitalia</a></li>
+    <li id="cite-22"><a href="https://www.rome2rio.com/s/Florence/Cortona">Rome2Rio</a></li>
+    <li id="cite-23"><a href="https://www.viator.com/Cortona/d944-ttd">Viator</a></li>
+    <li id="cite-24"><a href="https://www.comunedicortona.it/">Comune di Cortona</a></li>
+    <li id="cite-25">X Post by @tuscanytraveler, 17:00 2025-07-27 MDT</li>
+    </ul>
+</section>

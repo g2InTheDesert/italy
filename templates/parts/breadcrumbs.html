@@ -1,0 +1,57 @@
+<div class="breadcrumb-container">
+    {% if breadcrumbs %}
+    <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+        <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+            {% for crumb in breadcrumbs %}
+            <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                {% if not loop.last %}
+                    <a href="{{ request.url_root.rstrip('/') }}{{ crumb.path }}" itemprop="item">
+                        <span itemprop="name">{{ crumb.name }}</span>
+                    </a>
+                    <meta itemprop="position" content="{{ loop.index }}">
+                {% else %}
+                    <span aria-current="page" itemprop="name">{{ crumb.name }}</span>
+                    <meta itemprop="position" content="{{ loop.index }}">
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ol>
+    </nav>
+    {% endif %}
+
+<div class="noncontent-links">
+    {% if request.endpoint == 'about' %}
+        <!-- On About page, show Contact with preserved context -->
+        {% if original_folder_path %}
+            <a href="{{ url_for('contact') }}?from=about&original={{ original_folder_path }}">Contact</a>
+        {% elif currentPath %}
+            <a href="{{ url_for('contact') }}?from=about&original={{ currentPath }}">Contact</a>
+        {% else %}
+            <a href="{{ url_for('contact') }}?from=about">Contact</a>
+        {% endif %}
+    {% elif request.endpoint == 'contact' %}
+        <!-- On Contact page, show About with preserved context -->
+        {% if original_folder_path %}
+            <a href="{{ url_for('about') }}?from=contact&original={{ original_folder_path }}">About</a>
+        {% elif currentPath %}
+            <a href="{{ url_for('about') }}?from=contact&original={{ currentPath }}">About</a>
+        {% else %}
+            <a href="{{ url_for('about') }}?from=contact">About</a>
+        {% endif %}
+     {% elif request.endpoint == 'blog' %}
+        <!-- On Blog page, show About with preserved context -->
+        {% if original_folder_path %}
+            <a href="{{ url_for('blog') }}?from=contact&original={{ original_folder_path }}">Blog</a>
+        {% elif currentPath %}
+            <a href="{{ url_for('blog') }}?from=contact&original={{ currentPath }}">Blog</a>
+        {% else %}
+            <a href="{{ url_for('blog') }}?from=contact">Blog</a>
+        {% endif %}
+   {% else %}
+        <!-- On other pages, show both with current context -->
+        <a href="{{ url_for('contact') }}{% if currentPath %}?from={{ currentPath }}{% endif %}">Contact</a>&nbsp; &nbsp; &nbsp;
+        <a href="{{ url_for('about') }}{% if currentPath %}?from={{ currentPath }}{% endif %}">About</a>&nbsp; &nbsp; &nbsp;
+        <a href="{{ url_for('blog') }}{% if currentPath %}?from={{ currentPath }}{% endif %}">Blog</a>
+    {% endif %}
+</div>
+</div>

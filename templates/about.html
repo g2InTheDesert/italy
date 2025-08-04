@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page_title or 'About - Visit Italy!' }}</title>
+    <meta name="description" content="{{ meta_description or 'Learn more about our Italy photo gallery and travel experiences.' }}">
+    <meta name="keywords" content="{{ meta_keywords or 'about, Italy, travel, photography, gallery' }}">
+
+    <!-- Open Graph tags -->
+    <meta property="og:title" content="{{ page_title or 'About - Visit Italy!' }}">
+    <meta property="og:description" content="{{ meta_description or 'Learn more about our Italy photo gallery and travel experiences.' }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ url_for('about', _external=True) }}">
+
+    <link rel="icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mobile.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}">
+
+    <!-- Breadcrumb Schema.org JSON-LD -->
+    {% if breadcrumbs %}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {% for crumb in breadcrumbs %}
+            {
+                "@type": "ListItem",
+                "position": {{ loop.index }},
+                "name": "{{ crumb.name }}",
+                "item": "{{ request.url_root.rstrip('/') }}{% if crumb.path %}{{ url_for('about') if crumb.path == 'about' else url_for('folder', folderPath=crumb.path) }}{% endif %}"
+            }{% if not loop.last %},{% endif %}
+            {% endfor %}
+        ]
+    }
+    </script>
+    {% endif %}
+
+    <!-- Page Schema.org JSON-LD -->
+    {% if schema_json %}
+    <script type="application/ld+json">
+    {{ schema_json | safe }}
+    </script>
+    {% endif %}
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/about.js') }}"></script>
+</head>
+<body>
+    <div class="about-container">
+        {% include 'parts/header.html' %}
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Left Content (Main Gallery) -->
+            <div class="content-area">
+                <!-- Breadcrumb Navigation -->
+                {% include 'parts/breadcrumbs.html' %}
+            </div>
+        </div>
+
+        <div class="about-text-content">
+            <!-- Welcome Section with Image on Right -->
+            <div class="about-section with-image image-right">
+                <h2>Welcome</h2>
+                <div class="about-section-image">
+                    <img src="{{ url_for('static', filename='img/JandG.jpeg') }}" alt="Judy and Gerard">
+                </div>
+                <p>Welcome to our corner of the world, where cobblestone streets whisper tales and every sunset paints the sky with hues of orange and pink. Our travel website is a passionate love letter to Italy — a land of golden light, ancient ruins, and pasta that, on your first bite, tastes like a warm embrace from home. We'll expand our horizons, weaving in other destinations that stir the soul and ignite the imagination. But for now, let's linger in Italia, where every moment feels like a scene from a Fellini film.</p>
+            </div>
+
+            <div class="about-section">
+                <h2>Travel</h2>
+                <p>Travel isn't just about the places; it's about the emotions it evokes. The crisp air that fills your lungs as you step off a train in Florence, the hushed whispers of history echoing through a Venetian alleyway, and the weight of a perfect meal shared with strangers who become friends.</p>
+            </div>
+
+            <div class="about-section">
+                <h2>Philosophy</h2>
+                <p>We're the passionate minds behind this site, built it out of a restless love for beauty — the kind found in crumbling ruins, sun-drenched piazzas, laughter echoing through Italian cafés, and the quiet certainty that the world is vast and full of wonders beyond our wildest imaginations.</p>
+                <p>Every journey is a celebration of beauty, culture, and discovery. This site is born from a shared passion for travel, art, and the profound experiences that only new places can offer.</p>
+                <p>Mark Twain famously said, "Travel is fatal to prejudice, bigotry, and narrow-mindedness." Stepping beyond familiar borders opens the heart and mind, allowing us to see the world not as we expect it to be, but as it truly is — complex, breathtaking, and filled with endless wonder.</p>
+            </div>
+
+            <div class="about-section">
+                <h2>Italy</h2>
+                <p>Our adventure begins in Italy — a land of timeless beauty, where history whispers through ancient ruins, and every meal is a culinary masterpiece. From the cobblestone streets of Rome to the rolling vineyards of Tuscany, Italy is more than just a destination; it's an invitation to savor life.</p>
+            </div>
+
+            <div class="about-section with-image image-left">
+                <div class="about-section-image">
+                    <img src="{{ url_for('static', filename='img/JatPGPost.jpeg') }}" alt="Judy and Gerard">
+                </div>
+                <p>We're not just travelers; we're passionate about chasing beauty. From the crumbling Tuscan villa to the gondolier's song in Venice, and from a single espresso to reset your entire day, these are the things that ignite our hearts. We've created this site to share our passion and guide you toward places and experiences that leave you a little changed, a little more alive.</p>
+                <p>Wandering through hilltop villages or sipping wine in a vineyard near Siena has a way of softening edges, opening eyes, and reminding you that the world is vast beyond your everyday. We're not here to lecture or push grand philosophies; we're simply here to nudge you toward moments that make you pause and think, "This is why I'm here."</p>
+            </div>
+
+            <div class="about-section">
+                <p>So, step onto cobbled streets with wide eyes, collect moments instead of souvenirs, and chase the feeling that, for just a moment, everything makes sense.</p>
+            </div>
+
+            <div class="about-section">
+                <h2>Beyond</h2>
+                <p>As we grow, we'll invite you to explore new horizons beyond Italy, each destination handpicked for its unique magic. Whether you're a solo adventurer, a couple seeking romance, or a family making memories, we're here to help you find the beauty that awaits. So, grab a coffee (or a limoncello), dive into our photos, and start planning your next escape.</p>
+                <p>Join us on this journey. Let's immerse ourselves in the beauty of the world.</p>
+                <p>Here's to the road ahead,</p>
+                <p>Judy & Gerard</p>
+            </div>
+        </div>
+
+        {% include 'parts/footer.html' %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:exif="http://ns.adobe.com/exif/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+         <exif:GPSLongitude>15.076701584268763</exif:GPSLongitude>
+         <exif:GPSLongitudeRef>E</exif:GPSLongitudeRef>
+         <exif:GPSHPositioningError>1</exif:GPSHPositioningError>
+         <exif:GPSLatitude>37.44487443181287</exif:GPSLatitude>
+         <exif:GPSLatitudeRef>N</exif:GPSLatitudeRef>
+         <exif:GPSTimeStamp>2025-06-27T22:04:52Z</exif:GPSTimeStamp>
+         <dc:title>Via S. Francesco la Rena</dc:title>
+         <dc:description>Castello D'Urso Somma</dc:description>
+         <photoshop:DateCreated>2015-04-29T18:51:43-06:00</photoshop:DateCreated>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>

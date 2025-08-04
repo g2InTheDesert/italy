@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page_title or 'Contact - Visit Italy!' }}</title>
+    <meta name="description" content="{{ meta_description or 'Learn more about our Italy photo gallery and travel experiences.' }}">
+    <meta name="keywords" content="{{ meta_keywords or 'contact, Italy, travel, photography, gallery' }}">
+
+    <!-- Open Graph tags -->
+    <meta property="og:title" content="{{ page_title or 'Contact - Visit Italy!' }}">
+    <meta property="og:description" content="{{ meta_description or 'Learn more about our Italy photo gallery and travel experiences.' }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ url_for('contact', _external=True) }}">
+
+    <link rel="icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mobile.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/contact.css') }}">
+
+    <!-- Breadcrumb Schema.org JSON-LD -->
+    {% if breadcrumbs %}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {% for crumb in breadcrumbs %}
+            {
+                "@type": "ListItem",
+                "position": {{ loop.index }},
+                "name": "{{ crumb.name }}",
+                "item": "{{ request.url_root.rstrip('/') }}{% if crumb.path %}{{ url_for('contact') if crumb.path == 'contact' else url_for('folder', folderPath=crumb.path) }}{% else %}{{ url_for('home') }}{% endif %}"
+            }{% if not loop.last %},{% endif %}
+            {% endfor %}
+        ]
+    }
+    </script>
+    {% endif %}
+
+    <!-- Page Schema.org JSON-LD -->
+    {% if schema_json %}
+    <script type="application/ld+json">
+    {{ schema_json | safe }}
+    </script>
+    {% endif %}
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/about.js') }}"></script>
+</head>
+<body>
+    <div class="contact-container">
+        {% include 'parts/header.html' %}
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Left Content (Main Gallery) -->
+            <div class="content-area">
+                <!-- Breadcrumb Navigation -->
+                {% include 'parts/breadcrumbs.html' %}
+            </div>
+        </div>
+
+        <div class="header">
+            <h1>Contact Us</h1>
+            <p>We'd love to hear from you. Get in touch with us today!</p>
+        </div>
+
+        <div class="contact-content">
+            <div class="contact-info">
+                <div class="info-card">
+                    <div class="icon">💬</div>
+                    <h3>Get in Touch</h3>
+                    <p>Fill out the form below and we'll respond within 24 hours during business days.</p>
+                </div>
+
+                <div class="info-card">
+                    <div class="icon">🔒</div>
+                    <h3>Secure & Private</h3>
+                    <p>In plain language, we will not ever sell your information - anywhere.  For a detailed explanation, click the link at the bottom of the page.</p>
+                </div>
+            </div>
+
+            <div class="form-section">
+                <h2>Send us a Message</h2>
+                <form id="contactForm" action="/contactpage" method="POST">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="firstName">First Name <span class="required">*</span></label>
+                            <input type="text" id="firstName" name="firstName" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="lastName">Last Name <span class="required">*</span></label>
+                            <input type="text" id="lastName" name="lastName" required>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="email">Email Address <span class="required">*</span></label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone Number</label>
+                            <input type="tel" id="phone" name="phone">
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="subject">Subject <span class="required">*</span></label>
+                            <select id="subject" name="subject" required>
+                                <option value="">Select a subject...</option>
+                                <option value="general">General Inquiry</option>
+                                <option value="purchase">Purchase Full Resolution</option>
+                                <option value="partnership">Partnership</option>
+                                <option value="feedback">Feedback</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group" id="companyField" style="display: none;">
+                        <label for="company">Company/Organization</label>
+                        <input type="text" id="company" name="company">
+                    </div>
+
+                    <div class="form-group" id="imageField" style="display: none;">
+                        <label for="image">Image Name</label>
+                        <input type="text" id="image" name="image">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="message">Message <span class="required">*</span></label>
+                        <textarea id="message" name="message" placeholder="Please provide details about your inquiry..." required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="privacy" name="privacy" value="no">
+                            <label for="privacy">I agree to the Privacy and Conditions of Visit Italy!</label>
+                            <input type="checkbox" id="newsletter" name="newsletter" value="yes">
+                            <label for="newsletter">Subscribe to our newsletter for updates and promotions</label>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="submit-btn">Send Message</button>
+                </form>
+            </div>
+        </div>
+
+        {% include 'parts/footer.html' %}
+    </div>
+</body>
+</html>

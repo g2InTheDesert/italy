@@ -1,0 +1,18 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:exif="http://ns.adobe.com/exif/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+         <exif:GPSLongitude>12.468852429821714</exif:GPSLongitude>
+         <exif:GPSLongitudeRef>E</exif:GPSLongitudeRef>
+         <exif:GPSHPositioningError>1</exif:GPSHPositioningError>
+         <exif:GPSLatitude>41.891386674272709</exif:GPSLatitude>
+         <exif:GPSLatitudeRef>N</exif:GPSLatitudeRef>
+         <exif:GPSTimeStamp>2025-06-28T14:36:48Z</exif:GPSTimeStamp>
+         <dc:title>Vicolo del Bologna</dc:title>
+         <dc:description>Drinking fountain on street outside Dar Poeta</dc:description>
+         <photoshop:DateCreated>2013-04-09T05:42:04-06:00</photoshop:DateCreated>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>

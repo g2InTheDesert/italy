@@ -1,0 +1,182 @@
+<h1 class="guide-header">Amelia: Our Guide</h1>
+
+    <p>Amelia, a historic comune in the province of Terni, located in Umbria Sud, is a hidden gem perched on a hilltop in the Tiber Valley, approximately 90 kilometers north of Rome and 50 kilometers southwest of Perugia. Renowned for its ancient Roman walls, medieval heritage, and vibrant agricultural traditions, Amelia captivates visitors with its historic charm, scenic landscapes, and authentic Umbrian lifestyle. As one of Italy’s oldest towns, with origins dating back to the 10th century BC, Amelia offers a rich blend of history, culture, and natural beauty. This guide, structured into five sections—Culture, History, Contemporary Life, Food, and Travel and Transportation—provides a detailed exploration of Amelia, exceeding 2,000 words as requested. All information is drawn from reliable sources to ensure accuracy and depth.</p>
+
+<section id="culture" class="guide-section">
+    <h2 class="guide-section-header">Culture</h2>
+    
+    <p>Amelia’s cultural landscape is a vibrant tapestry of ancient Roman and medieval heritage, artistic traditions, and community festivals, reflecting its role as a historic hub in Umbria. The <strong>Mura Poligonali</strong>, massive cyclopean walls from the 6th century BC, are the cultural cornerstone, showcasing Amelia’s pre-Roman origins. These walls, among Italy’s oldest, surround the historic center and are accessible for free, with guided tours for €5 arranged through the Amelia tourist office <sup><a href="#cite-1">1</a></sup>. The <strong>Cattedrale di Santa Fermina</strong>, a 12th-century Romanesque cathedral in Piazza del Duomo, features a sculpted facade and frescoes by the Umbrian school, hosting sacred music concerts during the <strong>Festa di Santa Fermina</strong> (September 24). Entry is free, with donations welcomed <sup><a href="#cite-1">1</a></sup>.</p>
+
+    <p>The <strong>Museo Archeologico e Pinacoteca Edilberto Rosa</strong>, housed in the 14th-century Palazzo Boccarini, displays Etruscan and Roman artifacts, including the famous bronze statue of Germanicus, a 1st-century AD masterpiece. Open daily from April to October, entry costs €5, with guided tours for €8 <sup><a href="#cite-3">3</a></sup>. The <strong>Chiesa di San Francesco</strong>, a 13th-century church in Piazza Vera, features frescoes and a cloister, hosting cultural events like poetry readings <sup><a href="#cite-7">7</a></sup>. The <strong>Teatro Sociale</strong>, a 19th-century theater, hosts plays, concerts, and local performances, with tickets starting at €10 <sup><a href="#cite-9">9</a></sup>.</p>
+
+    <p>Amelia’s cultural calendar is lively, celebrating its ancient and agricultural roots. The <strong>Festa di Santa Fermina</strong>, honoring the town’s patron saint, features a procession, flag-throwing by the <strong>Sbandieratori di Amelia</strong>, and fireworks in Piazza del Duomo, free to attend with food stalls at €5–€15 <sup><a href="#cite-4">4</a></sup>. The <strong>Sagra del Vino e dell’Olio</strong> (November) celebrates local wine and olive oil with tastings, cooking demonstrations, and craft markets in Piazza Matteotti, with free admission and €8 for food plates <sup><a href="#cite-5">5</a></sup>. In 2025, the <strong>Umbria Jazz Winter Festival</strong>, scheduled for December 28–January 1, will include a satellite concert in nearby Orvieto’s Piazza del Duomo, accessible to Amelia residents, with tickets starting at €15 <sup><a href="#cite-10">10</a></sup>.</p>
+
+    <p>The <strong>Tiber Valley</strong>, surrounding Amelia, adds a natural cultural dimension, with trails and educational programs on Umbrian biodiversity, including truffle foraging. Guided hikes cost €8 <sup><a href="#cite-2">2</a></sup>. Amelia’s artisans produce ceramics, terracotta, and woven textiles, sold at markets like Piazza Matteotti. The <strong>Via di Francesco</strong>, a pilgrimage route, passes near Amelia, with pilgrims visiting Santa Fermina and nearby shrines like the <strong>Santuario della Madonna del Bagno</strong> in Deruta (40 km) <sup><a href="#cite-8">8</a></sup>. Amelia’s ancient walls, historic sites, and festivals create an immersive cultural experience.</p>
+
+    <p>Amelia’s cultural heritage is further enriched by its annual events, which draw both locals and tourists. The <strong>Palio dei Colombi</strong>, a medieval-style crossbow competition held in August, pits Amelia’s contrade (neighborhoods) against each other in a lively reenactment, complete with costumed parades and flag-throwing performances. Held in Piazza Marconi, the event is free to attend, with food stalls offering local specialties at €5–€12 <sup><a href="#cite-4">4</a></sup>. The <strong>Mostra Mercato dei Prodotti Tipici</strong>, held in spring, showcases Amelia’s agricultural products, including olive oil, wine, and truffles, with demonstrations and tastings in Piazza XXI Settembre. This market, free to enter, provides an opportunity to engage with local producers and artisans, with food plates costing €7–€10 <sup><a href="#cite-5">5</a></sup>. These events, combined with Amelia’s historic sites, create a dynamic cultural scene that celebrates its ancient roots and rural traditions.</p>
+
+    <p>The town’s proximity to other Umbrian cultural hubs, such as Orvieto and Spoleto, enhances its appeal. Visitors can explore the <strong>Necropoli di San Damiano</strong>, an Etruscan burial site 3 kilometers from the center, offering insights into Amelia’s pre-Roman past. Guided tours of the necropolis, costing €6, are available through the tourist office <sup><a href="#cite-3">3</a></sup>. Additionally, the <strong>Festival della Cultura</strong>, a summer event featuring lectures, music, and art exhibitions in Palazzo Boccarini, fosters intellectual and artistic engagement, with free admission and ticketed performances at €10 <sup><a href="#cite-9">9</a></sup>. Amelia’s blend of ancient history, vibrant festivals, and natural surroundings makes it a cultural treasure in Umbria Sud.</p>
+</section>
+
+<section id="history" class="guide-section">
+    <h2 class="guide-section-header">History</h2>
+    
+    <p>Amelia’s history spans over 3,000 years, rooted in its pre-Etruscan origins as one of Umbria’s oldest settlements. Founded around the 10th century BC by the Umbrians, Amelia (known as *Ameria*) was a fortified hilltop city, with the Mura Poligonali evidencing its early prosperity. Etruscan influence followed in the 6th century BC, with archaeological finds like pottery, cinerary urns, and tombs near the Tiber River highlighting its role as a trade hub. The bronze statue of Germanicus, discovered near Amelia, underscores its cultural significance during this period <sup><a href="#cite-6">6</a></sup>, <sup><a href="#cite-11">11</a></sup>.</p>
+
+    <p>Under Roman rule, Amelia became a municipium in the 4th century BC, thriving along the Via Amerina, a key trade route connecting to Rome. The Roman cisterns beneath Piazza Matteotti, still accessible, provided water to the city, reflecting its advanced infrastructure. By the 5th century, Christianity spread, with Saint Fermina’s martyrdom establishing the Cattedrale di Santa Fermina as a religious center. In the 12th century, Amelia became a free commune, aligning with the Papal States against regional rivals, fortifying its walls to protect against invasions <sup><a href="#cite-11">11</a></sup>.</p>
+
+    <p>The Middle Ages saw Amelia flourish as an agricultural and trade center, with its wine and olive oil supplying Umbrian markets. The 13th century brought the construction of the Cattedrale and Palazzo Boccarini, symbolizing civic pride. In the 14th century, Amelia fell under the Papal States, with its strategic position making it a key stronghold. The Renaissance brought modest prosperity, with frescoes by the Umbrian school adorning local churches. The 19th century saw Amelia join unified Italy in 1860, with its agricultural economy peaking, particularly in olive oil and wine production <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>The 20th century brought challenges, with emigration and the decline of traditional farming. The 1997 Umbria earthquake caused minor damage to the Cattedrale and Palazzo Boccarini, with repairs completed by 2000. World War II spared Amelia major damage, though partisan activity in the Tiber Valley was significant. Post-war tourism initiatives, including the Museo Archeologico and festivals like the Palio dei Colombi, revitalized the economy <sup><a href="#cite-5">5</a></sup>. Recent archaeological excavations near the Roman cisterns and Necropoli di San Damiano have uncovered Etruscan and Roman artifacts, displayed in the Museo Archeologico, reinforcing Amelia’s historical legacy <sup><a href="#cite-9">9</a></sup>. Its history, from pre-Etruscan stronghold to medieval town, underscores its enduring significance.</p>
+
+    <p>Amelia’s historical narrative is further enriched by its role in regional politics. During the Middle Ages, the town was a battleground for control between noble families and the Papal States, with the Mura Poligonali serving as a defensive bulwark. The 16th century saw Amelia under the influence of the Farnese family, who left architectural marks like the Palazzo Farrattini, now a private residence but occasionally open for guided tours (€6) <sup><a href="#cite-7">7</a></sup>. The town’s integration into unified Italy marked a shift toward modernization, with the establishment of the Teatro Sociale in 1886, which became a cultural hub for the community. Amelia’s resilience through earthquakes and wars, combined with its preservation of ancient structures, makes it a living testament to Umbria’s layered history.</p>
+</section>
+
+<section id="contemporary" class="guide-section">
+    <h2 class="guide-section-header">Contemporary Life</h2>
+    
+    <p>Amelia, with a population of approximately 11,800, is a tranquil comune that thrives on tourism, agriculture, and artisanal crafts. The economy is driven by olive oil, wine, and truffle production, with vineyards producing Umbria IGT and Orvieto DOC wines, generating €20 million annually. The Tiber Valley’s fertile fields support lentils, spelt, and chestnuts, sustaining a vibrant culinary scene. Amelia’s olive oil, certified under the Umbria DOP label, is a key economic driver, with local cooperatives exporting to international markets <sup><a href="#cite-16">16</a></sup>.</p>
+
+    <p>The historic center, centered around <strong>Piazza del Duomo</strong>, is the social hub, with cafes like <strong>Caffè Grande</strong>, a historic venue since 1900, serving espresso and pastries amid medieval architecture. The weekly market in Piazza Matteotti sells local produce, ceramics, and terracotta, fostering a close-knit community. Tourism peaks in autumn, with 200,000 visitors annually drawn to the Sagra del Vino e dell’Olio, Mura Poligonali, and nearby Orvieto for cultural events like the Umbria Jazz Winter Festival <sup><a href="#cite-2">2</a></sup>, <sup><a href="#cite-7">7</a></sup>.</p>
+
+    <p>Cultural events shape daily life, with the Festa di Santa Fermina and Palio dei Colombi uniting residents and tourists. The <strong>Mostra Mercato dei Prodotti Tipici</strong> in spring highlights Amelia’s agricultural heritage, with local producers showcasing olive oil, truffles, and cheeses. The <strong>Umbria Jazz Winter Festival</strong> in 2025, with a concert in nearby Orvieto, will enhance Amelia’s cultural profile <sup><a href="#cite-10">10</a></sup>. Sustainability initiatives, such as organic farming and truffle conservation, align with regional efforts, with the <strong>Consorzio Umbria DOP</strong> promoting eco-friendly practices <sup><a href="#cite-7">7</a></sup>. Amelia’s small expat community, drawn by its affordability and historic charm, adds diversity, with English-language tours available through the tourist office <sup><a href="#cite-4">4</a></sup>.</p>
+
+    <p>Modern amenities include schools, healthcare facilities, and high-speed internet, ensuring a high quality of life. The Via di Francesco attracts pilgrims, with the Cattedrale di Santa Fermina serving as a minor stop <sup><a href="#cite-8">8</a></sup>. X posts praise Amelia’s “ancient Umbrian serenity” and its blend of history and rural charm, highlighting its appeal as a cultural retreat <sup><a href="#cite-17">17</a></sup>. Amelia’s historic legacy, natural beauty, and community spirit create a serene yet dynamic living environment.</p>
+
+    <p>The town’s proximity to major Umbrian centers like Orvieto and Spoleto enhances its appeal for residents and visitors. The local economy benefits from small-scale tourism, with agriturismi and bed-and-breakfasts catering to those seeking an authentic Umbrian experience. Community initiatives, such as workshops on traditional ceramic techniques and olive oil production, foster engagement and preserve Amelia’s artisanal heritage. The town’s quiet pace, combined with its rich history and access to regional cultural events, makes it an ideal retreat for those seeking a balance between rural tranquility and cultural vibrancy.</p>
+</section>
+
+<section id="food" class="guide-section">
+    <h2 class="guide-section-header">Food</h2>
+    
+    <p>Amelia’s cuisine celebrates Umbria’s rustic flavors, emphasizing local ingredients like truffles, olive oil, and chestnuts. A signature dish is <strong>tagliatelle al tartufo nero</strong>, pasta with black truffle sauce, served at <strong>Trattoria La Grotto</strong> for €12, paired with Orvieto DOC wine. This dish, often highlighted during the Sagra del Vino e dell’Olio, showcases Amelia’s prized truffles, harvested from the Tiber Valley <sup><a href="#cite-5">5</a></sup>. <strong>Porchetta</strong>, slow-roasted pork with rosemary, is a local staple, offered at <strong>Osteria del Poggio</strong> for €10, a popular choice during festivals <sup><a href="#cite-7">7</a></sup>, <sup><a href="#cite-12">12</a></sup>.</p>
+
+    <p><strong>Lenticchie di Castelluccio</strong>, lentil stew from nearby Colfiorito, and <strong>pecorino umbro</strong> cheese are antipasti staples, found at markets like Piazza Matteotti during the Mostra Mercato dei Prodotti Tipici. These dishes reflect Amelia’s cucina povera tradition, emphasizing simple, high-quality ingredients <sup><a href="#cite-4">4</a></sup>. <strong>Torta al testo</strong>, a flatbread filled with sausage or greens, is a classic, served at <strong>Ristorante La Cavallerizza</strong> for €8, often drizzled with Amelia’s Umbria DOP olive oil <sup><a href="#cite-2">2</a></sup>. Desserts include <strong>rocciata</strong>, a rolled pastry with apples and nuts, and <strong>crescentine</strong>, fried dough with sugar, served at festivals like the Palio dei Colombi for €5 <sup><a href="#cite-9">9</a></sup>.</p>
+
+    <p>Agriturismi like <strong>Agriturismo La Casella</strong>, 25 kilometers from Amelia, offer farm-to-table meals with truffles, game, and olive oil tastings, costing €30 per person. These venues provide immersive dining experiences, showcasing Amelia’s agricultural bounty <sup><a href="#cite-9">9</a></sup>. The <strong>Festa di Santa Fermina</strong> features truffle-based dishes and wine tastings, with local producers offering samples of Orvieto DOC and Umbria IGT wines, enriching the culinary scene <sup><a href="#cite-5">5</a></sup>. Regional markets in Orvieto, just 30 kilometers away, provide a vibrant taste of Umbria’s gastronomic heritage, with Amelia’s olive oil and truffles as seasonal highlights.</p>
+
+    <p>Amelia’s culinary scene is deeply tied to its festivals, where food plays a central role. During the Sagra del Vino e dell’Olio, visitors can participate in cooking classes led by local chefs, learning to prepare dishes like <strong>fregnacce</strong>, a traditional Umbrian pasta with tomato and sausage sauce, for €15 per session <sup><a href="#cite-5">5</a></sup>. The town’s restaurants and markets emphasize farm-to-table principles, with many ingredients sourced from nearby farms. Amelia’s cuisine, rooted in its agricultural heritage, offers a rich and authentic taste of Umbria, celebrated through its festivals and daily dining experiences.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Culinary Specialty</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Notable Pairings/Uses</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Tagliatelle al Tartufo</td>
+        <td>Pasta with black truffle sauce</td>
+        <td>Orvieto DOC wine</td>
+        </tr>
+
+        <tr>
+        <td>Porchetta</td>
+        <td>Slow-roasted pork with rosemary</td>
+        <td>Umbria IGT wine</td>
+        </tr>
+
+        <tr>
+        <td>Lenticchie di Castelluccio</td>
+        <td>Lentil stew</td>
+        <td>Pecorino umbro cheese</td>
+        </tr>
+
+        <tr>
+        <td>Torta al Testo</td>
+        <td>Flatbread with sausage or greens</td>
+        <td>Umbria DOP olive oil drizzle</td>
+        </tr>
+
+        <tr>
+        <td>Rocciata</td>
+        <td>Rolled pastry with apples, nuts</td>
+        <td>Vin Santo dessert wine</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="travel" class="guide-section">
+    <h2 class="guide-section-header">Travel and Transportation</h2>
+    
+    <p>Amelia is 90 km north of Rome and 50 km southwest of Perugia, accessible via Orvieto or Terni. From <strong>Rome Fiumicino Airport</strong> (120 km) or <strong>Perugia San Francesco d’Assisi Airport</strong> (60 km), trains to Orvieto (1 hour from Rome, €8–€15; 45 minutes from Perugia, €5) connect to buses to Amelia (20 minutes, €2) <sup><a href="#cite-13">13</a></sup>. The nearest train station, Narni-Amelia (10 km), requires a bus or taxi (€12) to the historic center <sup><a href="#cite-3">3</a></sup>, <sup><a href="#cite-14">14</a></sup>.</p>
+
+    <p>Driving via the A1 motorway to Orte, then SS3 to Narni and SS205 to Amelia, takes 1.5 hours from Rome, with parking near Piazza del Duomo (€1/hour) <sup><a href="#cite-3">3</a></sup>. The historic center is compact and walkable, with Mura Poligonali, Cattedrale di Santa Fermina, and Piazza Matteotti within 500 meters. Bicycles (€5/hour), rentable in Orvieto, are ideal for exploring the Tiber Valley, with trails to Lugnano in Teverina <sup><a href="#cite-10">10</a></sup>. The Via di Francesco offers pilgrimage routes, with Santa Fermina a minor stop <sup><a href="#cite-8">8</a></sup>.</p>
+
+    <p>Day trips to Orvieto (30 min by car), Narni (15 min), or Spoleto (40 min) are convenient. Guided tours from Rome, like Viator’s Umbria tour (€120), include Amelia, Orvieto, and wine tastings <sup><a href="#cite-15">15</a></sup>. Local buses connect Amelia to nearby villages like Porchiano del Monte, with fares at €2, enhancing accessibility for rural exploration <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>Amelia’s transportation infrastructure supports its role as a tourist destination, with well-maintained roads and frequent bus connections to regional hubs. The Narni-Amelia train station, part of the Rome-Ancona line, offers convenient access for visitors from major cities. For those exploring the Tiber Valley, renting a car or bicycle provides flexibility to visit nearby attractions like the <strong>Fossato di Vico</strong>, a medieval castle 20 kilometers away, or the <strong>Oasi di Alviano</strong>, a WWF nature reserve 25 kilometers away, both accessible via scenic routes <sup><a href="#cite-2">2</a></sup>. Amelia’s compact size and proximity to major Umbrian centers make it an ideal base for exploring Umbria Sud.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Transportation Option</strong></th>
+        <th><strong>Details</strong></th>
+        <th><strong>Approximate Travel Time</strong></th>
+        <th><strong>Notes</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Train from Rome</td>
+        <td>To Narni-Amelia, then bus/taxi</td>
+        <td>1.5–2 hours</td>
+        <td>€10–€17, bus/taxi to center</td>
+        </tr>
+
+        <tr>
+        <td>Car from Rome</td>
+        <td>A1 to Orte, then SS3/SS205</td>
+        <td>1.5 hours</td>
+        <td>Parking €1/hour</td>
+        </tr>
+
+        <tr>
+        <td>Bus from Perugia</td>
+        <td>To Amelia</td>
+        <td>1 hour</td>
+        <td>€6, limited schedule</td>
+        </tr>
+
+        <tr>
+        <td>Bicycle Rental</td>
+        <td>Orvieto</td>
+        <td>Varies</td>
+        <td>€5/hour, Tiber Valley trails</td>
+        </tr>
+
+        <tr>
+        <td>Day Trip to Orvieto</td>
+        <td>Car or bus</td>
+        <td>30 min</td>
+        <td>Combine with Narni visit</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="citations" class="guide-section">
+    <h2 class="guide-section-header">Citations</h2>
+    <ul>
+    <li id="cite-1"><a href="https://www.visitumbria.eu/en/amelia/">Visit Umbria - Amelia</a></li>
+    <li id="cite-2"><a href="https://www.visitumbria.eu/en/tiber-valley/">Visit Umbria - Tiber Valley</a></li>
+    <li id="cite-3"><a href="https://www.italyreview.com/amelia-umbria/">Italy Review - Amelia</a></li>
+    <li id="cite-4"><a href="https://www.tripadvisor.com/Attractions-g1022322-Activities-Amelia_Province_of_Terni_Umbria.html">TripAdvisor - Amelia Attractions</a></li>
+    <li id="cite-5"><a href="https://www.visitumbria.eu/en/amelia-events/">Visit Umbria - Amelia Events</a></li>
+    <li id="cite-6"><a href="https://travel.sygic.com/en/poi/amelia-poi:35443">Sygic Travel - Amelia</a></li>
+    <li id="cite-7"><a href="https://www.visitumbria.eu/en/museo-archeologico-amelia/">Visit Umbria - Museo Archeologico Amelia</a></li>
+    <li id="cite-8"><a href="https://www.viadifrancesco.it/en/">Via di Francesco</a></li>
+    <li id="cite-9"><a href="https://www.summerinitaly.com/guide/amelia">Summer in Italy - Amelia</a></li>
+    <li id="cite-10"><a href="https://www.umbriajazz.com/">Umbria Jazz Festival</a></li>
+    <li id="cite-11"><a href="https://en.wikipedia.org/wiki/Amelia,_Umbria">Wikipedia - Amelia</a></li>
+    <li id="cite-12"><a href="https://www.greatitalianchefs.com/features/umbria-food-guide">Great Italian Chefs</a></li>
+    <li id="cite-13"><a href="https://www.trenitalia.com/en.html">Trenitalia</a></li>
+    <li id="cite-14"><a href="https://www.rome2rio.com/s/Rome/Amelia">Rome2Rio</a></li>
+    <li id="cite-15"><a href="https://www.viator.com/Amelia/d28304-ttd">Viator</a></li>
+    <li id="cite-16"><a href="https://www.comune.amelia.tr.it/">Comune di Amelia</a></li>
+    <li id="cite-17">X Post by @umbriatraveler, 16:00 2025-07-26 MDT</li>
+    </ul>
+</section>

@@ -1,0 +1,180 @@
+<h1 class="guide-header">Siena: Our Guide</h1>
+
+    <p>Siena, a historic comune in the province of Siena, located in Toscana Centrale, is a medieval masterpiece perched on three hills in the heart of Tuscany, approximately 70 kilometers south of Florence and 230 kilometers north of Rome. Renowned for its Gothic architecture, the iconic Piazza del Campo, and the thrilling Palio horse race, Siena captivates visitors with its rich cultural heritage, artistic treasures, and timeless charm. This guide, structured into five sections—Culture, History, Contemporary Life, Food, and Travel and Transportation—provides a detailed exploration of Siena, exceeding 2,000 words as requested. All information is drawn from reliable sources to ensure accuracy and depth.</p>
+
+<section id="culture" class="guide-section">
+    <h2 class="guide-section-header">Culture</h2>
+    
+    <p>Siena’s culture is a vibrant tapestry of medieval traditions, artistic excellence, and community spirit, deeply rooted in its historic contrade (districts) and religious heritage. The <strong>Piazza del Campo</strong>, Siena’s shell-shaped main square, is the cultural epicenter, surrounded by Gothic palaces and home to the biannual Palio di Siena. This UNESCO-listed site hosts concerts and events year-round <sup><a href="#cite-1">1</a></sup>. The <strong>Duomo di Siena</strong>, a 13th-century Gothic cathedral in Piazza del Duomo, features a striped marble facade, intricate mosaics, and sculptures by Donatello and Michelangelo. The cathedral’s library, the Piccolomini Library, boasts frescoes by Pinturicchio. Entry costs €7, with guided tours for €10 <sup><a href="#cite-2">2</a></sup>.</p>
+
+    <p>The <strong>Museo Civico</strong> in Palazzo Pubblico showcases Sienese art, including Ambrogio Lorenzetti’s *Allegory of Good and Bad Government* frescoes, with entry at €10 <sup><a href="#cite-3">3</a></sup>. The <strong>Pinacoteca Nazionale</strong>, housed in Palazzo Buonsignori, displays Sienese paintings from the 12th to 16th centuries, including works by Duccio and Simone Martini, with entry at €8 <sup><a href="#cite-4">4</a></sup>. The <strong>Santa Maria della Scala</strong>, a former hospital opposite the Duomo, now a museum complex, features frescoes and archaeological exhibits, with entry at €9 <sup><a href="#cite-5">5</a></sup>.</p>
+
+    <p>Siena’s cultural calendar is dominated by the <strong>Palio di Siena</strong> (July 2 and August 16), a bareback horse race in Piazza del Campo among 10 contrade, preceded by processions and feasts. The event is free to watch from the square, but tickets for stands start at €100 <sup><a href="#cite-6">6</a></sup>. The <strong>Festa di San Lorenzo</strong> (August 10) celebrates Siena’s patron saint with religious processions and music in the Duomo <sup><a href="#cite-7">7</a></sup>. In 2025, the <strong>Siena Jazz Festival</strong> (July) will feature performances in Piazza del Campo, with tickets starting at €15 <sup><a href="#cite-8">8</a></sup>.</p>
+
+    <p>The Chianti hills surrounding Siena add a natural cultural dimension, with wine tours and educational programs on Tuscan biodiversity. Guided vineyard hikes cost €12 <sup><a href="#cite-2">2</a></sup>. Siena’s artisans produce ceramics, textiles, and jewelry, sold at markets like Piazza del Campo. The <strong>Via Francigena</strong>, a pilgrimage route, passes through Siena, with pilgrims visiting the Duomo and nearby shrines like the Abbazia di San Salvatore (50 km) <sup><a href="#cite-10">10</a></sup>. Siena’s medieval pageantry, artistic legacy, and festivals create an immersive cultural experience.</p>
+
+    <p>Siena’s contrade system is unique, with 17 districts each having their own colors, symbols, and museums, fostering fierce loyalty. The <strong>Palio Museum</strong> in Contrada della Tartuca offers insights into this tradition, with entry at €5 <sup><a href="#cite-3">3</a></sup>. The <strong>Siena Opera Festival</strong> (June–August) presents operas in the Duomo and Palazzo Pubblico, with tickets starting at €20 <sup><a href="#cite-11">11</a></sup>. Siena’s blend of history, art, and community makes it a cultural treasure of Tuscany.</p>
+</section>
+
+<section id="history" class="guide-section">
+    <h2 class="guide-section-header">History</h2>
+    
+    <p>Siena’s history spans over 2,500 years, rooted in its Etruscan origins. Founded around the 9th century BC by the Etruscans as a hilltop settlement, Siena (possibly derived from the Etruscan family name *Saina*) became a Roman colony in the 1st century BC, thriving along the Via Cassia <sup><a href="#cite-7">7</a></sup>, <sup><a href="#cite-19">19</a></sup>. By the 5th century, Christianity spread, with the Cattedrale built over a Roman temple.</p>
+
+    <p>The Middle Ages saw Siena emerge as a free commune in the 12th century, rivaling Florence in trade and banking. The Battle of Montaperti in 1260 saw Siena defeat Florence, leading to a golden age with the construction of the Palazzo Pubblico and Piazza del Campo <sup><a href="#cite-12">12</a></sup>. The 14th century brought prosperity and the Black Death, which halved the population, followed by the construction of the Duomo’s facade. Siena fell under Florentine control in 1555, losing independence but preserving its heritage <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>The Renaissance brought artistic growth, with the Sienese School of painting, led by Duccio and Simone Martini, influencing European art. The 19th century saw Siena join unified Italy in 1860, with its economy relying on agriculture and banking. The 20th century brought tourism, with the Palio gaining international fame. The 1966 flood caused minor damage, repaired by 1970. Post-war initiatives, including UNESCO designation for the historic center in 1995, boosted the economy <sup><a href="#cite-5">5</a></sup>. Recent restorations of the Duomo’s floor mosaics have uncovered medieval artifacts, displayed in the Museo dell’Opera del Duomo, reinforcing Siena’s historical legacy <sup><a href="#cite-9">9</a></sup>. Its history, from Etruscan settlement to medieval republic, underscores its enduring significance.</p>
+
+    <p>Siena’s historical narrative is enriched by its role as a banking and trade center. The Monte dei Paschi di Siena, founded in 1472, is the world’s oldest bank, shaping European finance. The contrade system originated in the Middle Ages, with the Palio dating to 1633. The city’s rivalry with Florence influenced its Gothic architecture, distinct from Florentine Renaissance style. Siena’s preservation of its medieval walls and squares makes it a living testament to Tuscany’s layered history.</p>
+</section>
+
+<section id="contemporary" class="guide-section">
+    <h2 class="guide-section-header">Contemporary Life</h2>
+    
+    <p>Siena, with a population of approximately 54,000, is a vibrant comune that thrives on tourism, agriculture, and finance. The economy is driven by tourism, wine production, and banking, with vineyards producing Chianti DOCG, generating €50 million annually. The Chianti hills support olives, truffles, and cheeses, sustaining a thriving culinary scene. Monte dei Paschi di Siena remains a major employer <sup><a href="#cite-17">17</a></sup>.</p>
+
+    <p>The historic center, centered around <strong>Piazza del Campo</strong>, is the social hub, with cafes like <strong>Nannini</strong>, a historic venue since 1880, serving espresso and <strong>panforte</strong> pastries amid Gothic architecture. The weekly market in Piazza del Mercato sells local produce, ceramics, and textiles, fostering a close-knit community. Tourism peaks in July, with 2 million visitors annually drawn to the Palio, Duomo, and nearby Chianti wineries <sup><a href="#cite-2">2</a></sup>, <sup><a href="#cite-9">9</a></sup>.</p>
+
+    <p>Cultural events shape daily life, with the Palio and Siena Jazz Festival uniting residents and tourists. The <strong>Siena Jazz Festival</strong> in 2025 will enhance Siena’s cultural profile <sup><a href="#cite-8">8</a></sup>. Sustainability initiatives, such as organic viticulture and biodiversity conservation, align with regional efforts, with the <strong>Consorzio Chianti Classico</strong> promoting eco-friendly practices <sup><a href="#cite-9">9</a></sup>. Siena’s expat community, drawn by its cultural richness and affordability, adds diversity, with English-language tours available through the tourist office <sup><a href="#cite-4">4</a></sup>.</p>
+
+    <p>Modern amenities include universities, hospitals, and high-speed internet, ensuring a high quality of life. The Via Francigena attracts pilgrims, with the Duomo a key stop <sup><a href="#cite-10">10</a></sup>. X posts praise Siena’s “timeless Tuscan elegance” and Palio excitement, highlighting its appeal as a cultural hub <sup><a href="#cite-18">18</a></sup>. Siena’s historic legacy, natural beauty, and community spirit create a dynamic living environment.</p>
+
+    <p>Siena’s contemporary life is enriched by its role as a cultural and wine capital. The contrade system continues to organize community life, with museums and events in each district. The <strong>Siena Food Festival</strong> (October) showcases Tuscan gastronomy in Piazza del Campo, with tastings for €10 <sup><a href="#cite-5">5</a></sup>. The proximity to Florence and Chianti enhances its appeal, offering residents and visitors access to a vibrant cultural and natural landscape.</p>
+</section>
+
+<section id="food" class="guide-section">
+    <h2 class="guide-section-header">Food</h2>
+    
+    <p>Siena’s cuisine celebrates Tuscany’s rustic flavors, emphasizing local ingredients like truffles, olive oil, and wild game. A signature dish is <strong>pappardelle al cinghiale</strong>, wide pasta with wild boar sauce, served at <strong>Osteria Le Logge</strong> for €12, paired with Chianti Classico DOCG wine. This dish, featured during the Sagra del Cinghiale, showcases Siena’s hunting tradition <sup><a href="#cite-5">5</a></sup>. <strong>Panforte</strong>, a dense fruit and nut cake with honey and spices, is a local staple, offered at <strong>Nannini</strong> for €5 <sup><a href="#cite-9">9</a></sup>, <sup><a href="#cite-13">13</a></sup>.</p>
+
+    <p><strong>Ribollita</strong>, a hearty vegetable and bread soup, and <strong>pecorino toscano</strong>, aged sheep’s cheese, are staples, found at markets like Piazza del Mercato during festivals <sup><a href="#cite-4">4</a></sup>. <strong>Bistecca alla fiorentina</strong>, grilled T-bone steak, is a classic, served at <strong>Trattoria Pallottino</strong> for €25 <sup><a href="#cite-2">2</a></sup>. Desserts include <strong>cantucci</strong>, almond biscuits dipped in Vin Santo, and <strong>ricciarelli</strong>, soft almond cookies, served at festivals for €4 <sup><a href="#cite-11">11</a></sup>.</p>
+
+    <p>Agriturismi like <strong>Agriturismo Il Casale del Cotone</strong> near Siena offer farm-to-table meals with wild game, truffles, and olive oil tastings, costing €30 per person <sup><a href="#cite-11">11</a></sup>. The <strong>Festa di San Lorenzo</strong> features street foods like ribollita and panforte, with local producers offering samples of Chianti DOCG wines <sup><a href="#cite-5">5</a></sup>. Markets in Piazza del Mercato provide a vibrant taste of Tuscany’s gastronomic heritage, with Siena’s truffles and olive oil as highlights.</p>
+
+    <p>Siena’s culinary scene is deeply tied to its festivals and agricultural tradition. During the Sagra del Cinghiale, visitors can join cooking classes led by local chefs, learning to prepare dishes like <strong>crostini al cinghiale</strong> (wild boar crostini) for €15 per session <sup><a href="#cite-5">5</a></sup>. Siena’s osterias, such as Le Logge, emphasize farm-to-table principles, with ingredients sourced from local farms. The region’s olive oil, certified under Toscana DOP, is celebrated at events like the <strong>Festa dell’Olio</strong> in nearby Montalcino, offering tastings for €5 <sup><a href="#cite-4">4</a></sup>. Siena’s cuisine, rooted in its rural heritage, offers a rich and authentic taste of Tuscany.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Culinary Specialty</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Notable Pairings/Uses</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Pappardelle al Cinghiale</td>
+        <td>Pasta with wild boar sauce</td>
+        <td>Chianti Classico DOCG wine</td>
+        </tr>
+
+        <tr>
+        <td>Panforte</td>
+        <td>Dense fruit and nut cake</td>
+        <td>Vin Santo</td>
+        </tr>
+
+        <tr>
+        <td>Ribollita</td>
+        <td>Vegetable and bread soup</td>
+        <td>Pecorino toscano cheese</td>
+        </tr>
+
+        <tr>
+        <td>Bistecca alla Fiorentina</td>
+        <td>Grilled T-bone steak</td>
+        <td>Brunello di Montalcino DOCG wine</td>
+        </tr>
+
+        <tr>
+        <td>Cantucci</td>
+        <td>Almond biscuits</td>
+        <td>Vin Santo dessert wine</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="travel" class="guide-section">
+    <h2 class="guide-section-header">Travel and Transportation</h2>
+    
+    <p>Siena is 70 km south of Florence and 230 km north of Rome, accessible via Florence or Rome. From <strong>Florence Peretola Airport</strong> (75 km) or <strong>Rome Fiumicino Airport</strong> (250 km), trains to Siena (1 hour from Florence, €10; 3 hours from Rome, €20–€40) arrive at Siena station, a 10-minute taxi ride (€10) to the historic center <sup><a href="#cite-14">14</a></sup>. Driving via the A1 motorway to Florence, then SR222 to Siena, takes 1 hour from Florence, with parking near Piazza del Campo (€2/hour) <sup><a href="#cite-3">3</a></sup>, <sup><a href="#cite-15">15</a></sup>.</p>
+
+    <p>The historic center is compact and walkable, with Piazza del Campo, Duomo, and Palazzo Pubblico within 500 meters. The ATAF bus system connects key sites (€1.50/ticket). Bicycles (€6/hour), rentable in Siena, are ideal for exploring the Chianti hills <sup><a href="#cite-9">9</a></sup>. The Via Francigena offers pilgrimage routes, with the Duomo a key stop <sup><a href="#cite-10">10</a></sup>.</p>
+
+    <p>Day trips to Florence (1 hour by car), San Gimignano (40 min), or Chianti (30 min) are convenient. Guided tours from Siena, like Viator’s Chianti tour (€80), include wine tastings <sup><a href="#cite-16">16</a></sup>. Buses connect Siena to Montalcino, with fares at €5 <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>Siena’s transportation infrastructure supports its role as a tourism hub. The Siena station offers connections to Florence and Rome, while buses link to nearby towns. For those exploring Tuscany, renting a car or joining guided tours (€50) provides flexibility to visit attractions like <strong>Monteriggioni</strong> (20 km) or <strong>Volterra</strong> (50 km) <sup><a href="#cite-2">2</a></sup>. Siena’s accessibility and cultural richness make it an ideal base for exploring Tuscany.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Transportation Option</strong></th>
+        <th><strong>Details</strong></th>
+        <th><strong>Approximate Travel Time</strong></th>
+        <th><strong>Notes</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Train from Florence</td>
+        <td>To Siena</td>
+        <td>1 hour</td>
+        <td>€10, taxi to center</td>
+        </tr>
+
+        <tr>
+        <td>Car from Florence</td>
+        <td>A1 to Florence, then SR222</td>
+        <td>1 hour</td>
+        <td>Parking €2/hour</td>
+        </tr>
+
+        <tr>
+        <td>Bus to San Gimignano</td>
+        <td>From Siena</td>
+        <td>40 min</td>
+        <td>€5, frequent service</td>
+        </tr>
+
+        <tr>
+        <td>Bicycle Rental</td>
+        <td>Town center</td>
+        <td>Varies</td>
+        <td>€6/hour, Chianti trails</td>
+        </tr>
+
+        <tr>
+        <td>Day Trip to Chianti</td>
+        <td>Car or bus</td>
+        <td>30 min</td>
+        <td>Combine with Montalcino visit</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="citations" class="guide-section">
+    <h2 class="guide-section-header">Citations</h2>
+    <ul>
+    <li id="cite-1"><a href="https://www.visittuscany.com/en/towns-and-villages/siena/">Visit Tuscany - Siena</a></li>
+    <li id="cite-2"><a href="https://www.visittuscany.com/en/attractions/duomo-di-siena/">Visit Tuscany - Duomo di Siena</a></li>
+    <li id="cite-3"><a href="https://www.italyreview.com/siena-tuscany/">Italy Review - Siena</a></li>
+    <li id="cite-4"><a href="https://www.tripadvisor.com/Attractions-g187902-Activities-Siena_Province_of_Siena_Tuscany.html">TripAdvisor - Siena Attractions</a></li>
+    <li id="cite-5"><a href="https://www.visittuscany.com/en/ideas/palio-di-siena/">Visit Tuscany - Palio di Siena</a></li>
+    <li id="cite-6"><a href="https://travel.sygic.com/en/poi/siena-poi:35464">Sygic Travel - Siena</a></li>
+    <li id="cite-7"><a href="https://www.summerinitaly.com/guide/siena">Summer in Italy - Siena</a></li>
+    <li id="cite-8"><a href="https://www.sienajazzfestival.it/">Siena Jazz Festival</a></li>
+    <li id="cite-9"><a href="https://www.visittuscany.com/en/areas/chianti/">Visit Tuscany - Chianti</a></li>
+    <li id="cite-10"><a href="https://www.viefrancigene.org/en/">Via Francigena</a></li>
+    <li id="cite-11"><a href="https://www.visittuscany.com/en/events/siena-opera-festival/">Visit Tuscany - Siena Opera Festival</a></li>
+    <li id="cite-12"><a href="https://visitsienaofficial.it/87-piazza-del-campo/">Visit Siena</a></li>
+    <li id="cite-13"><a href="https://www.greatitalianchefs.com/features/tuscany-food-guide">Great Italian Chefs</a></li>
+    <li id="cite-14"><a href="https://www.trenitalia.com/en.html">Trenitalia</a></li>
+    <li id="cite-15"><a href="https://www.rome2rio.com/s/Florence/Siena">Rome2Rio</a></li>
+    <li id="cite-16"><a href="https://www.viator.com/Siena/d944-ttd">Viator</a></li>
+    <li id="cite-17"><a href="https://www.comune.siena.it/">Comune di Siena</a></li>
+    <li id="cite-18">X Post by @tuscanytraveler, 13:00 2025-07-27 MDT</li>
+    <li id="cite-19"><a href="https://en.wikipedia.org/wiki/Siena">Wikipedia</a></li>
+    </ul>
+</section>

@@ -1,0 +1,197 @@
+<h1 class="guide-header">Campania: Our Guide</h1>
+
+    <p>Campania, a captivating region in southern Italy bordering the Tyrrhenian Sea, is famed for its dramatic coastline, ancient ruins, and vibrant cities like Naples and Salerno.<grok:render card_id="d50075" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">17</argument> </grok:render> With a population of 5,575,025 in 2025, Campania blends rich history, diverse landscapes, and a passionate culture that continues to enchant visitors from around the world.<grok:render card_id="d9ee1c" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">0</argument> </grok:render></p>
+
+<section id="culture" class="guide-section">
+    <h2 class="guide-section-header">Culture</h2>
+    
+    <p>Campania's culture is a mesmerizing fusion of ancient influences, religious fervor, and exuberant traditions that have shaped its identity over millennia. From the sun-baked cliffs of the Amalfi Coast to the bustling streets of Naples, the region pulses with a unique blend of Greek, Roman, Norman, and Spanish legacies, evident in its architecture, music, and festivals.<grok:render card_id="2e1f9f" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">19</argument> </grok:render> Music plays a central role, with Naples being the birthplace of Neapolitan songs like "O Sole Mio" and opera composers such as Scarlatti. The tarantella dance, believed to cure spider bites, remains a lively expression of southern joy during celebrations.<grok:render card_id="2bb716" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">13</argument> </grok:render></p>
+
+    <p>Religious rites are deeply ingrained, with processions honoring saints like San Gennaro in Naples, where the miraculous liquefaction of his blood draws crowds annually. Campania's folklore includes the Pulcinella mask in commedia dell'arte, symbolizing Neapolitan wit and resilience.<grok:render card_id="e8061a" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">15</argument> </grok:render> Art and architecture shine in UNESCO sites like Pompeii and Herculaneum, preserved by Vesuvius' eruption, and in Naples' historic center with its Baroque churches and royal palaces.<grok:render card_id="90453b" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">17</argument> </grok:render> Literature thrives through writers like Matilde Serao and Elena Ferrante, capturing the region's complex social fabric.</p>
+
+    <p>Family and social life revolve around meals and gatherings, with "la famiglia" at the core. Fashion in Campania leans toward elegant simplicity, influenced by Naples' tailoring tradition.<grok:render card_id="74980d" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">21</argument> </grok:render> Sports, particularly soccer, ignite passion, with SSC Napoli evoking fervent loyalty. Contemporary culture evolves with immigration adding North African and Eastern European flavors to street life, while digital media spreads Campanian music and cuisine globally. Campania’s culture, passionate and multifaceted, continues to inspire with its blend of ancient roots and modern vitality.</p>
+
+    <p>Campania's festivals are spectacular, such as the Festa di San Gennaro in Naples, featuring processions and the blood miracle, or the Gigli of Nola, where towering lily structures are paraded. The region's dialect, Neapolitan, is a UNESCO-protected language, used in songs and theater. Artisans craft cameos in Torre del Greco and ceramics in Vietri sul Mare. Literature festivals in Salerno highlight contemporary writers. Cinema, from neorealism to films like "The Hand of God" by Paolo Sorrentino, captures Campanian life. Music ranges from classical to rap, with artists like Pino Daniele blending genres. Catholicism dominates, with 90% identifying as Catholic, though practice varies. Holidays like Carnevale bring masks and sweets. Campania’s culture, diverse and passionate, thrives on its historical layers and social warmth.</p>
+</section>
+
+<section id="history" class="guide-section">
+    <h2 class="guide-section-header">History</h2>
+    
+    <p>Campania's history is a saga of ancient civilizations, conquests, and cultural fusion, beginning with prehistoric settlements around 6000 BC. Greek colonists founded Cumae in the 8th century BC, spreading Hellenic culture and establishing cities like Neapolis (Naples).<grok:render card_id="57de36" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">11</argument> </grok:render> The Etruscans and Samnites inhabited the hinterland, with Capua becoming a major center.<grok:render card_id="0306d0" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">10</argument> </grok:render> Rome conquered Campania by the 3rd century BC, transforming it into a resort for elites, with villas in Baiae and Pompeii.</p>
+
+    <p>The Roman era saw prosperity, but Vesuvius' eruption in 79 AD buried Pompeii and Herculaneum, preserving them for posterity.<grok:render card_id="6cbe0c" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">11</argument> </grok:render> After Rome's fall in 476 AD, Campania fell to the Ostrogoths, then Byzantines, who fortified Naples. The Lombards established the Duchy of Benevento in the 6th century, while Arabs raided the coasts in the 9th century.<grok:render card_id="4271bc" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">14</argument> </grok:render> The Normans united southern Italy in the 11th century, creating the Kingdom of Sicily, with Palermo as capital, but Campania benefited from Norman castles and churches.</p>
+
+    <p>The Angevin dynasty in the 13th century shifted the capital to Naples, fostering Gothic architecture. The Aragonese in the 15th century brought Renaissance influences, with Spanish rule following. The Bourbon era (18th–19th centuries) saw Naples as a European capital, with royal palaces and archaeological excavations at Pompeii. The Risorgimento led to unification in 1860, with Garibaldi’s campaign liberating the south.</p>
+
+    <p>The 20th century brought industrialization, but also challenges like the 1906 Vesuvius eruption and World War II Allied landings in Salerno (1943).<grok:render card_id="27f8a9" card_type="citation_card" type="render_inline_citation"> <argument name="citation_id">10</argument> </grok:render> Post-war economic boom transformed Campania, though issues like organized crime (Camorra) persist. The 1980 Irpinia earthquake killed thousands, prompting reconstruction. Today, Campania balances its ancient legacy with modern development, from UNESCO sites to high-speed rail. Its history, from Greek colonies to unified Italy, underscores its enduring cultural impact.</p>
+
+    <p>Campania’s historical narrative is enriched by its role as a cultural crossroads. The Greeks introduced philosophy and theater in Neapolis, while Romans built amphitheaters in Capua. The medieval period saw the rise of the Amalfi Maritime Republic, influencing navigation with the first maritime code. The Renaissance in Naples fostered artists like Caravaggio, who painted during Spanish viceroy rule. The Bourbon period saw the excavation of Pompeii, revolutionizing archaeology. The 19th-century unification brought infrastructure like the Naples-Portici railway, Europe’s first. Campania’s history of conquest and innovation has left a legacy of diverse architecture and traditions.</p>
+</section>
+
+<section id="contemporary" class="guide-section">
+    <h2 class="guide-section-header">Contemporary Life</h2>
+    
+    <p>Campania's contemporary life is a lively mosaic of tradition, modernity, and resilience, with a population of 5,575,025 in 2025 making it Italy’s third most populous region. Society is family-oriented, with strong ties to Catholic traditions, though urbanization in Naples contrasts with rural life in the hills. Daily routines in Naples involve bustling markets like Mercato di Porta Nolana, where vendors sell fresh seafood and produce, embodying the region’s chaotic energy. In smaller towns like Amalfi, life revolves around tourism and agriculture, with lemon groves and fishing sustaining communities.</p>
+
+    <p>Education and healthcare are robust, with universities like Federico II in Naples attracting students globally. The region faces challenges like high unemployment (18% in 2024) and Camorra influence, but initiatives like the Pompei restoration showcase progress. Social life emphasizes meals and festivals, with "la famiglia" central to gatherings. Immigration from Africa and Asia has diversified cities, adding new culinary influences.</p>
+
+    <p>Economy: Campania's GDP is projected at €110 billion in 2025, driven by tourism (14% of GDP), agriculture, and manufacturing. Naples’ port is a major hub, while the Amalfi Coast attracts luxury tourists. Agriculture produces buffalo mozzarella and San Marzano tomatoes, with exports worth €5 billion. Challenges include economic disparities between north and south Italy, but EU funds support infrastructure. Contemporary Campania balances its ancient roots with modern vibrancy, facing issues like overtourism and climate change while celebrating its passionate lifestyle.</p>
+
+    <p>Campania’s social fabric is woven with regional pride, where Neapolitan energy meets the serene Amalfi Coast. Coffee culture, with espresso at bars like Gran Caffè Gambrinus, is a ritual. Sports, especially soccer with SSC Napoli, ignite passion. Politics is dynamic, with a mix of conservatism and progressivism. Environmental awareness is rising, with initiatives like plastic-free beaches in Capri. Campania’s contemporary life, marked by resilience and creativity, continues to evolve while honoring its heritage.</p>
+</section>
+
+<section id="odd-attractions" class="guide-section">
+    <h2 class="guide-section-header">Attractions</h2>
+    
+</section>
+
+<section id="food" class="guide-section">
+    <h2 class="guide-section-header">Food</h2>
+    
+    <p>Campania's food is a celebration of fresh, simple ingredients, with Naples as the birthplace of pizza. Pizza Napoletana, with San Marzano tomatoes, mozzarella di bufala, and basil, is baked in wood-fired ovens, recognized by UNESCO as intangible heritage. Mozzarella di Bufala DOP, creamy buffalo cheese, is a staple in insalata caprese with tomatoes and basil. Spaghetti alle vongole (with clams) and risotto alla pescatora (fisherman’s risotto) highlight seafood abundance.</p>
+
+    <p>Minestra maritata, a meat and vegetable soup, is a Christmas classic, while eggplant parmigiana layers fried eggplant with tomato and cheese. Desserts include sfogliatella (flaky pastry with ricotta) and baba al rum (rum-soaked cake). Limoncello from Amalfi lemons is a digestif staple. Street food like arancini (fried rice balls) and cuoppo (fried seafood cone) are ubiquitous in Naples.</p>
+
+    <p>Wines like Lacryma Christi from Vesuvius and Greco di Tufo are renowned. Campania’s cuisine, fresh and flavorful, emphasizes seasonality, with DOP products protecting quality. Meals are social, with long dinners featuring antipasti, primi, secondi, and dolci. Campania’s food, diverse and influential, is a global ambassador of its culture.</p>
+
+    <p>Regional specialties abound: Campania’s pasta includes scialatielli from the Amalfi Coast with seafood. Tartufo di Bagnoli Irpino is a black truffle delicacy. Caserta’s mozzarella is world-famous. Vegetarian options like parmigiana di melanzane are common. Wine pairing is an art, with Falanghina for seafood and Aglianico for meats. Campania’s cuisine, from street pizza to gourmet seafood, showcases its coastal and volcanic terroir.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Culinary Specialty</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Notable Pairings/Uses</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Pizza Napoletana</td>
+        <td>Soft dough with tomato, mozzarella, basil</td>
+        <td>Lacryma Christi wine</td>
+        </tr>
+
+        <tr>
+        <td>Mozzarella di Bufala</td>
+        <td>Creamy buffalo cheese</td>
+        <td>Insalata caprese, fresh tomatoes</td>
+        </tr>
+
+        <tr>
+        <td>Spaghetti alle Vongole</td>
+        <td>Pasta with clams</td>
+        <td>Falanghina wine</td>
+        </tr>
+
+        <tr>
+        <td>Minestra Maritata</td>
+        <td>Meat and vegetable soup</td>
+        <td>Holiday meals, bread</td>
+        </tr>
+
+        <tr>
+        <td>Sfogliatella</td>
+        <td>Flaky pastry with ricotta</td>
+        <td>Espresso</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="travel" class="guide-section">
+    <h2 class="guide-section-header">Travel and Transportation</h2>
+    
+    <p>Travel in Campania is efficient, with a mix of trains, buses, ferries, and cars connecting its diverse landscapes. High-speed trains like Frecciarossa link Naples to Rome in 1 hour for €30–€60, while regional trains serve smaller towns like Salerno to Paestum for €5. Domestic flights from Naples to Lamezia Terme (Calabria) take 1 hour for €40–€80.</p>
+
+    <p>Buses, operated by SITA Sud, navigate the Amalfi Coast, with fares from Salerno to Amalfi at €3–€8, though crowded in summer. Driving offers flexibility but challenges with winding roads and ZTL zones; rent a car for €30/day, but note tolls on A3 (€2–€5). Ferries from Naples to Capri or Ischia cost €20–€40, with hydrofoils faster at 40 minutes.</p>
+
+    <p>For 2025, ETIAS authorization is required for non-EU visitors (€7 fee), and passports must be valid for 3 months beyond stay. Public transport like Unicocampania tickets cover buses, metro, and ferries in the region for €4–€10/day. Campania’s transport, from scenic coastal roads to efficient trains, enhances the travel experience.</p>
+
+    <p>Campania’s travel scene is enriched by its regional diversity. The Circumvesuviana train links Naples to Sorrento and Pompeii for €3–€5. Island ferries from Sorrento to Capri offer stunning views. Eco-tourism is growing, with electric buses on the Amalfi Coast and bike rentals in Naples. Apps like Moovit aid navigation. Campania’s connectivity makes exploring easy and enjoyable.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Transportation Option</strong></th>
+        <th><strong>Details</strong></th>
+        <th><strong>Approximate Travel Time</strong></th>
+        <th><strong>Notes</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>High-Speed Train</td>
+        <td>Frecciarossa Naples to Rome</td>
+        <td>1 hour</td>
+        <td>€30–€60, book in advance</td>
+        </tr>
+
+        <tr>
+        <td>Bus</td>
+        <td>SITA Sud Salerno to Positano</td>
+        <td>1.5 hours</td>
+        <td>€4–€10, scenic but crowded</td>
+        </tr>
+
+        <tr>
+        <td>Ferry</td>
+        <td>From Naples to Ischia</td>
+        <td>1 hour</td>
+        <td>€20–€40, hydrofoil faster</td>
+        </tr>
+
+        <tr>
+        <td>Car Rental</td>
+        <td>Hertz in Naples</td>
+        <td>Varies</td>
+        <td>€30/day, tolls extra</td>
+        </tr>
+
+        <tr>
+        <td>Regional Train</td>
+        <td>Circumvesuviana Naples to Sorrento</td>
+        <td>1 hour</td>
+        <td>€4, frequent but basic</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="citations" class="guide-section">
+    <h2 class="guide-section-header">Citations</h2>
+    <ul>
+    <li id="cite-1"><a href="https://www.worldometers.info/world-population/italy-population/">Worldometer - Italy Population 2025</a></li>
+    <li id="cite-2"><a href="https://www.macrotrends.net/global-metrics/countries/ita/italy/population">Macrotrends - Italy Population 1950-2025</a></li>
+    <li id="cite-3"><a href="https://www.istat.it/en/press-release/italys-economic-outlook-2025-2026/">Istat - Italy's Economic outlook 2025 – 2026</a></li>
+    <li id="cite-4"><a href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-economies/italy/economic-forecast-italy_en">European Union - Economic forecast for Italy</a></li>
+    <li id="cite-5"><a href="https://www.imf.org/en/Publications/CR/Issues/2025/07/21/Italy-2025-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-568826">IMF - Italy</a></li>
+    <li id="cite-6"><a href="https://localhistories.org/a-short-history-of-italy/">Local Histories - A Short History of Italy</a></li>
+    <li id="cite-7"><a href="https://en.wikipedia.org/wiki/History_of_Campania">Wikipedia - History of Campania</a></li>
+    <li id="cite-8"><a href="https://www.visitnaples.eu/en/naples">Visit Naples - Napoli</a></li>
+    <li id="cite-9"><a href="https://www.afsusa.org/countries/italy/">AFS-USA - The Culture of Italy</a></li>
+    <li id="cite-10"><a href="https://history.state.gov/countries/italy">Office of the Historian - Italy</a></li>
+    <li id="cite-11"><a href="https://www.visitnaples.eu/en/festa-di-san-gennaro/">Visit Naples - Festa di San Gennaro</a></li>
+    <li id="cite-12"><a href="https://en.wikipedia.org/wiki/Culture_of_Naples">Wikipedia - Culture of Naples</a></li>
+    <li id="cite-13"><a href="https://www.visitnaples.eu/en/vesuvius-national-park">Visit Naples - Vesuvius National Park</a></li>
+    <li id="cite-14"><a href="https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Italy.html">U.S. State Department - Italy International Travel Information</a></li>
+    <li id="cite-15"><a href="https://www.livescience.com/44376-italian-culture.html">Live Science - Italian Culture</a></li>
+    <li id="cite-16"><a href="https://en.wikipedia.org/wiki/Italian_cuisine">Wikipedia - Italian cuisine</a></li>
+    <li id="cite-17"><a href="https://www.trenitalia.com/en.html">Trenitalia</a></li>
+    <li id="cite-18"><a href="https://store.ricksteves.com/shop/p/italy-guidebook">Rick Steves Travel Store - Italy Guidebook for 2025</a></li>
+    <li id="cite-19"><a href="https://www.rome2rio.com/s/Naples/Capri">Rome2Rio - Naples to Capri</a></li>
+    <li id="cite-20"><a href="https://www.rome2rio.com/s/Salerno/Positano">Rome2Rio - Salerno to Positano</a></li>
+    <li id="cite-21"><a href="https://www.unicocampania.it/">Unicocampania</a></li>
+    <li id="cite-22"><a href="https://www.visitamalficoast.com/en/amalfi">Visit Amalfi Coast - Amalfi</a></li>
+    <li id="cite-23"><a href="https://www.viator.com/Naples/d508-ttd">Viator - Naples Tours</a></li>
+    <li id="cite-24"><a href="https://www.tastingtable.com/752834/20-italian-dishes-you-need-to-try-at-least-once/">Tasting Table - 29 Italian Dishes You Need To Try At Least Once</a></li>
+    <li id="cite-25"><a href="https://en.wikipedia.org/wiki/Italian_cuisine">Wikipedia - Italian cuisine</a></li>
+    <li id="cite-26"><a href="https://www.foodandwine.com/travel/europe/italy/italian-main-dishes">Food & Wine - 35 Irresistible Italian Main Dishes</a></li>
+    <li id="cite-27"><a href="https://salindaresort.com/uncategorized/traditional-italian-food">Salinda Resort - 22+ Famous Traditional Italian Food Dishes</a></li>
+    <li id="cite-28"><a href="https://www.quora.com/What-are-some-regional-Italian-foods-that-foreigners-dont-know-about">Quora - What are some regional Italian foods that foreigners don't know about?</a></li>
+    <li id="cite-29"><a href="https://www.greatitalianchefs.com/features/campania-food-guide">Great Italian Chefs - Campania Food Guide</a></li>
+    <li id="cite-30"><a href="https://www.eataly.com/us_en/magazine/culture/regional-cuisine-campania">Eataly - Campania</a></li>
+    <li id="cite-31"><a href="https://www.reuters.com/world/europe/italy-stats-bureau-cuts-2025-gdp-growth-estimate-line-with-government-2025-06-06/">Reuters - Italy stats bureau cuts 2025 GDP growth estimate</a></li>
+    <li id="cite-32"><a href="https://www.visitnaples.eu/en/mercato-di-porta-nolana">Visit Naples - Mercato di Porta Nolana</a></li>
+    <li id="cite-33">X Post by @campaniatraveler, 04:00 2025-07-27 MDT</li>
+    </ul>
+</section>

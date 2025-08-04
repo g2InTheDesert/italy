@@ -1,0 +1,81 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Blog Post - Visit Italy!</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mobile.css') }}">
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</head>
+<body>
+    <div class="container">
+        {% include 'parts/header.html' %}
+
+        <nav class="breadcrumb-container">
+            <ul class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item"><a href="/admin">Admin</a></li>
+                <li class="breadcrumb-item active">Edit Post</li>
+            </ul>
+            <div>
+                <a href="/about">About</a>    
+                <a href="/contact">Contact</a>    
+                <a href="/blog">Blog</a>
+            </div>
+        </nav>
+        <div class="main-content">
+            <div class="content-area">
+                <h2 class="blog-section-title">Edit Blog Post</h2>
+                {% for message in get_flashed_messages(with_categories=true) %}
+                    <div class="flash-message {{ message[0] }}">{{ message[1] }}</div>
+                {% endfor %}
+                <form class="admin-form" method="POST" action="{{ url_for('edit_post', id=post.id) }}">
+                    <div class="form-group">
+                        <label for="title">Title:</label>
+                        <input type="text" id="title" name="title" value="{{ post.title }}" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="date">Date:</label>
+                        <input type="date" id="date" name="date" value="{{ post.date | strftime('%Y-%m-%d') }}" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="created">Created (Read-Only):</label>
+                        <input type="text" id="created" name="created" value="{{ post.created }}" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label for="author">Author:</label>
+                        <input type="text" id="author" name="author" value="{{ post.author }}" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="category">Category:</label>
+                        <input type="text" id="category" name="category" value="{{ post.category }}" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="province">Province (Optional):</label>
+                        <input type="text" id="province" name="province" value="{{ post.province or '' }}">
+                    </div>
+                    <div class="form-group">
+                        <label for="city">City (Optional):</label>
+                        <input type="text" id="city" name="city" value="{{ post.city or '' }}">
+                    </div>
+                    <div class="form-group">
+                        <label for="image">Image Path (e.g., data/images/rome.jpg, Optional):</label>
+                        <input type="text" id="image" name="image" value="{{ post.image or '' }}">
+                    </div>
+                    <div class="form-group">
+                        <label for="excerpt">Excerpt:</label>
+                        <textarea id="excerpt" name="excerpt" required>{{ post.excerpt }}</textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="blog-content">Content:</label>
+                        <textarea id="blog-content" name="blog-content" required>{{ post.content }}</textarea>
+                    </div>
+                    <button type="submit">Update Post</button>
+                </form>
+            </div>
+        </div>
+
+        {% include 'parts/footer.html' %}
+    </div>
+</body>
+</html>

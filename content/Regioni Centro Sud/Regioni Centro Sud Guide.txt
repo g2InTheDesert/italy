@@ -1,0 +1,278 @@
+<h1 class="guide-header">Regioni Centro Sud: Our Guide</h1>
+
+    <p>Regioni Centro Sud, comprising the provinces of Campania and Molise in southern-central Italy, blends Campania's dramatic coastline and ancient ruins with Molise's rugged Apennines and rural charm, offering a rich tapestry of history and nature. With a combined population estimated at 5,875,329 in 2025 (Campania: 5,575,025; Molise: 300,304), Regioni Centro Sud captivates with its vibrant culture, culinary excellence, and resilient spirit.</p>
+
+<section id="culture" class="guide-section">
+    <h2 class="guide-section-header">Culture</h2>
+    
+    <p>Regioni Centro Sud's culture is a mesmerizing fusion of ancient influences, religious fervor, and exuberant traditions that have shaped its identity over millennia. From Campania's sun-baked Amalfi Coast to Molise's isolated mountain villages, the region pulses with a unique blend of Greek, Roman, Norman, and Spanish legacies, evident in its architecture, music, and festivals. Music plays a central role, with Neapolitan songs like "O Sole Mio" in Campania and folk melodies in Molise's bagpipe traditions during local celebrations.</p>
+
+    <p>Religious rites are deeply ingrained, with processions honoring saints like San Gennaro in Naples (Campania), where the blood miracle draws crowds, or San Basso in Termoli (Molise) with coastal parades. The region's folklore includes Pulcinella in Campania's commedia dell'arte and Molise's buffardello, a mischievous sprite in legends. Art and architecture shine in UNESCO sites like Pompeii in Campania and the Roman theater in Iuvanum (Molise), with masterpieces like Caravaggio's paintings in Naples. Literature thrives through writers like Elena Ferrante (Campania) and Francesco Jovine (Molise), capturing the area's social fabric.</p>
+
+    <p>Family and social life revolve around meals and gatherings, with "la famiglia" at the core. Fashion leans toward elegant simplicity in Campania's Naples, influenced by tailoring, while Molise favors practical rural attire. Sports, particularly soccer with SSC Napoli, ignite passion. Contemporary culture evolves with immigration adding African and Eastern European flavors to urban life in Naples, while digital media spreads regional festivals globally. Regioni Centro Sud’s culture, passionate and multifaceted, continues to inspire with its blend of ancient roots and modern vitality.</p>
+
+    <p>Regioni Centro Sud's festivals are spectacular, such as the Festa di San Gennaro in Naples (Campania), featuring processions and the blood miracle, or the Sagra del Caciocavallo in Molise's Frosolone with cheese tastings. Dialects like Neapolitan in Campania and Molisano in Molise mix standard Italian with local idioms, used in poetry and theater. Artisans craft cameos in Campania's Torre del Greco and bells in Molise's Agnone. Literature festivals in Salerno (Campania) highlight contemporary writers. Cinema, from "The Hand of God" in Naples to films in Molise's mountains, captures the region's beauty. Music ranges from classical in Naples to folk at Molise's summer fairs. Catholicism dominates, with 90% identifying as Catholic, though practice varies. Holidays like Carnevale bring masks and sweets to Termoli. Regioni Centro Sud’s culture, diverse and passionate, thrives on its historical layers and social warmth.</p>
+
+    <p>The cultural scene is further enriched by Campania's Pulcinella theater, inspiring modern comedy, and Molise's Zampogna bagpipe festival in Scapoli, free to attend <sup><a href="#cite-33">33</a></sup>. The <strong>Gigli of Nola</strong> in Campania features towering lily structures, a UNESCO intangible heritage <sup><a href="#cite-13">13</a></sup>. Artisan fairs in Agnone showcase bell-making, with workshops for €10 <sup><a href="#cite-28">28</a></sup>. The region’s isolation in Molise preserved traditions like "befanate," Epiphany carols sung door-to-door in Campobasso, free to join <sup><a href="#cite-10">10</a></sup>. Regioni Centro Sud’s culture emphasizes community, with contrade in Nola organizing events. This cultural depth, from art to folklore, makes the region a treasure for immersive experiences.</p>
+
+    <p>The area’s gastronomic festivals, like the <strong>Sagra della Castagna</strong> in Montella (Campania), feature chestnut dishes for €8 <sup><a href="#cite-10">10</a></sup>. In Molise, the <strong>Sagra del Caciocavallo</strong> in Frosolone pairs cheese with local wine for €10 <sup><a href="#cite-30">30</a></sup>. These events, combined with the Via Salaria trail through Lazio, highlight Regioni Centro Sud’s vibrant cultural calendar.</p>
+</section>
+
+<section id="history" class="guide-section">
+    <h2 class="guide-section-header">History</h2>
+    
+    <p>Regioni Centro Sud’s history is a saga of ancient civilizations, conquests, and cultural fusion, beginning with prehistoric settlements around 6000 BC in Campania. Greek colonists founded Cumae in Campania (8th century BC), spreading Hellenic culture, while Molise was inhabited by Samnites. Rome conquered the area by the 3rd century BC, transforming Campania into a resort for elites with villas in Baiae, and Molise as a granary.</p>
+
+    <p>The Roman era saw prosperity, but Vesuvius' eruption in 79 AD buried Pompeii in Campania. The empire’s fall in 476 AD led to Ostrogoth and Byzantine rule, with Campania fortified and Molise under Lombard control. Arabs raided Campania in the 9th century, introducing crops, while Normans united the south in the 11th century, creating the Kingdom of Sicily.</p>
+
+    <p>The Angevin dynasty shifted the capital to Naples in the 13th century, fostering Gothic architecture. The Aragonese brought Renaissance influences, with Spanish rule following. The Bourbon era (18th–19th centuries) saw Naples as a European capital. The Risorgimento led to unification in 1860, with Garibaldi’s campaign in Campania. The 20th century brought industrialization in Naples, but challenges like the 1906 Vesuvius eruption and WWII landings in Salerno. Post-war economic boom transformed the region, though issues like the Camorra in Campania and emigration in Molise persist. The 1980 Irpinia earthquake killed thousands in Campania, prompting reconstruction. Today, Regioni Centro Sud balances its ancient legacy with modern development, from UNESCO sites to high-speed rail. Its history, from Greek colonies to unified Italy, underscores its enduring cultural impact.</p>
+
+    <p>Regioni Centro Sud’s historical narrative is enriched by its role as a cultural crossroads. The Greeks introduced philosophy in Neapolis, while Romans built amphitheaters in Capua. The medieval period saw the Amalfi Republic in Campania influencing navigation. The Renaissance in Naples fostered artists like Caravaggio. The Bourbon period saw the excavation of Pompeii. The 19th-century unification brought infrastructure like the Naples-Portici railway. The 20th century saw the region’s involvement in the Resistance, with partisans in Molise’s mountains. The post-war "economic miracle" brought factories to Campania, while rural Molise focused on agriculture. Recent preservation efforts, like the Gran Sasso Park in Abruzzo (bordering Molise), highlight ecological history. Regioni Centro Sud’s history, marked by conquest and innovation, continues to define its identity.</p>
+
+    <p>The region’s historical significance extends to its role in religion, with San Benedetto’s birth in Norcia (Umbria, but influential in Molise). The 2016 earthquake prompted community rebuilding in Norcia. Regioni Centro Sud’s history, blending imperial glory and spiritual depth, offers a living testament to its layered past.</p>
+</section>
+
+<section id="contemporary" class="guide-section">
+    <h2 class="guide-section-header">Contemporary Life</h2>
+    
+    <p>Regioni Centro Sud’s contemporary life is a dynamic blend of tradition, urban energy, and rural tranquility, with a population of 5,875,329 in 2025. Society is family-oriented, with strong ties to Catholic traditions, though urbanization in Naples (pop. 909,048) contrasts with rural life in Molise’s Campobasso (pop. 49,262). Daily routines in Naples involve bustling markets like Mercato di Porta Nolana, while Termoli’s markets offer seafood.</p>
+
+    <p>Education and healthcare are robust, with universities like Federico II in Naples attracting students. The region faces challenges like high unemployment (18% in Campania, 12% in Molise) and organized crime, but tourism and agriculture provide growth. Social life emphasizes meals and festivals, with "la famiglia" central to gatherings. Immigration from Africa and Eastern Europe has added diversity to urban Naples and rural Molise.</p>
+
+    <p><strong>Economy</strong>: The region’s GDP is projected at €145 billion in 2025 (Campania: €110 billion; Molise: €35 billion), driven by tourism (14% in Campania) and agriculture. Unemployment is around 16% in 2023, expected to improve to 15% in 2026. Agriculture produces mozzarella in Campania and truffles in Molise, with exports worth €8 billion. Challenges include economic disparities with northern Italy, but EU funds support infrastructure like high-speed rail. Contemporary Regioni Centro Sud balances its ancient roots with modern vibrancy, facing issues like climate change while celebrating its passionate lifestyle.</p>
+
+    <p>Regioni Centro Sud’s social fabric is woven with regional pride, where Neapolitan energy meets Molisano serenity. Coffee culture, with espresso at bars like Gran Caffè Gambrinus in Naples, is a ritual. Sports like soccer with SSC Napoli ignite passion. Politics is dynamic, with a mix of progressivism in Naples and conservatism in rural Molise. Environmental awareness is rising, with initiatives like plastic-free beaches in Campania. Regioni Centro Sud’s contemporary life, marked by resilience and creativity, continues to evolve while honoring its heritage.</p>
+
+    <p>The region’s economy benefits from tourism, with 10 million visitors annually to Campania’s Amalfi Coast. Manufacturing in Campania’s Naples supports 20% of jobs. Small industries in textiles employ locals in towns like Isernia (Molise). Unemployment is higher in Molise (12%), lower than southern average. EU-funded projects, like the Naples-Bari rail, address mobility <sup><a href="#cite-23">23</a></sup>. Regioni Centro Sud’s life, with its urban pace and community focus, offers a counterpoint to urban Italy.</p>
+
+    <p>Demographic trends show a declining population in Molise (0.8% annual decrease), leading to initiatives like rural repopulation in Campobasso. Social services focus on elderly care, with community centers in Termoli. Youth programs in Norcia encourage return migration through truffle apprenticeships. Regioni Centro Sud’s contemporary life emphasizes sustainability, with organic farms in Campania leading biodynamic mozzarella production <sup><a href="#cite-28">28</a></sup>.</p>
+</section>
+
+<section id="odd-attractions" class="guide-section">
+    <h2 class="guide-section-header">Attractions</h2>
+    
+    <p>Regioni Centro Sud is home to quirky attractions offering a glimpse into its eccentric side, rooted in history and folklore.</p>
+
+    <p>In Campania, the <strong>Phlegraean Fields</strong> near Naples feature the Solfatara volcano crater, a steaming lunar landscape with bubbling mud pools, entry at €8 <sup><a href="#cite-33">33</a></sup>. Molise’s <strong>Campane di Agnone</strong>, the world’s oldest bell foundry in Agnone, showcases quirky bell-making demos, with tours for €5 <sup><a href="#cite-33">33</a></sup>. Campania’s <strong>Lake Averno</strong>, believed the entrance to Hades, offers eerie boat rides for €10 <sup><a href="#cite-33">33</a></sup>. Molise’s <strong>Castello Pandone</strong> in Venafro displays horse portraits painted in the 16th century, a peculiar art collection for €4 <sup><a href="#cite-33">33</a></sup>. Campania’s <strong>Museo del Corallo</strong> in Torre del Greco features jewelry made from red coral, a quirky volcanic product, entry at €6 <sup><a href="#cite-33">33</a></sup>. These attractions, blending the whimsical and historical, make the region a haven for curious travelers.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Attraction</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Location</strong></th>
+        <th><strong>Cost</strong></th>
+        <th><strong>Province</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Phlegraean Fields</td>
+        <td>Steaming volcano crater with mud pools</td>
+        <td>Near Naples</td>
+        <td>€8</td>
+        <td>Campania</td>
+        </tr>
+
+        <tr>
+        <td>Campane di Agnone</td>
+        <td>World’s oldest bell foundry with demos</td>
+        <td>Agnone</td>
+        <td>€5</td>
+        <td>Molise</td>
+        </tr>
+
+        <tr>
+        <td>Lake Averno</td>
+        <td>Lake believed entrance to Hades</td>
+        <td>Near Naples</td>
+        <td>€10</td>
+        <td>Campania</td>
+        </tr>
+
+        <tr>
+        <td>Castello Pandone</td>
+        <td>16th-century horse portraits</td>
+        <td>Venafro</td>
+        <td>€4</td>
+        <td>Molise</td>
+        </tr>
+
+        <tr>
+        <td>Museo del Corallo</td>
+        <td>Jewelry from volcanic red coral</td>
+        <td>Torre del Greco</td>
+        <td>€6</td>
+        <td>Campania</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="food" class="guide-section">
+    <h2 class="guide-section-header">Food</h2>
+    
+    <p>Regioni Centro Sud’s food is a celebration of diverse, hearty ingredients, blending Campania’s coastal freshness with Molise’s mountain earthiness. <strong>Pizza Napoletana</strong>, soft dough with tomato, mozzarella, and basil, is iconic in Campania’s Naples, served at Da Michele for €5. <strong>Pasta al tartufo</strong>, pasta with black truffle sauce from Molise, is a staple in Campobasso for €10. <strong>Mozzarella di bufala</strong>, creamy buffalo cheese from Campania, is used in insalata caprese with tomatoes for €8. <strong>Brodetto</strong>, a fish stew from Molise’s Termoli, is served with polenta for €12.</p>
+
+    <p><strong>Spaghetti alle vongole</strong>, pasta with clams from Campania, is a classic in Amalfi for €10, paired with Falanghina wine. <strong>Caciocavallo</strong>, hanging cheese from Molise, is paired with honey in antipasti, found at markets in Isernia for €4. Desserts include <strong>sfogliatella</strong>, flaky pastry with ricotta from Campania, and <strong>cicerchiata</strong>, honeyed dough balls from Molise, served at festivals for €3. Street food like <strong>arancini</strong> in Campania is common at sagre for €4.</p>
+
+    <p>Wines like Lacryma Christi (Campania) and Tintilia (Molise) are renowned. The region’s cuisine emphasizes seasonality, with DOP products protecting quality. Meals are social, with long dinners featuring antipasti, primi, secondi, and dolci. Regioni Centro Sud’s food, diverse and influential, is a global ambassador of its culture.</p>
+
+    <p>Regional specialties abound: Campania’s <strong>scialatielli</strong> with seafood in Amalfi for €10. Molise’s <strong>cavatelli con sugo di ventricina</strong>, pasta with spicy sausage sauce, is a delicacy in Termoli for €9. Vegetarian options like <strong>parmigiana di melanzane</strong> are common in Campania. Wine pairing is an art, with Aglianico for hearty dishes. The region’s cuisine, from pizza to truffle pastas, showcases its coastal and mountain terroir.</p>
+
+    <p>The culinary scene is tied to festivals. The <strong>Sagra della Castagna</strong> in Soriano nel Cimino (Lazio, but similar in Molise) offers chestnut tastings for €5 <sup><a href="#cite-10">10</a></sup>. In Campania, the <strong>PizzaFest</strong> in Naples features pizza-making classes for €15 <sup><a href="#cite-17">17</a></sup>. Molise’s <strong>Sagra del Caciocavallo</strong> in Frosolone pairs cheese with local wine for €8 <sup><a href="#cite-29">29</a></sup>. These events highlight the region’s commitment to culinary traditions and sustainability.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Culinary Specialty</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Notable Pairings/Uses</strong></th>
+        <th><strong>Province</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Pizza Napoletana</td>
+        <td>Soft dough with tomato, mozzarella, basil</td>
+        <td>Lacryma Christi wine</td>
+        <td>Campania</td>
+        </tr>
+
+        <tr>
+        <td>Pasta al Tartufo</td>
+        <td>Pasta with black truffle sauce</td>
+        <td>Tintilia wine</td>
+        <td>Molise</td>
+        </tr>
+
+        <tr>
+        <td>Mozzarella di Bufala</td>
+        <td>Creamy buffalo cheese</td>
+        <td>Insalata caprese, fresh tomatoes</td>
+        <td>Campania</td>
+        </tr>
+
+        <tr>
+        <td>Brodetto</td>
+        <td>Fish stew</td>
+        <td>Cicerchiata dessert</td>
+        <td>Molise</td>
+        </tr>
+
+        <tr>
+        <td>Spaghetti alle Vongole</td>
+        <td>Pasta with clams</td>
+        <td>Falanghina wine</td>
+        <td>Campania</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="travel" class="guide-section">
+    <h2 class="guide-section-header">Travel and Transportation</h2>
+    
+    <p>Travel in Regioni Centro Sud is efficient with a mix of trains, buses, ferries, and cars connecting its diverse landscapes. High-speed trains like Frecciarossa link Naples (Campania) to Rome in 1 hour for €30–€60, while regional trains serve smaller towns like Salerno to Paestum for €5 <sup><a href="#cite-18">18</a></sup>, <sup><a href="#cite-19">19</a></sup>. Domestic flights from Naples to Lamezia Terme take 1 hour for €40–€80 <sup><a href="#cite-20">20</a></sup>.</p>
+
+    <p>Buses, operated by SITA Sud, navigate the Amalfi Coast, with fares from Salerno to Amalfi at €3–€8 <sup><a href="#cite-21">21</a></sup>, <sup><a href="#cite-23">23</a></sup>. Driving offers flexibility but challenges with winding roads; rent a car for €30/day, but note tolls on A3 (€2–€5) <sup><a href="#cite-21">21</a></sup>. Ferries from Naples to Capri cost €20–€40, with hydrofoils faster at 40 minutes <sup><a href="#cite-20">20</a></sup>.</p>
+
+    <p>For 2025, ETIAS authorization is required for non-EU visitors (€7 fee), and passports must be valid for 3 months beyond stay <sup><a href="#cite-15">15</a></sup>. Public transport like Unicocampania tickets cover buses and ferries in Campania for €4–€10/day <sup><a href="#cite-22">22</a></sup>. The region’s transport, from scenic roads to trains, enhances the travel experience.</p>
+
+    <p>The travel scene is enriched by regional diversity. The Circumvesuviana train links Naples to Sorrento for €3–€5 <sup><a href="#cite-18">18</a></sup>. Bike rentals in Naples cost €10/day for coastal trails. Eco-tourism is growing, with electric buses on the Amalfi Coast. Apps like Moovit aid navigation. The region’s connectivity makes exploring easy and enjoyable.</p>
+
+    <p>The transportation infrastructure supports tourism, with buses connecting UNESCO sites like Pompeii to Naples. The Via Appia trail offers 100 km of hiking <sup><a href="#cite-9">9</a></sup>. Renting scooters in Naples for €40/day allows exploration of the coast. Guided shuttle services from Naples to Amalfi cost €50, including wine tastings. The region’s mix of transport caters to all travelers.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Transportation Option</strong></th>
+        <th><strong>Details</strong></th>
+        <th><strong>Approximate Travel Time</strong></th>
+        <th><strong>Notes</strong></th>
+        <th><strong>Province</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>High-Speed Train</td>
+        <td>Frecciarossa Naples to Rome</td>
+        <td>1 hour</td>
+        <td>€30–€60, book in advance</td>
+        <td>Campania</td>
+        </tr>
+
+        <tr>
+        <td>Regional Train</td>
+        <td>Salerno to Paestum</td>
+        <td>30 min</td>
+        <td>€5, frequent</td>
+        <td>Campania</td>
+        </tr>
+
+        <tr>
+        <td>Bus</td>
+        <td>SITA Sud Salerno to Amalfi</td>
+        <td>1 hour</td>
+        <td>€3–€8, scenic but crowded</td>
+        <td>Campania</td>
+        </tr>
+
+        <tr>
+        <td>Car Rental</td>
+        <td>Hertz in Naples</td>
+        <td>Varies</td>
+        <td>€30/day, tolls extra</td>
+        <td>Campania</td>
+        </tr>
+
+        <tr>
+        <td>Ferry</td>
+        <td>Naples to Capri</td>
+        <td>40 min</td>
+        <td>€20–€40, hydrofoil faster</td>
+        <td>Campania</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="citations" class="guide-section">
+    <h2 class="guide-section-header">Citations</h2>
+    <ul>
+    <li id="cite-1"><a href="https://en.wikipedia.org/wiki/Campania">Campania - Wikipedia</a></li>
+    <li id="cite-2"><a href="https://www.citypopulation.de/en/italy/admin/15__campania/">Campania (Region, Italy) - Population Statistics, Charts, Map and Location</a></li>
+    <li id="cite-3"><a href="https://www.citypopulation.de/en/italy/admin/14__molise/">Molise (Region, Italy) - Population Statistics, Charts, Map and Location</a></li>
+    <li id="cite-4"><a href="https://en.wikipedia.org/wiki/Molise">Molise - Wikipedia</a></li>
+    <li id="cite-5"><a href="https://worldpopulationreview.com/cities/italy">Italy Cities by Population 2025 - World Population Review</a></li>
+    <li id="cite-6"><a href="https://www.statista.com/statistics/617497/resident-population-italy-by-region/">Resident population in Italy 2025, by region - Statista</a></li>
+    <li id="cite-7"><a href="https://worldpopulationreview.com/cities/italy">Italy Cities by Population 2025 - World Population Review</a></li>
+    <li id="cite-8"><a href="https://www.timetravelturtle.com/best-towns-campania-italy/">The best towns in Campania to visit - Time Travel Turtle</a></li>
+    <li id="cite-9"><a href="https://en.wikipedia.org/wiki/Samnites">Samnites - Wikipedia</a></li>
+    <li id="cite-10"><a href="https://www.italyguides.it/en/campania/festivals">Festivals of Campania - ItalyGuides.it</a></li>
+    <li id="cite-11"><a href="https://en.wikipedia.org/wiki/History_of_Campania">History of Campania - Wikipedia</a></li>
+    <li id="cite-12"><a href="https://www.afsusa.org/countries/italy/">AFS-USA - The Culture of Italy</a></li>
+    <li id="cite-13"><a href="https://www.visitnaples.eu/en/festa-di-san-gennaro/">Visit Naples - Festa di San Gennaro</a></li>
+    <li id="cite-14"><a href="https://www.visitnaples.eu/en/vesuvius-national-park/">Visit Naples - Vesuvius National Park</a></li>
+    <li id="cite-15"><a href="https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Italy.html">U.S. State Department - Italy International Travel Information</a></li>
+    <li id="cite-16"><a href="https://www.livescience.com/44376-italian-culture.html">Live Science - Italian Culture</a></li>
+    <li id="cite-17"><a href="https://en.wikipedia.org/wiki/Italian_cuisine">Wikipedia - Italian cuisine</a></li>
+    <li id="cite-18"><a href="https://www.trenitalia.com/en.html">Trenitalia</a></li>
+    <li id="cite-19"><a href="https://store.ricksteves.com/shop/p/italy-guidebook">Rick Steves Travel Store - Italy Guidebook for 2025</a></li>
+    <li id="cite-20"><a href="https://www.rome2rio.com/s/Naples/Capri">Rome2Rio - Naples to Capri</a></li>
+    <li id="cite-21"><a href="https://www.rome2rio.com/s/Salerno/Positano">Rome2Rio - Salerno to Positano</a></li>
+    <li id="cite-22"><a href="https://www.unicocampania.it/">Unicocampania</a></li>
+    <li id="cite-23"><a href="https://www.visitamalficoast.com/en/amalfi">Visit Amalfi Coast - Amalfi</a></li>
+    <li id="cite-24"><a href="https://www.tastingtable.com/752834/20-italian-dishes-you-need-to-try-at-least-once/">Tasting Table - 29 Italian Dishes You Need To Try At Least Once</a></li>
+    <li id="cite-25"><a href="https://en.wikipedia.org/wiki/Italian_cuisine">Wikipedia - Italian cuisine</a></li>
+    <li id="cite-26"><a href="https://www.foodandwine.com/travel/europe/italy/italian-main-dishes">Food & Wine - 35 Irresistible Italian Main Dishes</a></li>
+    <li id="cite-27"><a href="https://salindaresort.com/uncategorized/traditional-italian-food">Salinda Resort - 22+ Famous Traditional Italian Food Dishes</a></li>
+    <li id="cite-28"><a href="https://www.quora.com/What-are-some-regional-Italian-foods-that-foreigners-dont-know-about">Quora - What are some regional Italian foods that foreigners don't know about?</a></li>
+    <li id="cite-29"><a href="https://www.greatitalianchefs.com/features/campania-food-guide">Great Italian Chefs - Campania Food Guide</a></li>
+    <li id="cite-30"><a href="https://www.eataly.com/us_en/magazine/culture/regional-cuisine-campania">Eataly - Campania</a></li>
+    <li id="cite-31"><a href="https://www.reuters.com/world/europe/italy-stats-bureau-cuts-2025-gdp-growth-estimate-line-with-government-2025-06-06/">Reuters - Italy stats bureau cuts 2025 GDP growth estimate</a></li>
+    <li id="cite-32"><a href="https://www.visitnaples.eu/en/mercato-di-porta-nolana">Visit Naples - Mercato di Porta Nolana</a></li>
+    <li id="cite-33"><a href="https://www.atlasobscura.com/things-to-do/central-italy">Cool and Unusual Things to Do in Central Italy - Atlas Obscura</a></li>
+    <li id="cite-34">X Post by @centralitalytraveler, 19:00 2025-07-27 MDT</li>
+    </ul>
+</section>

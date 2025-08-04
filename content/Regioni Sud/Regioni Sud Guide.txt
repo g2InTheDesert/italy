@@ -1,0 +1,281 @@
+<h1 class="guide-header">Regioni Sud: Our Guide</h1>
+
+    <p>Regioni Sud, comprising the provinces of Basilicata, Calabria, Puglia, and Sicilia in southern Italy, blends Sicily's island allure, Puglia's trulli houses, Basilicata's rocky landscapes, and Calabria's rugged coastlines, offering a rich tapestry of history and nature. With a combined population estimated at 12,000,000 in 2025 (Sicilia: 4,779,371; Puglia: 3,926,931; Calabria: 1,841,300; Basilicata: 531,000), Regioni Sud captivates with its vibrant culture, culinary excellence, and resilient spirit.</p>
+
+<section id="culture" class="guide-section">
+    <h2 class="guide-section-header">Culture</h2>
+    
+    <p>Regioni Sud's culture is a mesmerizing fusion of ancient influences, religious fervor, and exuberant traditions that have shaped its identity over millennia. From Sicily's Arab-Norman cathedrals to Puglia's trulli houses, the region pulses with a unique blend of Greek, Roman, Arab, Norman, and Spanish legacies, evident in its architecture, music, and festivals. Music plays a central role, with Sicilian folk songs like "Ciuri Ciuri" and tarantella dances in Puglia believed to cure spider bites during celebrations.</p>
+
+    <p>Religious rites are deeply ingrained, with processions honoring saints like Sant'Agata in Catania (Sicilia), where relics are paraded in one of the world's largest festivals, or San Rocco in Scilla (Calabria) with coastal parades. The region's folklore includes Sicily's opera dei pupi (puppet theater) and Basilicata's Maggio di Accettura, a tree-marriage ritual symbolizing fertility. Art and architecture shine in UNESCO sites like Sicily's Valley of the Temples and Puglia's Alberobello trulli, with masterpieces like Michelangelo's influences in Rome extending south. Literature thrives through writers like Luigi Pirandello (Sicilia) and Carlo Levi (Basilicata), capturing the area's complex social fabric.</p>
+
+    <p>Family and social life revolve around meals and gatherings, with "la famiglia" at the core. Fashion leans toward elegant simplicity in Sicily's Palermo, influenced by tailoring, while Puglia favors colorful rural attire. Sports, particularly soccer with Palermo FC (Sicilia) and Bari FC (Puglia), evoke fervent loyalty. Contemporary culture evolves with immigration adding North African flavors to street life in Palermo, while digital media spreads regional festivals globally. Regioni Sud’s culture, passionate and multifaceted, continues to inspire with its blend of ancient roots and modern vitality.</p>
+
+    <p>Regioni Sud's festivals are spectacular, such as the Festa di Sant'Agata in Catania (Sicilia), featuring massive candle structures, or the Sagra del Peperoncino in Diamante (Calabria) with spicy food competitions. Dialects like Sicilian and Calabrese mix standard Italian with local idioms, used in poetry and theater. Artisans craft marionettes in Palermo and ceramics in Grottaglie (Puglia). Literature festivals in Taormina (Sicilia) highlight contemporary writers. Cinema, with "The Godfather" in Sicily and films in Basilicata's Matera, captures the region's beauty. Music ranges from classical in Ravello (Campania, but influential) to folk at Calabria's tarantella festivals. Catholicism dominates, with 90% identifying as Catholic, though practice varies. Holidays like Carnevale bring masks and sweets to Acireale (Sicilia). Regioni Sud’s culture, diverse and passionate, thrives on its historical layers and social warmth.</p>
+
+    <p>The cultural scene is further enriched by Sicily's puppet theater, inspiring modern performances, and Puglia's pizzica dance festivals in Salento, with tickets for €10. The <strong>Matera European Capital of Culture</strong> legacy in Basilicata features art installations in sassi caves, entry at €5 <sup><a href="#cite-37">37</a></sup>. Artisan fairs in Caltagirone (Sicilia) showcase ceramics, with workshops for €10 <sup><a href="#cite-20">20</a></sup>. The region’s isolation in Molise preserved traditions like "befanate," Epiphany carols in Campobasso, free to join <sup><a href="#cite-7">7</a></sup>. Regioni Sud’s culture emphasizes community, with contrade in Sicily organizing events like the Palio dei Normanni in Piazza Armerina. This cultural depth, from art to folklore, makes the region a treasure for immersive experiences.</p>
+
+    <p>The area’s gastronomic festivals, like the <strong>Sagra del Tartufo</strong> in Norcia (Umbria, but similar in Basilicata), offer truffle tastings for €5 <sup><a href="#cite-20">20</a></sup>. In Puglia, the <strong>Sagra della Zeppola</strong> in Lecce features fried dough for €3 <sup><a href="#cite-24">24</a></sup>. These events, combined with the Via Francigena trail through Toscana (influencing southern routes), highlight Regioni Centro Nord’s vibrant cultural calendar.</p>
+</section>
+
+<section id="history" class="guide-section">
+    <h2 class="guide-section-header">History</h2>
+    
+    <p>Regioni Centro Nord’s history is a saga of ancient civilizations, Renaissance splendor, and cultural innovation, beginning with Etruscan settlements around 900 BC. The Etruscans established city-states in Toscana and Umbria, influencing Roman culture with advanced engineering. Rome’s influence spread by the 3rd century BC, transforming the region with roads like the Via Flaminia and villas in Emilia-Romagna.</p>
+
+    <p>The fall of Rome in 476 AD led to Lombard and Byzantine rule, with Bologna and Ravenna emerging as key centers. The Middle Ages saw the rise of communes, with Florence (Toscana) and Perugia (Umbria) dominating, and conflicts like the Battle of Montaperti in 1260 shaping Toscana’s politics. The Renaissance (14th–17th centuries) flourished under the Medici in Toscana and the Montefeltro in Urbino (Marche), producing geniuses like Leonardo da Vinci and Raphael.</p>
+
+    <p>The Papal States controlled Umbria and parts of Marche until the 19th century, with reforms improving agriculture in Emilia-Romagna. The Risorgimento led to unification in 1861, with Toscana and Emilia-Romagna joining the Kingdom of Italy. The 20th century brought industrialization in Bologna, but rural areas like Marche’s Sibillini remained agricultural. The 1966 Florence flood damaged art, and the 2016 earthquake affected Umbria’s Norcia, but reconstruction continues <sup><a href="#cite-12">12</a></sup>. Post-war economic boom transformed the region, with tourism thriving after UNESCO designations for Florence (1982), Siena (1995), and Urbino (1998) <sup><a href="#cite-13">13</a></sup>. Today, Regioni Centro Nord balances its ancient legacy with modern development, from UNESCO sites to sustainable agriculture.</p>
+
+    <p>The region’s historical narrative is enriched by its role as a cultural crossroads. The Etruscans introduced metallurgy, while Romans built the Via Flaminia. The medieval period saw Bologna’s university, founded in 1088, as Europe’s oldest. The Renaissance fostered humanism, with Florence’s Uffizi Gallery housing Botticelli’s works. The 18th-century papal rule brought land reforms to Umbria. The 19th-century unification introduced railways like Bologna-Florence. The 20th century saw the region’s involvement in the Resistance, with partisans in Marche’s mountains. The post-war “economic miracle” brought factories to Emilia-Romagna, while rural Toscana focused on wine. Recent preservation efforts, like the Gran Sasso National Park in Abruzzo (bordering Marche), highlight ecological history. Regioni Centro Nord’s history, marked by innovation and cultural depth, continues to define its identity.</p>
+
+    <p>The region’s historical significance extends to its role in education, with Bologna’s university influencing European scholarship. The 2016 earthquake prompted global support for Umbria’s restoration. Regioni Centro Nord’s history, blending artistic brilliance and rural continuity, offers a living testament to its layered past.</p>
+</section>
+
+<section id="contemporary" class="guide-section">
+    <h2 class="guide-section-header">Contemporary Life</h2>
+    
+    <p>Regioni Centro Nord’s contemporary life is a dynamic blend of tradition, urban energy, and rural tranquility, with a population of 12,208,110 in 2025. Society is family-oriented, with strong ties to Catholic traditions, though urbanization in Florence (pop. 366,927) and Bologna (pop. 394,087) contrasts with rural life in Umbria’s Valtopina (pop. 1,300). Daily routines in Florence involve bustling markets like Mercato Centrale, selling fresh produce, while Ancona’s markets offer seafood.</p>
+
+    <p>Education and healthcare are robust, with universities like Bologna experiencing the world’s economic miracle. The region faces challenges like youth emigration (0.5% annual decrease in rural areas) and overtourism in Florence (15 million visitors annually), but tourism and manufacturing provide growth. Social life emphasizes meals and festivals, with "la famiglia" central to gatherings. Immigration from Eastern Europe and Africa has added diversity to urban Bologna and rural Marche.</p>
+
+    <p><strong>Economy</strong>: The region’s GDP is projected at €350 billion in 2025 (Toscana: €120 billion; Emilia-Romagna: €160 billion; Umbria: €35 billion; Marche: €35 billion), driven by tourism (15% of Toscana’s GDP) and manufacturing in Emilia-Romagna. Unemployment is around 6% in 2023, expected to improve to 5.5% in 2026. Agriculture produces Chianti wine (Toscana), truffles (Umbria), and olives (Marche), with exports worth €20 billion. Challenges include economic disparities with northern Italy, but EU funds support infrastructure like high-speed rail. Contemporary Regioni Centro Nord balances its ancient roots with modern vibrancy, facing issues like climate change while celebrating its passionate lifestyle.</p>
+
+    <p>The region’s social fabric is woven with regional pride, where Tuscan elegance meets Emilia-Romagna’s industriousness. Coffee culture, with espresso at bars like Gilli in Florence, is a ritual. Sports like cycling in the Eroica vintage bike race in Montalcino ignite passion for nature. Politics is dynamic, with progressivism in Bologna and conservatism in rural Umbria. Environmental awareness is growing, with zero-waste festivals in Perugia. Regioni Centro Nord’s contemporary life, marked by resilience and creativity, continues to evolve while honoring its heritage.</p>
+
+    <p>The economy benefits from tourism, with 20 million visitors annually to Toscana and Umbria. Manufacturing in Emilia-Romagna, including Ferrari and Lamborghini, supports 30% of jobs. Unemployment is around 6%, lower than southern Italy. EU-funded projects, like the Florence-Bologna high-speed rail, address mobility. Demographic trends show an aging population (25% over 65), leading to silver tourism in Siena. Social services focus on elderly care, with community centers in Urbino. Youth programs in Norcia encourage return migration through truffle apprenticeships. Regioni Centro Nord’s contemporary life emphasizes sustainability, with organic farms in Toscana leading biodynamic wine production.</p>
+</section>
+
+<section id="odd-attractions" class="guide-section">
+    <h2 class="guide-section-header">Attractions</h2>
+    
+    <p>Regioni Centro Nord is home to quirky attractions offering a glimpse into its eccentric side, rooted in history and folklore.</p>
+
+    <p>In Toscana, the <strong>Garden of Daniel Spoerri</strong> in Seggiano features 113 surreal sculptures, entry at €10 <sup><a href="#cite-37">37</a></sup>. Umbria’s <strong>Orvieto Underground</strong>, a network of Etruscan caves, offers guided tours for €7 <sup><a href="#cite-20">20</a></sup>. Emilia-Romagna’s <strong>Labirinto della Masone</strong> in Fontanellato is the world’s largest maze, made of bamboo, with entry at €18 <sup><a href="#cite-37">37</a></sup>. Marche’s <strong>Labirinto di Hort</strong> in Senigallia is a corn maze with themed paths, entry at €5 <sup><a href="#cite-37">37</a></sup>. Bologna’s <strong>Anatomical Theatre</strong> in the Archiginnasio displays 17th-century wooden carvings of skinned figures, entry at €3 <sup><a href="#cite-37">37</a></sup>. These attractions, blending the whimsical and historical, make the region a haven for curious travelers.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Attraction</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Location</strong></th>
+        <th><strong>Cost</strong></th>
+        <th><strong>Region</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Garden of Daniel Spoerri</td>
+        <td>113 surreal sculptures</td>
+        <td>Seggiano</td>
+        <td>€10</td>
+        <td>Toscana</td>
+        </tr>
+
+        <tr>
+        <td>Orvieto Underground</td>
+        <td>Etruscan caves and tunnels</td>
+        <td>Orvieto</td>
+        <td>€7</td>
+        <td>Umbria</td>
+        </tr>
+
+        <tr>
+        <td>Labirinto della Masone</td>
+        <td>World’s largest bamboo maze</td>
+        <td>Fontanellato</td>
+        <td>€18</td>
+        <td>Emilia-Romagna</td>
+        </tr>
+
+        <tr>
+        <td>Labirinto di Hort</td>
+        <td>Themed corn maze</td>
+        <td>Senigallia</td>
+        <td>€5</td>
+        <td>Marche</td>
+        </tr>
+
+        <tr>
+        <td>Anatomical Theatre</td>
+        <td>17th-century wooden anatomical carvings</td>
+        <td>Bologna</td>
+        <td>€3</td>
+        <td>Emilia-Romagna</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="food" class="guide-section">
+    <h2 class="guide-section-header">Food</h2>
+    
+    <p>Regioni Centro Nord’s food is a celebration of diverse, hearty ingredients, blending Tuscan simplicity, Umbrian earthiness, Emilia-Romagna’s richness, and Marche’s seafood. <strong>Bistecca alla fiorentina</strong>, a grilled T-bone steak from Toscana, is iconic in Florence, served at Trattoria Mario for €25, paired with Chianti Classico. <strong>Pasta al tartufo nero</strong>, pasta with black truffle sauce from Umbria, is a staple in Perugia for €12. <strong>Tortellini in brodo</strong>, stuffed pasta in broth from Emilia-Romagna, is popular in Bologna at Osteria dell’Orsa for €10. <strong>Brodetto</strong>, a fish stew from Marche, is served in Ancona for €15.</p>
+
+    <p><strong>Tagliatelle al ragù</strong>, Emilia-Romagna’s meat sauce pasta, is a classic in Bologna for €12, paired with Sangiovese. <strong>Pecorino di Pienza</strong> (Toscana) and <strong>Pecorino di Norcia</strong> (Umbria) are paired with honey in antipasti, found at markets in Siena for €4. Desserts include <strong>cantucci</strong> (Toscana) dipped in Vin Santo and <strong>cicerchiata</strong> (Marche), honeyed dough balls, served at festivals in Urbino for €3. Street food like <strong>piadina</strong> with prosciutto from Emilia-Romagna is common at sagre in Ravenna for €4.</p>
+
+    <p>Wines like Brunello di Montalcino (Toscana), Sagrantino di Montefalco (Umbria), and Verdicchio (Marche) are renowned. The region’s cuisine emphasizes seasonality, with DOP products protecting quality. Meals are social, with long dinners featuring antipasti, primi, secondi, and dolci. Regioni Centro Nord’s food, diverse and influential, is a global ambassador of its culture.</p>
+
+    <p>Regional specialties abound: Toscana’s <strong>pici all’aglione</strong>, hand-rolled pasta with garlic sauce, is served in Montepulciano for €10. Marche’s <strong>vincisgrassi</strong>, a lasagna variant, is a delicacy in Macerata for €12. Vegetarian options like <strong>ribollita</strong> (Toscana) are common in Siena. Wine pairing is an art, with Lambrusco (Emilia-Romagna) for lighter dishes. The region’s cuisine, from truffle pastas to seafood stews, showcases its fertile terroir.</p>
+
+    <p>The culinary scene is tied to festivals. The <strong>Sagra del Tartufo</strong> in Norcia offers cooking classes for €15 <sup><a href="#cite-20">20</a></sup>. In Bologna, the <strong>Festa della Mortadella</strong> pairs sausage with Lambrusco for €8 <sup><a href="#cite-23">23</a></sup>. Toscana’s <strong>Festa dell’Olio</strong> in Montalcino offers olive oil tastings for €5 <sup><a href="#cite-19">19</a></sup>. These events highlight the region’s commitment to culinary traditions and sustainability.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Culinary Specialty</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Notable Pairings/Uses</strong></th>
+        <th><strong>Region</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Bistecca alla Fiorentina</td>
+        <td>Grilled T-bone steak</td>
+        <td>Chianti Classico wine</td>
+        <td>Toscana</td>
+        </tr>
+
+        <tr>
+        <td>Pasta al Tartufo Nero</td>
+        <td>Pasta with black truffle sauce</td>
+        <td>Umbria DOP olive oil</td>
+        <td>Umbria</td>
+        </tr>
+
+        <tr>
+        <td>Tortellini in Brodo</td>
+        <td>Stuffed pasta in broth</td>
+        <td>Sangiovese wine</td>
+        <td>Emilia-Romagna</td>
+        </tr>
+
+        <tr>
+        <td>Brodetto</td>
+        <td>Fish stew</td>
+        <td>Verdicchio wine</td>
+        <td>Marche</td>
+        </tr>
+
+        <tr>
+        <td>Tagliatelle al Ragù</td>
+        <td>Pasta with meat sauce</td>
+        <td>Lambrusco wine</td>
+        <td>Emilia-Romagna</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="travel" class="guide-section">
+    <h2 class="guide-section-header">Travel and Transportation</h2>
+    
+    <p>Travel in Regioni Centro Nord is efficient with a mix of trains, buses, cars, and hikes connecting its diverse landscapes. High-speed trains like Frecciarossa link Florence (Toscana) to Bologna (Emilia-Romagna) in 35 minutes for €20–€40, while regional trains serve smaller towns like Perugia to Spello (Umbria) for €3–€5, taking 20 minutes <sup><a href="#cite-25">25</a></sup>, <sup><a href="#cite-26">26</a></sup>. Domestic flights to Bologna Guglielmo Marconi Airport or Florence Peretola Airport take 1 hour from Rome for €40–€80 <sup><a href="#cite-28">28</a></sup>.</p>
+
+    <p>Buses by Tiemme (Toscana) and Umbria Mobilità navigate rural areas, with fares from Ancona to Urbino (Marche) at €5–€8, taking 1 hour <sup><a href="#cite-27">27</a></sup>, <sup><a href="#cite-28">28</a></sup>. Driving offers flexibility; rent a car for €30/day, but note tolls on A14 (€5–€10) <sup><a href="#cite-25">25</a></sup>. Ferries operate in Marche’s Ancona to Croatia for €40–€80, taking 10 hours <sup><a href="#cite-30">30</a></sup>.</p>
+
+    <p>For 2025, ETIAS authorization is required for non-EU visitors (€7 fee), and passports must be valid for 3 months beyond stay <sup><a href="#cite-11">11</a></sup>. Public transport like SITA tickets cover buses in Toscana for €5–€10/day <sup><a href="#cite-27">27</a></sup>. The region’s transport, from scenic roads to trains, enhances the travel experience.</p>
+
+    <p>The travel scene is enriched by its regional diversity. The Bologna-Florence high-speed train offers views of the Apennines <sup><a href="#cite-31">31</a></sup>. Bike rentals in Siena cost €10/day for vineyard trails <sup><a href="#cite-29">29</a></sup>. Eco-tourism is growing, with electric buses in Perugia for rural routes. Apps like Moovit aid navigation <sup><a href="#cite-28">28</a></sup>. The region’s connectivity makes exploring easy and enjoyable.</p>
+
+    <p>The transportation infrastructure supports tourism, with trains connecting UNESCO sites like Florence to Ravenna. The Via Francigena trail offers 400 km of hiking through Toscana and Umbria <sup><a href="#cite-30">30</a></sup>. Renting scooters in Ancona for €40/day allows exploration of Urbino <sup><a href="#cite-32">32</a></sup>. Guided shuttles from Florence to Siena cost €50, including wine tastings <sup><a href="#cite-32">32</a></sup>. The region’s mix of transport caters to all travelers.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Transportation Option</strong></th>
+        <th><strong>Details</strong></th>
+        <th><strong>Approximate Travel Time</strong></th>
+        <th><strong>Notes</strong></th>
+        <th><strong>Region</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>High-Speed Train</td>
+        <td>Frecciarossa Florence to Bologna</td>
+        <td>35 min</td>
+        <td>€20–€40, book in advance</td>
+        <td>Toscana/Emilia-Romagna</td>
+        </tr>
+
+        <tr>
+        <td>Regional Train</td>
+        <td>Perugia to Spello</td>
+        <td>20 min</td>
+        <td>€3–€5, frequent</td>
+        <td>Umbria</td>
+        </tr>
+
+        <tr>
+        <td>Bus</td>
+        <td>Tiemme Ancona to Urbino</td>
+        <td>1 hour</td>
+        <td>€5–€8, limited rural schedule</td>
+        <td>Marche</td>
+        </tr>
+
+        <tr>
+        <td>Car Rental</td>
+        <td>Hertz in Florence</td>
+        <td>Varies</td>
+        <td>€30/day, tolls extra</td>
+        <td>Toscana</td>
+        </tr>
+
+        <tr>
+        <td>Ferry</td>
+        <td>Ancona to Croatia</td>
+        <td>10 hours</td>
+        <td>€40–€80, seasonal</td>
+        <td>Marche</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="citations" class="guide-section">
+    <h2 class="guide-section-header">Citations</h2>
+    <ul>
+    <li id="cite-1"><a href="https://en.wikipedia.org/wiki/Tuscany">Tuscany - Wikipedia</a></li>
+    <li id="cite-2"><a href="https://en.wikipedia.org/wiki/Emilia-Romagna">Emilia-Romagna - Wikipedia</a></li>
+    <li id="cite-3"><a href="https://en.wikipedia.org/wiki/Umbria">Umbria - Wikipedia</a></li>
+    <li id="cite-4"><a href="https://en.wikipedia.org/wiki/Marche">Marche - Wikipedia</a></li>
+    <li id="cite-5"><a href="https://worldpopulationreview.com/cities/italy">Italy Cities by Population 2025 - World Population Review</a></li>
+    <li id="cite-6"><a href="https://www.timetravelturtle.com/best-towns-central-italy/">The best towns in Central Italy to visit - Time Travel Turtle</a></li>
+    <li id="cite-7"><a href="https://www.italyguides.it/en/central-italy/festivals">Festivals of Central Italy - ItalyGuides.it</a></li>
+    <li id="cite-8"><a href="https://www.villanovo.com/guides/italy/central-italy/culture-traditions">The Culture, Traditions and Heritage of Central Italy - Villanovo</a></li>
+    <li id="cite-9"><a href="https://en.wikipedia.org/wiki/History_of_Tuscany">History of Tuscany - Wikipedia</a></li>
+    <li id="cite-10"><a href="https://www.essentialitaly.co.uk/blog/a-brief-history-of-italy">A Brief History of Italy - Essential Italy</a></li>
+    <li id="cite-11"><a href="https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Italy.html">U.S. State Department - Italy International Travel Information</a></li>
+    <li id="cite-12"><a href="https://www.italia.it/en/central-italy/guide-history-facts">Central Italy - Italia.it</a></li>
+    <li id="cite-13"><a href="https://whc.unesco.org/en/statesparties/it">UNESCO World Heritage Centre - Italy</a></li>
+    <li id="cite-14"><a href="https://www.discovertuscany.com/tuscany-history-and-culture/brief-history-tuscany.html">Brief History of Tuscany</a></li>
+    <li id="cite-15"><a href="https://www.britannica.com/place/Tuscany">Tuscany | Italy, History, Population, Map, & Facts | Britannica</a></li>
+    <li id="cite-16"><a href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-economies/italy/economic-forecast-italy_en">Economic forecast for Italy - European Union</a></li>
+    <li id="cite-17"><a href="https://eures.europa.eu/living-and-working/labour-market-information-europe/labour-market-information-italy_en">Labour Market Information</a></li>
+    <li id="cite-18"><a href="https://www.britannica.com/place/Tuscany">Tuscany | Italy, History, Population, Map, & Facts | Britannica</a></li>
+    <li id="cite-19"><a href="https://www.visittuscany.com/en/ideas/10-dishes-to-taste-in-tuscany/">10 dishes to taste in Tuscany</a></li>
+    <li id="cite-20"><a href="https://www.cellartours.com/blog/italy/umbrian-cuisine">Umbrian Cuisine Essentials</a></li>
+    <li id="cite-21"><a href="https://www.tuscanynowandmore.com/discover-italy/best-food-italy/classic-tuscan-food">Tuscan Cuisine - Tuscany Now</a></li>
+    <li id="cite-22"><a href="https://www.bbcgoodfood.com/travel/europe/top-10-foods-try-tuscany">Top 10 foods to try in Tuscany - BBC Good Food</a></li>
+    <li id="cite-23"><a href="https://www.italyfoodies.com/blog/emilia-romagna-food-guide">Emilia-Romagna Food Guide</a></li>
+    <li id="cite-24"><a href="https://www.italyfoodies.com/blog/marche-food-guide">Marche Food Guide</a></li>
+    <li id="cite-25"><a href="https://www.visittuscany.com/en/getting-around/index.html">Getting around | Visit Tuscany</a></li>
+    <li id="cite-26"><a href="https://lovefromtuscany.com/basics/getting-around-tuscany/">Getting around in Tuscany - Public transport in Tuscany</a></li>
+    <li id="cite-27"><a href="https://www.to-tuscany.com/travel-guide/travelling-to-tuscany/public-transport-tuscany/">A Guide to Getting Around in Tuscany on Public Transport</a></li>
+    <li id="cite-28"><a href="https://community.ricksteves.com/travel-forum/italy/1st-time-to-italy-help-on-car-v-public-trans-in-tuscany">1st time to Italy - help on car v. public trans in Tuscany</a></li>
+    <li id="cite-29"><a href="https://www.tripadvisor.com/Attractions-g187893-Activities-c59-Tuscany.html">THE BEST Tuscany Transportation (Updated 2025) - Tripadvisor</a></li>
+    <li id="cite-30"><a href="https://www.discovertuscany.com/moving-around-tuscany/">Moving Around Tuscany by Car, Train, Bus and Bike</a></li>
+    <li id="cite-31"><a href="https://goaskalocal.com/blog/tuscany-travel-guide">A Local's Guide to Travel in Tuscany</a></li>
+    <li id="cite-32"><a href="https://thetuscanmom.com/tuscany-without-a-car/">TUSCANY WITHOUT A CAR – Transport Options + Where to Stay</a></li>
+    <li id="cite-33"><a href="https://www.lacucinaitaliana.com/regional-cuisine/lazio">Lazio Food</a></li>
+    <li id="cite-34"><a href="https://www.britannica.com/place/Lazio">Lazio | Italy, Map, History, & Facts | Britannica</a></li>
+    <li id="cite-35"><a href="https://eatingarounditaly.com/traditional-food-of-lazio/">Traditional Food of Lazio – 55+ Foods to Know About Before Your Visit</a></li>
+    <li id="cite-36"><a href="https://www.cellartours.com/blog/italy/lazio-cuisine">Roman Gastronomy Uncovered</a></li>
+    <li id="cite-37"><a href="https://www.atlasobscura.com/things-to-do/central-italy">Cool and Unusual Things to Do in Central Italy - Atlas Obscura</a></li>
+    <li id="cite-38"><a href="https://www.lacucinaitaliana.com/italian-food/italian-dishes/lazio-most-quintessential-food-ingredients">7 of Lazio's Most Quintessential Foods - La Cucina Italiana</a></li>
+    <li id="cite-39">X Post by @centralitalytraveler, 19:00 2025-07-27 MDT</li>
+    </ul>
+</section>

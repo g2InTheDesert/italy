@@ -1,0 +1,948 @@
+/* static/css/blog.css */
+/* ###############################################################################
+   Base settings
+   #############################################################################*/
+:root {
+    --primary-color: #2563eb;
+    --primary-hover: #1d4ed8;
+    --secondary-color: #64748b;
+    --background-color: #f8fafc;
+    --card-background: #ffffff;
+    --text-primary: #1e293b;
+    --text-secondary: #64748b;
+    --border-color: #e2e8f0;
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    --radius: 8px;
+    --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* ###############################################################################
+   Main Settings
+   #############################################################################*/
+/* Layout */
+.blog-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    animation: slideUp 0.8s ease-out;
+}
+
+.blog-section-title {
+    font-size: var(--font-size-2xl);
+    font-weight: 700;
+    margin-bottom: var(--spacing-lg);
+    color: var(--text-primary);
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: var(--spacing-sm);
+    position: relative;
+}
+
+.blog-section-title::before {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 60px;
+    height: 2px;
+    background: var(--primary-color);
+}
+
+/* ###############################################################################
+   Filter Form
+   #############################################################################*/
+.filter-section {
+    background: var(--card-background);
+    margin: 0 5px 0 5px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+}
+
+.filter-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: end;
+}
+
+.filter-group {
+    flex: 1 1 140px; /* grow, shrink, base width */
+    min-width: 140px;
+}
+
+.filter-group label,
+.sort-options label {
+    font-weight: 500;
+    font-size: 0.875rem;
+    color: var(--text-primary);
+    margin-left: 5px;
+    margin-bottom: 0.25rem;
+    display: block;
+}
+
+.filter-form select,
+.filter-form input[type="text"] {
+    height: 32px; /* Standard input height */
+    padding: 0.75rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    font-size: 0.875rem;
+    background: var(--card-background);
+    transition: var(--transition);
+    width: 100%;
+    line-height: 1.2;
+}
+
+.filter-form select:focus,
+.filter-form input[type="text"]:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgb(37 99 235 / 0.1);
+}
+
+.filter-actions {
+    flex: 0 0 auto; /* Don't grow, don't shrink, natural size */
+}
+
+.filter-actions .btn {
+    height: auto;
+    padding: 0.5rem 1rem;  /* Reduced to 0.5rem vertical padding */
+    white-space: nowrap;
+}
+
+.btn {
+    padding: 0.5rem 1.5rem;  /* Reduced to 0.5rem vertical padding */
+    border: none;
+    border-radius: var(--radius);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-1px);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: var(--text-secondary);
+    border: 1px solid var(--border-color);
+}
+
+.btn-secondary:hover {
+    background-color: var(--background-color);
+    color: var(--text-primary);
+}
+
+/* ###############################################################################
+   Loading States
+   #############################################################################*/
+.loading {
+    opacity: 0.6;
+    pointer-events: none;
+    position: relative;
+}
+
+.loading::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+    border: 2px solid var(--border-color);
+    border-top-color: var(--primary-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+/* ###############################################################################
+   Blog Grid Layout
+   #############################################################################*/
+.layout-wrapper {
+    display: flex;
+    margin: 0 auto 20px auto;
+    width: 75%;
+    justify-content: center;
+}
+
+.blog-content-area {
+    min-width: 0; /* Prevent overflow */
+    /* Ensure content area maintains width even when empty */
+    width: 100%;
+}
+
+.blog-grid {
+    display: grid;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    /* Ensure grid maintains width even when empty */
+    width: 100%;
+    min-height: 100px;
+}
+
+/* ###############################################################################
+   Blog Post Cards
+   #############################################################################*/
+.blog-post {
+    display: block;
+    background: var(--card-background);
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-sm);
+    cursor: pointer;
+    transition: var(--transition);
+    position: relative;
+    overflow: hidden;
+}
+
+.blog-post:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+    border-color: var(--primary-color);
+}
+
+.blog-post::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--primary-color), #06b6d4);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.blog-post:hover::before {
+    transform: scaleX(1);
+}
+
+.blog-post::after,
+.drawer-content-text::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Post content container */
+.post-content {
+    display: block;
+    min-width: 0;
+    position: relative;
+}
+
+/* Blog post image - to float right of entire post */
+.blog-post-image {
+    width: 210px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: var(--radius);
+    background: var(--background-color);
+    transition: var(--transition);
+    flex-shrink: 0;
+    float: right;
+    margin: 0 0 0 0.25rem;
+    clear: right;
+}
+
+.blog-post:hover .blog-post-image {
+    transform: scale(1.05);
+}
+
+/* Header section with title and meta - NO IMAGE */
+.post-header {
+    margin-bottom: 1rem;
+    min-height: auto;
+}
+
+.post-header-content {
+    width: 100%;
+    min-width: 0;
+}
+
+/* Blog post title */
+.blog-post h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin: 0 0 0.75rem 0;
+    line-height: 1.3;
+}
+
+/* Post meta */
+.post-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    flex-wrap: wrap;
+}
+
+.post-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+/* Post excerpt - flows around the floated image */
+.post-excerpt {
+    color: var(--text-secondary);
+    line-height: 1.2;
+    margin-top: 0;
+}
+
+/* Post tags - clear the float to ensure they're below everything */
+.post-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-top: 1.0rem;
+}
+
+.post-tag {
+    padding: 0.3rem 0.5rem;
+    background: var(--background-color);
+    color: var(--text-secondary);
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+/* ###############################################################################
+   Blog Drawer / Modal
+   #############################################################################*/
+.blog-drawer {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(4px);
+    z-index: 50;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    animation: fadeIn 0.2s ease-out;
+}
+
+.blog-drawer.open {
+    display: flex;
+}
+
+.drawer-content {
+    background: var(--card-background);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-lg);
+    max-width: 900px;
+    max-height: 90vh;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    animation: slideUp 0.3s ease-out;
+}
+
+.drawer-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1rem 1rem 0 1rem;
+    border-bottom: 1px solid var(--border-color);
+    gap: 1rem;
+}
+
+.drawer-close {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--text-secondary);
+    padding: 0.5rem;
+    border-radius: var(--radius);
+    transition: var(--transition);
+    margin-left: auto;
+    flex-shrink: 0;
+}
+
+.drawer-close:hover {
+    background: var(--background-color);
+    color: var(--text-primary);
+}
+
+.drawer-body {
+    overflow-y: auto;
+    padding: 0.5rem;
+    max-height: calc(90vh - 210px); /* Account for header */
+}
+
+.drawer-title {
+    font-size: 1.875rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0;
+    line-height: 1.2;
+}
+
+.drawer-image {
+    width: 250px;
+    max-width: 35%;
+    height: auto;
+    border-radius: var(--radius);
+    margin: 0 0 1rem 1.5rem;
+    float: right;
+    clear: right;
+}
+
+.drawer-meta {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.drawer-post-header {
+    margin-bottom: 1rem;
+}
+
+.drawer-post-footer {
+    margin-top: 1rem;
+}
+
+.social-sharing {
+    margin-top: 1rem;
+}
+
+.drawer-content-text {
+    line-height: 1.7;
+    color: var(--text-primary);
+    overflow-wrap: break-word;
+}
+
+.drawer-content-text img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+}
+
+/* ###############################################################################
+   Pagination
+   #############################################################################*/
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 2rem 0;
+    flex-wrap: wrap;
+}
+
+.pagination a,
+.pagination span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.5rem;
+    height: 2.5rem;
+    padding: 0 0.75rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    text-decoration: none;
+    color: var(--text-primary);
+    font-weight: 500;
+    transition: var(--transition);
+    background: var(--card-background);
+}
+
+.pagination a:hover {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+    transform: translateY(-1px);
+}
+
+.pagination a.active {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+}
+
+.pagination .ellipsis {
+    border: none;
+    background: none;
+    color: var(--text-secondary);
+}
+
+/* ###############################################################################
+   File Results Info
+   #############################################################################*/
+.results-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5px 1rem 8px;
+    background: var(--card-background);
+    border-radius: var(--radius);
+}
+
+.results-count {
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+}
+
+.sort-options {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* ###############################################################################
+   Sorting
+   #############################################################################*/
+.sort-options select {
+    height: 22px;
+    padding: 0.75rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    font-size: 0.875rem;
+    background: var(--card-background);
+    transition: var(--transition);
+    min-width: 180px; /* Make it larger like the filter selects */
+}
+
+.sort-options select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgb(37 99 235 / 0.1);
+}
+
+/* ###############################################################################
+   Empty State
+   #############################################################################*/
+.empty-state {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--text-secondary);
+    /* Ensure empty state maintains full width */
+    width: 100%;
+    min-width: 300px;
+}
+
+.empty-state h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.error-message {
+    background: #fee2e2;
+    color: #dc2626;
+    padding: 1rem;
+    border-radius: var(--radius);
+    margin-bottom: 1rem;
+    border: 1px solid #fecaca;
+}
+
+/* ###############################################################################
+   Skip to content link for keyboard users
+   #############################################################################*/
+.skip-link {
+    position: absolute;
+    top: -40px;
+    left: 6px;
+    background: var(--primary-color);
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 4px;
+    z-index: 100;
+    transition: top 0.2s ease;
+}
+
+.skip-link:focus {
+    top: 6px;
+}
+
+/* ###############################################################################
+   Enhanced Focus Indicators for Keyboard Navigation
+   #############################################################################*/
+.btn:focus-visible,
+.filter-form select:focus-visible,
+.filter-form input[type="text"]:focus-visible,
+.sort-options select:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
+    box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+}
+
+.blog-post:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 4px;
+    border-color: var(--primary-color);
+}
+
+.pagination a:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
+    transform: none; /* Remove transform on focus for stability */
+}
+
+.drawer-close:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
+    background: var(--background-color);
+}
+
+/* Post tags focus states */
+.post-tag:focus-visible {
+    outline: 2px solid var(--primary-color);
+    outline-offset: 2px;
+}
+
+/* Focus trap for modal/drawer */
+.blog-drawer.open .drawer-content {
+    /* Ensure modal content is focusable */
+    position: relative;
+}
+
+/* ###############################################################################
+   Animations
+   #############################################################################*/
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* ###############################################################################
+   Error States
+   #############################################################################*/
+/* Touch-Specific Interactive States */
+@media (hover: none) and (pointer: coarse) {
+    /* Remove hover transforms that don't work on touch */
+    .blog-post:hover {
+        transform: none;
+    }
+
+    .btn-primary:hover {
+        transform: none;
+    }
+
+    .pagination a:hover {
+        transform: none;
+    }
+
+    /* Add active states for touch feedback */
+    .blog-post:active {
+        transform: scale(0.98);
+        transition: transform 0.1s ease;
+    }
+
+    .btn:active {
+        transform: scale(0.95);
+        transition: transform 0.1s ease;
+    }
+
+    .pagination a:active {
+        transform: scale(0.95);
+        background: var(--primary-hover);
+    }
+}
+
+/* ###############################################################################
+   Mobile Responsive Design
+   #############################################################################*/
+@media (max-width: 768px) {
+    /* Mobile: Image should be full width and below content */
+    .blog-post-image {
+        float: none;
+        width: 100%;
+        height: 210px;
+        max-width: 300px;
+        margin: 1rem auto 0 auto;
+        display: block;
+        clear: both;
+    }
+
+    .post-meta {
+        margin-bottom: 0.5rem;
+    }
+
+    .post-excerpt {
+        margin-bottom: 1rem;
+    }
+
+    /* Content area should come first */
+    .blog-content-area {
+        order: 1;
+        width: 100%;
+        padding: 0;
+        min-width: 0;
+        position: relative;
+        z-index: 1;
+    }
+
+    .blog-container {
+        position: relative;
+        width: 100%;
+        margin: 0;
+    }
+
+    .blog-grid {
+        position: relative;
+        z-index: 1;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    .blog-post {
+        position: relative;
+        z-index: 1;
+        min-height: 100px;
+        padding: 1.5rem;
+    }
+
+    /* Mobile: Stack header vertically but maintain image space */
+    .post-header {
+        flex-direction: column;
+        gap: 1rem;
+        min-height: auto;
+    }
+
+    .post-header-content {
+        order: 1;
+        height: auto;
+    }
+
+    .blog-post-image {
+        order: 2;
+        width: 100%;
+        height: 210px;
+        max-width: 300px;
+        align-self: center;
+    }
+
+    .blog-post h2 {
+        font-size: 1.25rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .btn,
+    .filter-actions .btn {
+        min-height: 44px;
+        padding: 0.75rem 1.5rem;
+        font-size: 1rem;
+    }
+
+    .pagination {
+        position: relative;
+        z-index: 1;
+        margin-top: 2rem;
+    }
+
+    .pagination a,
+    .pagination span {
+        min-width: 3rem;
+        height: 3rem;
+        font-size: 1rem;
+    }
+
+    .filter-form select,
+    .filter-form input[type="text"],
+    .sort-options select {
+        min-height: 44px;
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+    }
+
+    .drawer-close {
+        min-width: 44px;
+        min-height: 44px;
+        font-size: 1.25rem;
+    }
+
+    .filter-actions {
+        grid-column: 1;
+    }
+
+    .drawer-image {
+        width: 210px;
+        max-width: 40%;
+        margin: 0 0 0.75rem 1rem;
+        float: right;
+    }
+
+    .drawer-content-text {
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+
+    .drawer-title {
+        font-size: 1.5rem;
+        line-height: 1.3;
+        margin-bottom: 1rem;
+    }
+
+    /* Improve visual feedback for loading states on mobile */
+    .loading::after {
+        width: 24px;
+        height: 24px;
+        margin: -12px 0 0 -12px;
+        border-width: 3px;
+    }
+
+    /* Larger tap targets for form elements */
+    .filter-form label {
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+        padding: 0.25rem 0;
+    }
+
+    .filter-group {
+        margin-bottom: 1rem;
+    }
+
+    /* Improve select dropdown usability */
+    .filter-form select,
+    .sort-options select {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background-image: url("data:image/svg+xml;charset=US-ASCII,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'><path fill='%23666' d='M2 0L0 2h4zm0 5L0 3h4z'/></svg>");
+        background-repeat: no-repeat;
+        background-position: right 12px center;
+        background-size: 12px;
+        padding-right: 40px;
+    }
+
+    .post-meta {
+        font-size: 0.8rem;
+        gap: 0.75rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .post-excerpt {
+        font-size: 0.9rem;
+        margin-bottom: 0;
+    }
+
+    .error-message {
+        margin: 1rem 0;
+        padding: 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+
+    .drawer-body {
+        padding-bottom: 2rem;
+    }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+    .blog-post-image {
+        width: 100%;
+        height: 120px;
+        max-width: 250px;
+    }
+
+    .blog-post h2 {
+        font-size: 1.1rem;
+    }
+
+    .post-excerpt {
+        font-size: 0.85rem;
+    }
+
+    .blog-content-area {
+        width: 100%;
+        padding: 0;
+    }
+
+    .drawer-image {
+        width: 120px;
+        max-width: 45%;
+        margin: 0 0 0.5rem 0.75rem;
+    }
+}
+
+/* ###############################################################################
+   Additional CSS for Accessibility
+   #############################################################################*/
+.visually-hidden {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+}
+
+.site-description {
+    font-size: 1.1rem;
+    color: #666;
+    margin: 0.5rem 0;
+    text-align: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* Debug helper - uncomment to see layout boundaries */
+/*
+@media (max-width: 768px) {
+    .layout-wrapper {
+        border: 2px solid red;
+    }
+
+    .blog-content-area {
+        border: 2px solid blue;
+    }
+
+    .sidebar {
+        border: 2px solid green;
+    }
+}
+*/

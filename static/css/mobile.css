@@ -1,0 +1,574 @@
+/* static/css/mobile.css */
+/* ###############################################################################
+   Common Mobile Styles (max-width: 768px)
+   #############################################################################*/
+@media (max-width: 768px) {
+    /* Layout Structure */
+    .container {
+        margin: var(--spacing-md);
+        border-radius: var(--radius-lg);
+    }
+
+    .layout-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: var(--spacing-md, --spacing-nm);
+        margin-bottom: 20px;
+    }
+
+    .main-content {
+        flex-direction: column;
+        gap: var(--spacing-md, --spacing-nm);
+    }
+
+    .content-area {
+        order: 1;
+    }
+
+    .sidebar {
+        order: 2;
+        width: 100%;
+        position: relative;
+        z-index: 2;
+        margin-top: var(--spacing-nm);
+    }
+
+    .filter-section {
+        position: relative;
+        z-index: 3;
+        margin-bottom: var(--spacing-nm);
+    }
+
+    .results-info {
+        position: relative;
+        z-index: 3;
+        margin-bottom: var(--spacing-nm);
+    }
+
+    .accordion-layout {
+        flex-direction: column; /* Switch to vertical on mobile */
+    }
+
+    .accordion-column {
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+        min-width: auto;
+        min-height: 80px;
+    }
+
+    .accordion-column:last-child {
+        border-bottom: none;
+    }
+
+    .guide-column {
+        flex: 0 0 200px; /* Height instead of width on mobile */
+    }
+
+    .gallery-column {
+        flex: 1;
+        min-width: auto;
+        min-height: 300px;
+    }
+
+    .resize-handle {
+        width: 100%;
+        height: 8px;
+        cursor: row-resize; /* Row resize on mobile */
+    }
+
+    .resize-handle::before {
+        width: 40px;
+        height: 4px;
+    }
+
+    .guide-column-content,
+    .gallery-column-content {
+        padding: var(--spacing-no);
+    }
+
+    /* Grid Layouts */
+    .folder-grid,
+    .image-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: var(--spacing-md);
+    }
+
+    .folder-thumbnail,
+    .image-thumbnail {
+        height: 120px;
+    }
+
+    .folder-overlay {
+        width: 28px;
+        height: 28px;
+    }
+
+    /* Modal Image Optimization */
+    .modal-image,
+    .modal-content img {
+        max-width: 100vw;
+        max-height: 100vh;
+        width: auto;
+        height: auto;
+        object-fit: contain;
+    }
+
+    /* Header */
+    header h1 {
+        font-size: var(--font-size-3xl);
+    }
+
+    /* Breadcrumb */
+    .breadcrumb-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: var(--spacing-md);
+        margin: var(--spacing-sm);
+        padding: var(--spacing-md);
+    }
+
+    /* Ad Containers */
+    .ad-top,
+    .ad-bottom {
+        min-height: 100px;
+        margin: var(--spacing-sm) 0;
+    }
+
+    .ad-sidebar {
+        min-height: 100px;
+        margin: var(--spacing-md) 0;
+        max-width: 100%;
+    }
+
+    /* Swipe Indicators */
+    .swipe-indicators {
+        bottom: calc(env(safe-area-inset-bottom) + var(--spacing-lg));
+        scale: 0.9;
+    }
+
+    .nav-arrow {
+        width: 56px;
+        height: 56px;
+        font-size: var(--font-size-3xl);
+        padding: var(--spacing-md);
+        min-width: 44px;
+        min-height: 44px;
+    }
+
+    .nav-arrow:active {
+        background: rgba(255, 255, 255, 0.4);
+        transform: translateY(-50%) scale(0.9);
+    }
+
+    /* Image Title and Comments */
+    .modal-image-title {
+        bottom: calc(var(--spacing-lg) + env(safe-area-inset-bottom, 0px));
+        left: var(--spacing-lg);
+        font-size: var(--font-size-lg);
+        padding: var(--spacing-sm) var(--spacing-md);
+        max-width: calc(100vw - 140px);
+    }
+
+    .comments-icon {
+        bottom: calc(var(--spacing-lg) + env(safe-area-inset-bottom, 0px));
+        right: var(--spacing-lg);
+        width: 44px;
+        height: 44px;
+    }
+}
+
+/* ###############################################################################
+   Small Mobile Devices (max-width: 480px)
+   #############################################################################*/
+@media (max-width: 480px) {
+    /* Container and Layout */
+    .container {
+        margin: var(--spacing-sm);
+        border-radius: var(--radius-md);
+    }
+
+    .layout-wrapper {
+        flex-direction: column;
+        gap: var(--spacing-md);
+    }
+
+    .sidebar {
+        width: 100%;
+        margin-top: var(--spacing-md);
+    }
+
+    /* Grid Layouts */
+    .folder-grid,
+    .image-grid {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: var(--spacing-sm);
+    }
+
+    .content-container {
+        height: 500px;
+    }
+
+    .guide-column {
+        flex: 0 0 150px;
+    }
+
+    .column-content {
+        padding: var(--spacing-sm);
+    }
+
+    .resize-handle {
+        height: 12px; /* Larger touch target on mobile */
+    }
+
+    /* Header */
+    header {
+        height: 200px;
+    }
+
+    header h1 {
+        font-size: var(--font-size-2xl);
+    }
+
+    /* Modal Controls - Compact */
+    .modal-content .close {
+        width: 50px;
+        height: 50px;
+        font-size: var(--font-size-3xl);
+    }
+
+    .nav-arrow {
+        width: 50px;
+        height: 50px;
+        font-size: var(--font-size-2xl);
+    }
+
+    /* Image Title and Comments - Compact */
+    .modal-image-title {
+        font-size: var(--font-size-sm);
+        padding: var(--spacing-xs) var(--spacing-sm);
+        bottom: calc(var(--spacing-md) + env(safe-area-inset-bottom, 0px));
+        left: var(--spacing-md);
+        max-width: calc(100vw - 100px);
+    }
+
+    .comments-icon {
+        width: 44px;
+        height: 44px;
+        bottom: calc(var(--spacing-md) + env(safe-area-inset-bottom, 0px));
+        right: var(--spacing-md);
+    }
+
+    .comments-icon img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .comments-icon svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    /* Compact Ad Containers */
+    .ad-top,
+    .ad-bottom,
+    .ad-sidebar {
+        min-height: 80px;
+        margin: var(--spacing-xs) 0;
+    }
+
+    /* Content Adjustments */
+    .content {
+        padding: var(--spacing-md) var(--spacing-sm);
+    }
+
+    .section {
+        margin-bottom: var(--spacing-sm);
+        padding: var(--spacing-sm);
+    }
+
+    .section h2 {
+        font-size: var(--font-size-2xl);
+        margin-bottom: var(--spacing-sm);
+    }
+
+    .section p {
+        font-size: var(--spacing-md);
+        line-height: var(--font-size-sm);
+    }
+}
+
+/* ###############################################################################
+   Landscape Orientation (max-width: 768px)
+   #############################################################################*/
+@media (max-width: 768px) and (orientation: landscape) {
+    /* Layout Changes */
+    .ad-top,
+    .ad-bottom {
+        min-height: 60px;
+        margin: var(--spacing-xs) 0;
+    }
+
+    .ad-sidebar,
+    .sidebar {
+        display: none;
+    }
+
+    .main-content {
+        flex-direction: row;
+    }
+
+    .content-area {
+        width: 100%;
+    }
+
+    /* Image Title and Comments with Safe Area */
+    .modal-image-title {
+        bottom: max(var(--spacing-md), env(safe-area-inset-bottom, 0px) + var(--spacing-sm));
+        left: max(var(--spacing-md), env(safe-area-inset-left, 0px) + var(--spacing-sm));
+        font-size: var(--font-size-sm);
+        max-width: calc(100vw - 120px);
+    }
+
+    .comments-icon {
+        bottom: max(var(--spacing-md), env(safe-area-inset-bottom, 0px) + var(--spacing-sm));
+        right: max(var(--spacing-md), env(safe-area-inset-right, 0px) + var(--spacing-sm));
+        width: 44px;
+        height: 44px;
+    }
+}
+
+/* ###############################################################################
+   Low Height Landscape (max-height: 500px)
+   #############################################################################*/
+@media (max-height: 500px) and (orientation: landscape) {
+    .nav-arrow {
+        width: 48px;
+        height: 48px;
+        font-size: var(--font-size-2xl);
+    }
+
+    .modal-content .close {
+        width: 48px;
+        height: 48px;
+        font-size: var(--font-size-3xl);
+    }
+
+    .modal-image-title {
+        padding: var(--spacing-xs) var(--spacing-sm);
+        font-size: var(--font-size-xs);
+        bottom: var(--spacing-sm);
+        left: var(--spacing-sm);
+    }
+
+    .comments-icon {
+        width: 40px;
+        height: 40px;
+        bottom: var(--spacing-sm);
+        right: var(--spacing-sm);
+    }
+}
+
+/* ###############################################################################
+   Touch Device Enhancements
+   #############################################################################*/
+@media (pointer: coarse) {
+    .resize-handle {
+        touch-action: none;
+    }
+
+    /* Make resize handle larger on touch devices */
+    @media (max-width: 768px) {
+        .resize-handle {
+            height: 12px;
+        }
+    }
+
+    @media (min-width: 769px) {
+        .resize-handle {
+            width: 12px;
+        }
+    }
+
+    .column-header {
+        min-height: 44px; /* Better touch target */
+    }
+
+    /* Enhanced Touch Targets */
+    .nav-arrow {
+        -webkit-tap-highlight-color: rgba(255, 255, 255, 0.3);
+        touch-action: manipulation;
+    }
+
+    /* Touch Feedback */
+    .nav-arrow:active {
+        background: rgba(255, 255, 255, 0.4);
+        border-color: rgba(255, 255, 255, 0.6);
+        transform: translateY(-50%) scale(0.9);
+    }
+
+    .modal-content .close:active {
+        transform: scale(0.9);
+        background: rgba(0, 0, 0, 0.8);
+    }
+
+    .comments-icon:active {
+        transform: scale(0.9);
+        background: rgba(0, 0, 0, 0.8);
+    }
+
+    /* Touch-Friendly Elements */
+    .folder-item,
+    .image-item {
+        min-height: 44px;
+    }
+
+    .ad-container {
+        border-width: 1px;
+        border-radius: var(--radius-sm);
+        font-size: var(--font-size-sm);
+        padding: var(--spacing-sm);
+    }
+
+    .ad-container ins {
+        min-width: 250px;
+        max-width: 100%;
+    }
+
+    /* Focus Indicators */
+    .nav-arrow:focus-visible,
+    .modal-content .close:focus-visible {
+        outline: 3px solid rgba(255, 255, 255, 0.8);
+        outline-offset: 2px;
+    }
+
+    /* All Interactive Elements */
+    button,
+    .btn,
+    a,
+    input[type="submit"],
+    input[type="button"] {
+        min-height: 44px;
+        min-width: 44px;
+        padding: 10px 15px;
+        margin: 5px;
+    }
+}
+
+/* ###############################################################################
+   Desktop Touch Indicators
+   #############################################################################*/
+@media (min-width: 769px) {
+ }
+
+/* ###############################################################################
+   Large Screen Adjustments
+   #############################################################################*/
+@media (max-width: 1024px) {
+    .container {
+        margin: var(--spacing-md);
+        border-radius: var(--radius-lg);
+    }
+}
+
+/* ###############################################################################
+   Touch Indicator Animations
+   #############################################################################*/
+.touch-indicator.swipe-hint {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    animation: pulseGlow 2s infinite;
+}
+
+.touch-indicator.swipe-hint::before {
+    content: "👆";
+    font-size: var(--font-size-lg);
+    animation: swipeAnimation 1.5s ease-in-out infinite;
+}
+
+.touch-indicator.hide,
+.keyboard-hint.hide {
+    opacity: 0;
+    transform: translateX(-50%) translateY(-10px);
+    pointer-events: none;
+}
+
+/* ###############################################################################
+   Swipe Navigation UI
+   #############################################################################*/
+.swipe-indicators {
+    position: absolute;
+    bottom: calc(var(--spacing-xl) * 2);
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: var(--spacing-sm);
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(10px);
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-xl);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    z-index: 10;
+}
+
+.swipe-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.4);
+    transition: var(--transition-fast);
+}
+
+.swipe-dot.active {
+    background: white;
+    transform: scale(1.3);
+}
+
+/* ###############################################################################
+   Gesture Hints
+   #############################################################################*/
+.gesture-hint {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 5;
+    opacity: 0;
+    transition: opacity var(--transition-slow);
+}
+
+.gesture-hint.show {
+    opacity: 0.7;
+    animation: gestureDemo 2s ease-in-out;
+}
+
+.gesture-arrow {
+    font-size: var(--font-size-3xl);
+    color: white;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+/* ###############################################################################
+   Accessibility & User Preferences
+   #############################################################################*/
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms;
+        animation-iteration-count: 1;
+        transition-duration: 0.01ms;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-primary: #0f172a;
+        --background-secondary: #1e293b;
+        --surface-primary: #334155;
+        --surface-secondary: #475569;
+        --text-primary: #f8fafc;
+        --text-secondary: #cbd5e1;
+        --text-muted: #94a3b8;
+        --border-color: #475569;
+    }
+}

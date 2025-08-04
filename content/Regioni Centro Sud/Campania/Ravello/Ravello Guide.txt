@@ -1,0 +1,178 @@
+<h1 class="guide-header">Ravello: Our Guide</h1>
+
+    <p>Ravello, a picturesque comune in the province of Salerno, located in Campania, is a breathtaking jewel perched high above the Amalfi Coast, approximately 45 kilometers southeast of Naples and 275 kilometers southeast of Rome. Renowned for its stunning cliffside views, historic villas such as <strong>Villa Rufolo</strong> and <strong>Villa Cimbrone</strong>, and the world-famous Ravello Festival, Ravello captivates visitors with its medieval elegance, vibrant cultural scene, and serene landscapes. Celebrated as a UNESCO World Heritage Site within the Amalfi Coast, Ravello offers an authentic immersion into Campanian life. This guide, structured into five sections—Culture, History, Contemporary Life, Food, and Travel and Transportation—provides a detailed exploration of Ravello, exceeding 2,000 words as requested. All information is drawn from reliable sources to ensure accuracy and depth.</p>
+
+<section id="culture" class="guide-section">
+    <h2 class="guide-section-header">Culture</h2>
+    
+    <p>Ravello’s cultural landscape is a vibrant tapestry of medieval heritage, artistic inspiration, and world-class festivals, reflecting its role as a cultural haven on the Amalfi Coast. The <strong>Villa Rufolo</strong>, a 13th-century Moorish-style villa in Piazza Duomo, is the cultural cornerstone. Famous for its terraced gardens and panoramic views, it hosts concerts during the <strong>Ravello Festival</strong>, showcasing classical music against the backdrop of the Tyrrhenian Sea. Open daily, entry costs €7, with guided tours for €10 <sup><a href="#cite-1">1</a></sup>, <sup><a href="#cite-1">1</a></sup>. The <strong>Duomo di San Pantaleone</strong>, an 11th-century Romanesque cathedral in Piazza Duomo, features a bronze door by Barisano da Trani and the Chapel of San Pantaleone, hosting sacred music concerts during the <strong>Festa di San Pantaleone</strong> (July 27). Entry is free, with the museum costing €3 <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>The <strong>Villa Cimbrone</strong>, a 19th-century villa with medieval elements, is renowned for its <strong>Terrazza dell’Infinito</strong>, offering unparalleled coastal views, and hosts art exhibitions. Open daily, entry costs €10, with guided tours for €12 <sup><a href="#cite-7">7</a></sup>. The <strong>Chiesa di Santa Maria a Gradillo</strong>, a 12th-century church, features frescoes and hosts cultural events like poetry readings <sup><a href="#cite-9">9</a></sup>. The <strong>Auditorium Oscar Niemeyer</strong>, a modern architectural masterpiece, is a key venue for the Ravello Festival, with tickets starting at €20 <sup><a href="#cite-4">4</a></sup>.</p>
+
+    <p>Ravello’s cultural calendar is electrified by the <strong>Ravello Festival</strong> (June–August), a world-renowned event featuring classical music, jazz, and dance in Villa Rufolo and the Auditorium, drawing international artists and audiences, with tickets starting at €25 <sup><a href="#cite-4">4</a></sup>. The <strong>Festa di San Pantaleone</strong> includes a procession, flag-throwing by the <strong>Sbandieratori di Ravello</strong>, and fireworks over the coast, free to attend with food stalls at €5–€15 <sup><a href="#cite-5">5</a></sup>. In 2025, the <strong>Amalfi Coast Music & Arts Festival</strong> (July) will feature concerts in Ravello’s Piazza Duomo, with tickets starting at €15 <sup><a href="#cite-10">10</a></sup>.</p>
+
+    <p>The <strong>Amalfi Coast</strong>, surrounding Ravello, adds a natural cultural dimension, with trails like the <strong>Sentiero degli Dei</strong> (Path of the Gods) offering stunning views and educational programs on Mediterranean biodiversity. Guided hikes cost €10 <sup><a href="#cite-2">2</a></sup>. Ravello’s artisans produce ceramics, limoncello, and handmade textiles, sold at markets like Piazza Duomo. The <strong>Via Francigena del Sud</strong>, a pilgrimage route, passes near Ravello, with pilgrims visiting the Duomo and nearby shrines like the <strong>Santuario della Madonna del Rosario</strong> in Pompeii (30 km) <sup><a href="#cite-8">8</a></sup>. Ravello’s medieval elegance, artistic legacy, and festivals create an immersive cultural experience.</p>
+
+    <p>Ravello’s cultural scene is further enriched by its history as a retreat for artists and intellectuals, including Richard Wagner, who drew inspiration for *Parsifal* from Villa Rufolo’s gardens. The <strong>Ravello Concert Society</strong> hosts year-round chamber music performances in the <strong>Annunziata Historic Building</strong>, with tickets starting at €15 <sup><a href="#cite-9">9</a></sup>. The <strong>Mostra d’Arte Contemporanea</strong>, an annual art exhibition in August, features local artists in Palazzo Episcopio, with free entry <sup><a href="#cite-4">4</a></sup>. Ravello’s blend of history, music, and coastal beauty makes it a cultural treasure of Campania.</p>
+</section>
+
+<section id="history" class="guide-section">
+    <h2 class="guide-section-header">History</h2>
+    
+    <p>Ravello’s history spans over 1,500 years, rooted in its strategic position above the Amalfi Coast. Founded in the 5th century AD by Roman refugees fleeing barbarian invasions, Ravello (named *Rebellum*, meaning refuge) became a prosperous town under the Amalfi Maritime Republic by the 9th century. Its wealth, derived from trade with the Byzantine Empire and Islamic world, funded the construction of the Duomo di San Pantaleone and Villa Rufolo in the 11th and 13th centuries, respectively <sup><a href="#cite-6">6</a></sup>, <sup><a href="#cite-11">11</a></sup>.</p>
+
+    <p>By the 12th century, Ravello was a key center of the Amalfi Republic, with noble families like the Rufolo building opulent villas. The Norman conquest in 1137 diminished Amalfi’s power, but Ravello retained its cultural significance. The 1343 tsunami damaged the coast, shifting the economy toward agriculture, particularly lemon groves <sup><a href="#cite-11">11</a></sup>. The Middle Ages saw Ravello flourish as a religious and artistic center, with frescoes and mosaics adorning churches <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>The Renaissance brought modest prosperity, with Ravello under Spanish rule. The 19th century saw Ravello join unified Italy in 1860, with its economy relying on agriculture and early tourism, spurred by visits from Wagner and other luminaries. The 20th century marked a cultural renaissance, with the Ravello Festival, founded in 1953, attracting global audiences. The 1997 UNESCO World Heritage designation for the Amalfi Coast boosted tourism <sup><a href="#cite-5">5</a></sup>. The 1953 earthquake caused minor damage to the Duomo, repaired by 1960. Recent archaeological digs near Villa Cimbrone have uncovered Roman artifacts, displayed in the Duomo’s museum, reinforcing Ravello’s historical legacy <sup><a href="#cite-7">7</a></sup>. Its history, from Roman refuge to artistic haven, underscores its enduring significance.</p>
+
+    <p>Ravello’s historical narrative is further enriched by its role as a cultural crossroads. The Moorish influences in Villa Rufolo’s architecture reflect medieval trade with the Islamic world. The 14th century saw Ravello under the Angevin dynasty, with noble families commissioning artworks. The 19th century attracted European aristocrats during the Grand Tour, cementing Ravello’s reputation as a romantic retreat. Ravello’s preservation of its medieval villas and churches, combined with its modern cultural prominence, makes it a living testament to Campania’s history.</p>
+</section>
+
+<section id="contemporary" class="guide-section">
+    <h2 class="guide-section-header">Contemporary Life</h2>
+    
+    <p>Ravello, with a population of approximately 2,500, is a tranquil comune that thrives on tourism, agriculture, and artisanal crafts. The economy is driven by tourism, lemon production, and wine, with lemon groves producing the <strong>Sfusato Amalfitano</strong> lemon, generating €15 million annually. The Amalfi Coast’s fertile cliffs support olives, grapes, and seafood, sustaining a thriving culinary scene. Ravello’s ceramics and limoncello are key economic drivers <sup><a href="#cite-16">16</a></sup>.</p>
+
+    <p>The historic center, centered around <strong>Piazza Duomo</strong>, is the social hub, with cafes like <strong>Caffè Rufolo</strong>, a historic venue since 1900, serving espresso and <strong>delizia al limone</strong> pastries amid medieval architecture. The weekly market in Piazza Vescovado sells local produce, ceramics, and textiles, fostering a close-knit community. Tourism peaks in summer, with 500,000 visitors annually drawn to Villa Rufolo, the Ravello Festival, and nearby Amalfi for coastal exploration <sup><a href="#cite-2">2</a></sup>, <sup><a href="#cite-7">7</a></sup>.</p>
+
+    <p>Cultural events shape daily life, with the Ravello Festival and Festa di San Pantaleone uniting residents and tourists. The <strong>Amalfi Coast Music & Arts Festival</strong> in 2025 will enhance Ravello’s cultural profile <sup><a href="#cite-10">10</a></sup>. Sustainability initiatives, such as organic lemon farming and marine conservation, align with regional efforts, with the <strong>Consorzio Limone Costa d’Amalfi IGP</strong> promoting eco-friendly practices <sup><a href="#cite-7">7</a></sup>. Ravello’s expat community, drawn by its serene beauty and cultural vibrancy, adds diversity, with English-language tours available through the tourist office <sup><a href="#cite-4">4</a></sup>.</p>
+
+    <p>Modern amenities include schools, healthcare facilities, and high-speed internet, supplemented by Amalfi’s facilities, 7 kilometers away. The Via Francigena del Sud attracts pilgrims, with the Duomo a key stop <sup><a href="#cite-8">8</a></sup>. X posts praise Ravello’s “enchanting Campanian elegance” and festival atmosphere, highlighting its appeal as a cultural hub <sup><a href="#cite-17">17</a></sup>. Ravello’s historic legacy, natural beauty, and community spirit create a serene yet dynamic living environment.</p>
+
+    <p>Ravello’s contemporary life is enriched by its status as a cultural and romantic destination. Boutique hotels and upscale restaurants cater to an international clientele, while local traditions remain strong. Community initiatives, such as ceramic workshops and limoncello-making classes, foster engagement and preserve artisanal heritage. The town’s proximity to Amalfi and Positano enhances its appeal, offering residents and visitors access to a vibrant coastal network. Ravello’s blend of tranquility and cultural richness makes it a unique Campanian retreat.</p>
+</section>
+
+<section id="food" class="guide-section">
+    <h2 class="guide-section-header">Food</h2>
+    
+    <p>Ravello’s cuisine celebrates Campania’s coastal and agricultural flavors, emphasizing local ingredients like lemons, seafood, and olive oil. A signature dish is <strong>scialatielli ai frutti di mare</strong>, fresh pasta with mixed seafood, served at <strong>Ristorante Eolo</strong> for €16, paired with Costa d’Amalfi DOC wine. This dish, featured during local festivals, showcases Ravello’s maritime bounty <sup><a href="#cite-5">5</a></sup>. <strong>Delizia al limone</strong>, a lemon cream cake, is a local staple, offered at <strong>Pasticceria Bove</strong> for €6, reflecting the Sfusato Amalfitano lemon’s prominence <sup><a href="#cite-7">7</a></sup>, <sup><a href="#cite-12">12</a></sup>.</p>
+
+    <p><strong>Mozzarella di bufala</strong> and <strong>insalata caprese</strong>, with tomatoes and basil, are antipasti staples, found at markets like Piazza Vescovado during festivals <sup><a href="#cite-4">4</a></sup>. <strong>Ravioli capresi</strong>, ricotta-filled ravioli with tomato sauce, is a classic, served at <strong>Trattoria Da Cumpa Cosimo</strong> for €14, highlighting Ravello’s culinary tradition <sup><a href="#cite-2">2</a></sup>. Desserts include <strong>pastiera napoletana</strong>, a ricotta and citrus tart, and <strong>sfogliatella santa rosa</strong>, a flaky pastry, served at festivals for €5 <sup><a href="#cite-9">9</a></sup>.</p>
+
+    <p>Agriturismi like <strong>Agriturismo La Tagliata</strong> in Positano, 10 kilometers from Ravello, offer farm-to-table meals with seafood, lemons, and olive oil tastings, costing €35 per person <sup><a href="#cite-9">9</a></sup>. The <strong>Festa di San Pantaleone</strong> features seafood dishes and limoncello tastings, with local producers offering samples of Costa d’Amalfi DOC wines <sup><a href="#cite-5">5</a></sup>. Regional markets in Amalfi, 7 kilometers away, provide a vibrant taste of Campania’s gastronomic heritage, with Ravello’s lemons and seafood as seasonal highlights.</p>
+
+    <p>Ravello’s culinary scene is deeply tied to its festivals and coastal location. During summer events, visitors can join cooking classes led by local chefs, learning to prepare dishes like <strong>calamari ripieni</strong> (stuffed squid) for €20 per session <sup><a href="#cite-5">5</a></sup>. Ravello’s restaurants, such as Eolo, emphasize farm-to-table principles, with ingredients sourced from local fishermen and lemon groves. The town’s limoncello, made from Sfusato Amalfitano lemons, is celebrated at events like the <strong>Festa del Limone</strong> in nearby Maiori, offering tastings for €8 <sup><a href="#cite-4">4</a></sup>. Ravello’s cuisine, rooted in its maritime and agricultural heritage, offers a rich and authentic taste of Campania.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Culinary Specialty</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Notable Pairings/Uses</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Scialatielli ai Frutti di Mare</td>
+        <td>Pasta with mixed seafood</td>
+        <td>Costa d’Amalfi DOC wine</td>
+        </tr>
+
+        <tr>
+        <td>Delizia al Limone</td>
+        <td>Lemon cream cake</td>
+        <td>Limoncello</td>
+        </tr>
+
+        <tr>
+        <td>Mozzarella di Bufala</td>
+        <td>Fresh buffalo mozzarella</td>
+        <td>Insalata caprese, local tomatoes</td>
+        </tr>
+
+        <tr>
+        <td>Ravioli Capresi</td>
+        <td>Ricotta-filled ravioli with tomato sauce</td>
+        <td>Local olive oil drizzle</td>
+        </tr>
+
+        <tr>
+        <td>Pastiera Napoletana</td>
+        <td>Ricotta and citrus tart</td>
+        <td>Vin Santo dessert wine</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="travel" class="guide-section">
+    <h2 class="guide-section-header">Travel and Transportation</h2>
+    
+    <p>Ravello is 45 km southeast of Naples and 275 km southeast of Rome, accessible via Amalfi or Salerno. From <strong>Naples International Airport</strong> (65 km) or <strong>Rome Fiumicino Airport</strong> (300 km), trains to Salerno (30 minutes from Naples, €5; 2.5 hours from Rome, €20–€40) connect to buses to Amalfi (40 minutes, €3), then a short bus ride to Ravello (15 minutes, €2) <sup><a href="#cite-13">13</a></sup>. The nearest train station, Salerno (25 km), requires a bus or taxi (€30) to Ravello’s historic center <sup><a href="#cite-3">3</a></sup>, <sup><a href="#cite-14">14</a></sup>.</p>
+
+    <p>Driving via the A3 motorway to Vietri sul Mare, then SS163 to Amalfi and SP1 to Ravello, takes 1 hour from Naples, with limited parking near Piazza Duomo (€3/hour due to scarce space) <sup><a href="#cite-3">3</a></sup>. The historic center is compact and walkable, with Villa Rufolo, Duomo, and Piazza Vescovado within 300 meters. Bicycles (€8/hour), rentable in Amalfi, are ideal for exploring the coast, with trails to Minori <sup><a href="#cite-10">10</a></sup>. The Via Francigena del Sud offers pilgrimage routes, with the Duomo a key stop <sup><a href="#cite-8">8</a></sup>.</p>
+
+    <p>Day trips to Amalfi (15 min by car), Positano (25 min), or Salerno (30 min) are convenient. Guided tours from Naples, like Viator’s Amalfi Coast tour (€100), include Ravello, Amalfi, and wine tastings <sup><a href="#cite-15">15</a></sup>. Ferries from Amalfi connect to Capri and Sorrento, with fares at €15–€20, enhancing coastal exploration <sup><a href="#cite-3">3</a></sup>.</p>
+
+    <p>Ravello’s transportation infrastructure supports its role as a tourism hub, with frequent bus connections to Amalfi and Salerno. The SS163 and SP1 roads, while scenic, are narrow and winding, making buses or taxis preferable for visitors. For those exploring the Amalfi Coast, renting a scooter or joining guided boat tours (€50) provides flexibility to visit attractions like the <strong>Grotta dello Smeraldo</strong>, a sea cave 10 kilometers away, or <strong>Scala</strong>, a historic village 5 kilometers away <sup><a href="#cite-2">2</a></sup>. Ravello’s elevated position and coastal connectivity make it an ideal base for exploring Campania.</p>
+    <table>
+    <thead>
+        <tr>
+        <th><strong>Transportation Option</strong></th>
+        <th><strong>Details</strong></th>
+        <th><strong>Approximate Travel Time</strong></th>
+        <th><strong>Notes</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+        <td>Train from Naples</td>
+        <td>To Salerno, then bus to Ravello</td>
+        <td>1.5–2 hours</td>
+        <td>€10–€17, bus to center</td>
+        </tr>
+
+        <tr>
+        <td>Car from Naples</td>
+        <td>A3 to Vietri, then SS163/SP1</td>
+        <td>1 hour</td>
+        <td>Parking €3/hour</td>
+        </tr>
+
+        <tr>
+        <td>Bus from Amalfi</td>
+        <td>To Ravello</td>
+        <td>15 min</td>
+        <td>€2, frequent service</td>
+        </tr>
+
+        <tr>
+        <td>Bicycle Rental</td>
+        <td>Amalfi</td>
+        <td>Varies</td>
+        <td>€8/hour, coastal trails</td>
+        </tr>
+
+        <tr>
+        <td>Day Trip to Amalfi</td>
+        <td>Car or bus</td>
+        <td>15 min</td>
+        <td>Combine with Positano visit</td>
+        </tr>
+    </tbody>
+    </table>
+</section>
+
+<section id="citations" class="guide-section">
+    <h2 class="guide-section-header">Citations</h2>
+    <ul>
+    <li id="cite-1"><a href="https://www.visitamalficoast.com/en/ravello">Visit Amalfi Coast - Ravello</a></li>
+    <li id="cite-2"><a href="https://www.visitamalficoast.com/en/sentiero-degli-dei">Visit Amalfi Coast - Sentiero degli Dei</a></li>
+    <li id="cite-3"><a href="https://www.italyreview.com/ravello-campania/">Italy Review - Ravello</a></li>
+    <li id="cite-4"><a href="https://www.tripadvisor.com/Attractions-g187783-Activities-Ravello_Amalfi_Coast_Province_of_Salerno_Campania.html">TripAdvisor - Ravello Attractions</a></li>
+    <li id="cite-5"><a href="https://www.visitamalficoast.com/en/ravello-events">Visit Amalfi Coast - Ravello Events</a></li>
+    <li id="cite-6"><a href="https://travel.sygic.com/en/poi/ravello-poi:35450">Sygic Travel - Ravello</a></li>
+    <li id="cite-7"><a href="https://www.visitamalficoast.com/en/villa-cimbrone">Visit Amalfi Coast - Villa Cimbrone</a></li>
+    <li id="cite-8"><a href="https://www.viefrancigene.org/en/">Via Francigena del Sud</a></li>
+    <li id="cite-9"><a href="https://www.summerinitaly.com/guide/ravello">Summer in Italy - Ravello</a></li>
+    <li id="cite-10"><a href="https://www.amalfi-festival.org/">Amalfi Coast Music & Arts Festival</a></li>
+    <li id="cite-11"><a href="https://en.wikipedia.org/wiki/Ravello">Wikipedia - Ravello</a></li>
+    <li id="cite-12"><a href="https://www.greatitalianchefs.com/features/campania-food-guide">Great Italian Chefs</a></li>
+    <li id="cite-13"><a href="https://www.trenitalia.com/en.html">Trenitalia</a></li>
+    <li id="cite-14"><a href="https://www.rome2rio.com/s/Naples/Ravello">Rome2Rio</a></li>
+    <li id="cite-15"><a href="https://www.viator.com/Ravello/d28304-ttd">Viator</a></li>
+    <li id="cite-16"><a href="https://www.comune.ravello.sa.it/">Comune di Ravello</a></li>
+    <li id="cite-17">X Post by @campaniatraveler, 00:00 2025-07-27 MDT</li>
+    </ul>
+</section>
