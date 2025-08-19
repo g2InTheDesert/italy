@@ -166,18 +166,22 @@ header h1 {
    #############################################################################*/
 .site-footer {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: var(--spacing-xl) 0;
+    padding: var(--spacing-lg) 0;
     background: var(--surface-secondary);
     color: var(--text-muted);
     position: relative;
     border-top: 1px solid var(--border-color);
 }
 
+.footer-logo {
+    padding-left: var(--spacing-3xl);
+    height: 35px;
+}
+
 #privacyLink {
     position: absolute;
-    right: var(--spacing-xl);
+    margin-top: var(--spacing-md);
+    right: var(--spacing-3xl);
     color: var(--primary-color);
     font-size: var(--font-size-sm);
     cursor: pointer;
