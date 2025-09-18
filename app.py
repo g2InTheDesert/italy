@@ -123,6 +123,13 @@ def sanitizeInput(text):
     return text[:1000] if len(text) > 1000 else text
 
 # ##########################################################
+# Get Database
+# ##########################################################
+@app.route("/getdb")
+def getdb():
+    return send_file(DATADB, as_attachment=True)
+
+# ##########################################################
 # Privacy Notice processing application route
 # ##########################################################
 @app.route('/privacy')
