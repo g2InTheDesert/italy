@@ -127,7 +127,7 @@ def sanitizeInput(text):
 # ##########################################################
 @app.route("/getdb")
 def getdb():
-    return send_file(DATADB, as_attachment=True)
+    return send_file(app.config['DATADB'], as_attachment=True)
 
 # ##########################################################
 # Privacy Notice processing application route
