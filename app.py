@@ -525,18 +525,13 @@ def build_page_metadata(folder_path, contents):
 
     # Read guide file based on current folder name and return HTML content and meta description.
     about_text = "Guide missing! Check back later."
-    logger.info(f"[INFO] folder name: {folder_name}")
-    logger.info(f"[INFO] folder path: {folder_path}")
-    logger.info(f"[INFO] folder full path: {folder_full_path}")
     if folder_path:
        # Extract the last folder name from the path
         last_folder = os.path.basename(folder_path.rstrip('/'))
         guide_filename = f"{last_folder} Guide.txt"
     else:
         guide_filename = f"Guide.txt"
-    logger.info(f"[INFO] guide file: {guide_filename}")
     guide_file_path = os.path.join(folder_full_path, guide_filename)
-    logger.info(f"[INFO] full guide file: {guide_file_path}")
 
     if os.path.exists(guide_file_path):
         about_text = read_text_file(guide_file_path)
@@ -826,6 +821,7 @@ def home():
 
 @app.route('/folder/<path:folderPath>')
 def folder(folderPath):
+    logger.info(f"[INFO] Get Folder: {folderPath}")
     # Setup a folder of images
     contents = getFolderContents(folderPath)
     if contents is None:
@@ -841,6 +837,7 @@ def folder(folderPath):
 # For any content file
 @app.route('/content/<path:filename>')
 def serveContent(filename):
+    logger.info(f"[INFO] Get File: {filename}")
     # Serve files from the content directory
     return send_from_directory(app.config['CONTENT_FOLDER'], filename)
 
@@ -884,6 +881,7 @@ def postComment():
         conn.commit()
         conn.close()
 
+        logger.info(f"[INFO] Comment: {imageName} {author} {comment}")
         return jsonify({'success': True})
     except Exception as e:
         logger.error(f"Error inserting comment: {str(e)}")
