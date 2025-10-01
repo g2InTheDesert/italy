@@ -14,7 +14,19 @@ import os
 import random
 import re
 import sqlite3
+import sys
 import xml.etree.ElementTree as ET
+
+# Configure logging BEFORE anything of substance
+logging.basicConfig(
+    level=logging.DEBUG,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler("italy.log", mode="a"),
+        logging.StreamHandler(sys.stdout)
+    ]
+)
+logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
@@ -49,18 +61,6 @@ limiter = Limiter(
 )
 limiter.init_app(app)
 auth = HTTPBasicAuth()
-
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[
-        logging.FileHandler("italy.log"),
-        logging.StreamHandler()  # still goes to stdout
-    ]
-)
-logger = logging.getLogger(__name__)
 
 # Admin credentials
 users = {'admin': 'password'}  # Change in production
