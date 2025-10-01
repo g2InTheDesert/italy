@@ -52,6 +52,14 @@ auth = HTTPBasicAuth()
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler("italy.log"),
+        logging.StreamHandler()  # still goes to stdout
+    ]
+)
 logger = logging.getLogger(__name__)
 
 # Admin credentials
@@ -128,6 +136,13 @@ def sanitizeInput(text):
 @app.route("/getdb")
 def getdb():
     return send_file(app.config['DATADB'], as_attachment=True)
+
+# ##########################################################
+# Get Logs
+# ##########################################################
+@app.route("/getlogs")
+def getlogs():
+    return send_file("italy.log", as_attachment=True)
 
 # ##########################################################
 # Privacy Notice processing application route
@@ -805,11 +820,22 @@ def getFolderContents(itemRelativePath):
 
     return contents
 
+def getClientIP():
+    xff = request.headers.get("X-Forwarded-For", "")
+    if xff:
+        # XFF can be "client, proxy1, proxy2" — take the left-most entry
+        ip = xff.split(",")[0].strip()
+    else:
+        ip = request.remote_addr
+    return ip
+
 # ##########################################################
 # Path processing application routes
 # ##########################################################
 @app.route('/')
 def home():
+    ip = getClientIP()
+    logger.info(f"[INFO] Root Request From IP: {ip}")
     # Render the home page
     contents = getFolderContents('')
     page_meta = build_page_metadata('', contents)
@@ -849,6 +875,7 @@ def getComments(imageName):
     # Get comments for an image (AJAX endpoint)
     # Decode URL encoding to handle special characters
     imageName = unquote(imageName)
+    logger.info(f"[INFO] Get Comments: {imageName}")
     try:
         conn = getDataDB()
         cur = conn.cursor()
@@ -869,6 +896,7 @@ def postComment():
     # Post a comment for an image (AJAX endpoint)
     try:
         imageName = request.form['imageName']
+        logger.info(f"[INFO] Post Comment: {imageName}")
         author = request.form['author']
         comment = request.form['comment']
 
@@ -955,6 +983,8 @@ def addCommentServer():
 @app.route('/blog')
 @app.route('/blog/<int:page>')
 def blog(page=1):
+    ip = getClientIP()
+    logger.info(f"[INFO] Blog Request From IP: {ip}")
     per_page = postsPerPage
     search_query = request.args.get('search', '').strip()
     category_filter = request.args.get('category', '')
